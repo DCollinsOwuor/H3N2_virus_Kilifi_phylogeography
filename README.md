@@ -8,7 +8,7 @@ Date Published: 30 August 2020
 
 ## Introduction
 
-This repository contains all data and software for the phylogeographical analysis of **influenza A H3N2 virus from Kilifi, Kenya, 2015-2016.**
+This repository contains data and input files for the phylogeographical analysis of **influenza A H3N2 virus from Kilifi, Kenya, 2015-2016.**
 
 ## General instructions
 
