@@ -22,7 +22,7 @@ including:
 * the multiple sequence alignment file in fasta format for global genomes from GISAID in **H3N2_global_genomes_2014-2016**;
 * the output of the maximum-likelihood phylogenetic trees (ultrafast bootstrap) in H1N1pdm09_Kenya_and_global_genomes_ML_trees;
 * the result of the ancestral state reconstruction (mugration model) in H3N2_Kilifi_and_global_ancestral_state_reconstruction;   
-* the xml file used for the phylogeographic analysis with BEAST stating all parameters in H3N2_Kilifi_phylogeography;
+* the xml file used for the phylogeographic analysis with BEAST stating all model parameters in **H3N2_Kilifi_phylogeography**;
 * the edited trees file from BEAST analysis for BaTS analysis in **H3N2_Kilifi_BaTS**.
 
 ##	Figures
