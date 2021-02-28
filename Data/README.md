@@ -2,9 +2,9 @@
 This folder contains input and result files for the phylogenetic and phylogeographical
 analyses.
 
-## H3N2_Kilifi_and_global_genomes_2014-2016 
+## H3N2_global_genomes_2014-2016 
 
-* H3N2_global_genomes_2014-16.fasta.zip: Global genomes downloaded from GISAID.
+* H3N2_global_genomes_2014-2016.fasta.zip: Global genomes downloaded from GISAID.
 	
 ## H3N2_Kilifi_and_global_ML_trees
 
