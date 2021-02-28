@@ -20,10 +20,9 @@ analyses.
 
 ## H3N2_Kilifi_phylogeography
 
-* H3N2_Kilifi_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M.xml: BEAST xml file used for the phylogeographical analysis.
-* H3N2_Kilifi_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_MCC.tre: maximum clade credibility tree of Kilifi sequences.
+* H3N2_KHDSS_WGS_2015-2016_GTRGI_UncorrRelax_LogNorm_BaySkyGrid_BSSVS_400M.xml: BEAST xml file used for the phylogeographical analysis.
 * Kilifi_coordinates.txt: Location coordinates for Kilifi health facilities.  
-* Kilifi.geojson: Kilfif geojson file phylogeographical analysis. 
+* Kilifi.geojson: Kilifi geojson file phylogeographical analysis. 
 	
 ## H3N2_Kilifi_BaTS
 * H3N2_Kilifi_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_bats_locations.trees: Modified BEAST trees file for location BaTS analysis.
