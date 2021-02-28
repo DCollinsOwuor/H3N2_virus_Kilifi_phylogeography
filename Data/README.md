@@ -17,10 +17,6 @@ analyses.
 * 2_H3N2_Kilifi_and_global_WGS_2014-16_TreeTime.nexus: TreeTime maximum-likelihood nexus phylogenetic tree of Kilifi and global genomes from TreeTime.  
 * 3_H3N2_Kilifi_and_global_WGS_2014-16_TreeTime.nwk: TreeTime maximum-likelihood newick phylogenetic tree of Kilifi and global genomes from TreeTime.
 * 4_H3N2_KHDSS_and_global_WGS_2014-16_Mugration.nexus: maximum-likelihood nexus phylogenetic tree of Kilifi and global genomes from ancestral state reconstruction (mugration) analysis.
-	
-## H3N2_Kilifi_tanglegrams
-
-* auspice: Kilifi H3N2 virus gene segment meta.json and tree.json files for tanglegram phylogenetic analyses.
 
 ## H3N2_Kilifi_phylogeography
 
