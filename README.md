@@ -16,7 +16,7 @@ The data and instructions will allow replication of the results shown in this wo
 
 ## Data
 
-This folder contains data and input files for all steps of the phylogenetic and phylogeographical analyses,
+This folder contains data and input files for phylogenetic and phylogeographical analyses,
 including:
 
 * the multiple sequence alignment fasta file with Kilifi and global genomes from GISAID in H3N2_Kilifi_and_global_genomes_2014-2016;
