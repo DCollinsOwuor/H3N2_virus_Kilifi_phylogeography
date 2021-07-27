@@ -16,7 +16,7 @@ This repository contains data and input files for the phylogeographical analysis
 ## General instructions
 
 The data and instructions will allow replication of the results in my PhD thesis available
-at http://oro.open.ac.uk/75472/; Chapter 3 - Phylogeography of Influenza A(H3N2) Virus In
+at http://oro.open.ac.uk/75472/; Chapter 3 - Phylogeography of Influenza A(H3N2) Virus in
 Kilifi, Kenya, 2015-2016.
 
 
