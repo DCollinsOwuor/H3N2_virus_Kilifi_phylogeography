@@ -1,5 +1,5 @@
 
-# This folder contains input and result files for the phylogenetic and phylogeographical analyses.
+# This folder contains input and result files for the phylogenetic and phylogeographical analyses of Kilifi virus sequence data.
 
 ## 	1_H3N2_Kilifi_and_global_genomes_2014-2016 
 
