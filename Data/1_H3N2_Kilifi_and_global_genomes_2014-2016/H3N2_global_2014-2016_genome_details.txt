@@ -1,0 +1,1569 @@
+strain	accession	continent	country
+A/Anjeva/1747/2016	EPI_ISL_233001	Africa	 Madagascar
+A/Antananarivo/1067/2016	EPI_ISL_281573	Africa	 Madagascar
+A/Antananarivo/1073/2016	EPI_ISL_230304	Africa	 Madagascar
+A/Antananarivo/1158/2016	EPI_ISL_230305	Africa	 Madagascar
+A/Antananarivo/1743/2016	EPI_ISL_232984	Africa	 Madagascar
+A/Antananarivo/1951/2016	EPI_ISL_230307	Africa	 Madagascar
+A/Antananarivo/1987/2016	EPI_ISL_230308	Africa	 Madagascar
+A/Antsirabe/3541/2016	EPI_ISL_239160	Africa	 Madagascar
+A/Antsirabe/3821/2016	EPI_ISL_239161	Africa	 Madagascar
+A/Antsirabe/3857/2015	EPI_ISL_206244	Africa	 Madagascar
+A/Burkina Faso/138/2015	EPI_ISL_220282	Africa	 Burkina Faso
+A/Burkina Faso/1630/2015	EPI_ISL_215614	Africa	 Burkina Faso
+A/Burkina Faso/1632/2015	EPI_ISL_215615	Africa	 Burkina Faso
+A/Burkina Faso/1633/2015	EPI_ISL_215616	Africa	 Burkina Faso
+A/Burkina Faso/611/2015	EPI_ISL_215617	Africa	 Burkina Faso
+A/Burkina Faso/613/2015	EPI_ISL_215618	Africa	 Burkina Faso
+A/Burkina Faso/620/2015	EPI_ISL_215770	Africa	 Burkina Faso
+A/Burkina Faso/640/2015	EPI_ISL_220283	Africa	 Burkina Faso
+A/Burkina Faso/76/2015	EPI_ISL_213975	Africa	 Burkina Faso
+A/Burkina Faso/87/2015	EPI_ISL_213976	Africa	 Burkina Faso
+A/Burkina Faso/92/2015	EPI_ISL_215619	Africa	 Burkina Faso
+A/Congo/0560/2016	EPI_ISL_235088	Africa	Congo
+A/Congo/0938/2016	EPI_ISL_235089	Africa	Congo
+A/Congo/0939/2016	EPI_ISL_235090	Africa	Congo
+A/Congo/0941/2016	EPI_ISL_235091	Africa	Congo
+A/Congo/0947/2016	EPI_ISL_235092	Africa	Congo
+A/Congo/1137/2016	EPI_ISL_235093	Africa	Congo
+A/Congo/2458/2014	EPI_ISL_175211	Africa	Congo
+A/Congo/2461/2014	EPI_ISL_175217	Africa	Congo
+A/Congo/2471/2014	EPI_ISL_175210	Africa	Congo
+A/Congo/2495/2014	EPI_ISL_189842	Africa	Congo
+A/Congo/2526/2014	EPI_ISL_191693	Africa	Congo
+A/Congo/2538/2014	EPI_ISL_176513	Africa	Congo
+A/Congo/2544/2014	EPI_ISL_176515	Africa	Congo
+A/Congo/2557/2014	EPI_ISL_176548	Africa	Congo
+A/Congo/2586/2014	EPI_ISL_191708	Africa	Congo
+A/Congo/2588/2014	EPI_ISL_191672	Africa	Congo
+A/Congo/2603/2014	EPI_ISL_191694	Africa	Congo
+A/Congo/2611/2014	EPI_ISL_176547	Africa	Congo
+A/Cote D'Ivoire/1613/2015	EPI_ISL_215628	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1616/2015	EPI_ISL_215629	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1617/2015	EPI_ISL_215630	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1638/2015	EPI_ISL_215631	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1672/2015	EPI_ISL_213977	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1916/2015	EPI_ISL_213978	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1918/2015	EPI_ISL_215632	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/1998/2015	EPI_ISL_215633	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/2045/2015	EPI_ISL_213979	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/2064/2015	EPI_ISL_215634	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/2109/2015	EPI_ISL_215635	Africa	 Cote d'Ivoire
+A/Cote D'Ivoire/2110/2015	EPI_ISL_215636	Africa	 Cote d'Ivoire
+A/Ethiopia/1140/2014	EPI_ISL_172733	Africa	 Ethiopia
+A/Ethiopia/1141/2014	EPI_ISL_171352	Africa	 Ethiopia
+A/Ethiopia/1146/2014	EPI_ISL_172532	Africa	 Ethiopia
+A/Ethiopia/1147/2014	EPI_ISL_172592	Africa	 Ethiopia
+A/Ethiopia/1153/2014	EPI_ISL_171380	Africa	 Ethiopia
+A/Ethiopia/1159/2014	EPI_ISL_172808	Africa	 Ethiopia
+A/Ethiopia/155/2014	EPI_ISL_172531	Africa	 Ethiopia
+A/Ethiopia/159/2014	EPI_ISL_172779	Africa	 Ethiopia
+A/Ethiopia/1797/2016	EPI_ISL_215779	Africa	 Ethiopia
+A/Ethiopia/1978/2016	EPI_ISL_230375	Africa	 Ethiopia
+A/Ethiopia/546/2014	EPI_ISL_171378	Africa	 Ethiopia
+A/Kenya/114/2016	EPI_ISL_249955	Africa	 Kenya
+A/Kenya/122/2014	EPI_ISL_171394	Africa	 Kenya
+A/Kenya/123/2014	EPI_ISL_171381	Africa	 Kenya
+A/Kenya/124/2014	EPI_ISL_171375	Africa	 Kenya
+A/Kenya/125/2014	EPI_ISL_171376	Africa	 Kenya
+A/Kenya/126/2014	EPI_ISL_171359	Africa	 Kenya
+A/Kenya/127/2014	EPI_ISL_171399	Africa	 Kenya
+A/Kenya/128/2014	EPI_ISL_171377	Africa	 Kenya
+A/Mali/011 MOP/2015	EPI_ISL_211908	Africa	 Mali
+A/Mali/013 MOP/2015	EPI_ISL_211909	Africa	 Mali
+A/Mali/015 MOP/2015	EPI_ISL_211910	Africa	 Mali
+A/Mali/016 MOP/2015	EPI_ISL_211911	Africa	 Mali
+A/Mali/019 HGT/2015	EPI_ISL_211687	Africa	 Mali
+A/Mali/021 SIK/2015	EPI_ISL_206181	Africa	 Mali
+A/Mali/022 HGT/2015	EPI_ISL_212999	Africa	 Mali
+A/Mali/061 CS/2015	EPI_ISL_211690	Africa	 Mali
+A/Mali/067 CS/2015	EPI_ISL_211691	Africa	 Mali
+A/Mali/094 CH/2015	EPI_ISL_213000	Africa	 Mali
+A/Mali/101 CH/2015	EPI_ISL_224270	Africa	 Mali
+A/Mali/102 CH/2015	EPI_ISL_211688	Africa	 Mali
+A/Mali/102 CS/2015	EPI_ISL_206180	Africa	 Mali
+A/Mali/105 CH/2015	EPI_ISL_211681	Africa	 Mali
+A/Mali/106 CS/2015	EPI_ISL_206190	Africa	 Mali
+A/Mali/107 CI/2015	EPI_ISL_206168	Africa	 Mali
+A/Mali/107 CS/2015	EPI_ISL_206191	Africa	 Mali
+A/Mali/108 CI/2015	EPI_ISL_213001	Africa	 Mali
+A/Mali/108 CS/2015	EPI_ISL_206192	Africa	 Mali
+A/Mali/109 CH/2015	EPI_ISL_211693	Africa	 Mali
+A/Mali/109 CS/2015	EPI_ISL_206193	Africa	 Mali
+A/Mali/110 CH/2015	EPI_ISL_211685	Africa	 Mali
+A/Mali/112 CH/2015	EPI_ISL_213002	Africa	 Mali
+A/Mali/115 CI/2015	EPI_ISL_213003	Africa	 Mali
+A/Mali/117 CH/2015	EPI_ISL_211912	Africa	 Mali
+A/Mali/117 CI/2015	EPI_ISL_206170	Africa	 Mali
+A/Mali/117 CS/2015	EPI_ISL_206203	Africa	 Mali
+A/Mali/119 CS/2015	EPI_ISL_206208	Africa	 Mali
+A/Mali/120 CS/2015	EPI_ISL_207457	Africa	 Mali
+A/Mali/122 CI/2015	EPI_ISL_212366	Africa	 Mali
+A/Mali/125 CI/2015	EPI_ISL_213004	Africa	 Mali
+A/Mali/128 CI/2015	EPI_ISL_206172	Africa	 Mali
+A/Mali/13 HOP/2015	EPI_ISL_206198	Africa	 Mali
+A/Mali/130 CI/2015	EPI_ISL_211686	Africa	 Mali
+A/Mali/136 CI/2015	EPI_ISL_211694	Africa	 Mali
+A/Mali/141 CI/2015	EPI_ISL_211684	Africa	 Mali
+A/Mali/153 CI/2015	EPI_ISL_213005	Africa	 Mali
+A/Mali/174 CI/2015	EPI_ISL_211913	Africa	 Mali
+A/Mali/179 CH/2015	EPI_ISL_206174	Africa	 Mali
+A/Mali/182 CH/2015	EPI_ISL_206177	Africa	 Mali
+A/Mali/186 CH/2015	EPI_ISL_206178	Africa	 Mali
+A/Mali/187 CIV/2015	EPI_ISL_206179	Africa	 Mali
+A/Mali/193 CI/2015	EPI_ISL_206176	Africa	 Mali
+A/Mali/198 CH/2015	EPI_ISL_206197	Africa	 Mali
+A/Mali/202 CH/2015	EPI_ISL_207434	Africa	 Mali
+A/Mali/205 CI/2015	EPI_ISL_206183	Africa	 Mali
+A/Mali/206 CI/2015	EPI_ISL_206184	Africa	 Mali
+A/Mali/208 CI/2015	EPI_ISL_206185	Africa	 Mali
+A/Mali/209 CH/2015	EPI_ISL_206206	Africa	 Mali
+A/Mali/210 CI/2015	EPI_ISL_206186	Africa	 Mali
+A/Mali/214 CI/2015	EPI_ISL_206189	Africa	 Mali
+A/Mali/215 CH/2015	EPI_ISL_206211	Africa	 Mali
+A/Mali/215 CI/2015	EPI_ISL_206194	Africa	 Mali
+A/Mali/217 CI/2015	EPI_ISL_206195	Africa	 Mali
+A/Mali/218 CI/2015	EPI_ISL_206196	Africa	 Mali
+A/Mali/219 CH/2015	EPI_ISL_206216	Africa	 Mali
+A/Mali/22 SIK/2015	EPI_ISL_206182	Africa	 Mali
+A/Mali/229 CI/2015	EPI_ISL_207422	Africa	 Mali
+A/Mali/230 CI/2015	EPI_ISL_206200	Africa	 Mali
+A/Mali/231 CI/2015	EPI_ISL_206201	Africa	 Mali
+A/Mali/234 CI/2015	EPI_ISL_207395	Africa	 Mali
+A/Mali/236 CI/2015	EPI_ISL_206204	Africa	 Mali
+A/Mali/237 CI/2015	EPI_ISL_207455	Africa	 Mali
+A/Mali/238 CI/2015	EPI_ISL_207394	Africa	 Mali
+A/Mali/241 CI/2015	EPI_ISL_206207	Africa	 Mali
+A/Mali/244 CI/2015	EPI_ISL_206210	Africa	 Mali
+A/Mali/247 CI/2015	EPI_ISL_206214	Africa	 Mali
+A/Mali/29 MOP/2015	EPI_ISL_206173	Africa	 Mali
+A/Mali/30 HOP/2015	EPI_ISL_206213	Africa	 Mali
+A/Mali/30 SIK/2015	EPI_ISL_206199	Africa	 Mali
+A/Mali/45 CS/2015	EPI_ISL_206167	Africa	 Mali
+A/Mali/49 CS/2015	EPI_ISL_206169	Africa	 Mali
+A/Mali/56 CS/2015	EPI_ISL_206171	Africa	 Mali
+A/Mali/61 CH/2015	EPI_ISL_206166	Africa	 Mali
+A/Mali/81 CH/2015	EPI_ISL_225102	Africa	 Mali
+A/Mali/90 CS/2015	EPI_ISL_206175	Africa	 Mali
+A/Mayotte/2093/2016	EPI_ISL_331761	Africa	 Mayotte
+A/Moramanga/1942/2016	EPI_ISL_230306	Africa	 Madagascar
+A/Mozambique/207/2016	EPI_ISL_237366	Africa	 Mozambique
+A/Mozambique/415/2016	EPI_ISL_237367	Africa	 Mozambique
+A/MUWRP-Uganda/566/2015	EPI_ISL_381588	Africa	 Uganda
+A/MUWRP-Uganda/579/2016	EPI_ISL_381584	Africa	 Uganda
+A/MUWRP-Uganda/580/2016	EPI_ISL_381598	Africa	 Uganda
+A/Nigeria/120/2014	EPI_ISL_192158	Africa	 Nigeria
+A/Nigeria/235/2015	EPI_ISL_207025	Africa	 Nigeria
+A/Nigeria/253/2015	EPI_ISL_203567	Africa	 Nigeria
+A/Nigeria/299/2015	EPI_ISL_203587	Africa	 Nigeria
+A/Nigeria/300/2015	EPI_ISL_203588	Africa	 Nigeria
+A/Nigeria/357/2015	EPI_ISL_211919	Africa	 Nigeria
+A/Nigeria/71/2014	EPI_ISL_192189	Africa	 Nigeria
+A/Nigeria/928/2014	EPI_ISL_192190	Africa	 Nigeria
+A/Nigeria/942/2014	EPI_ISL_192157	Africa	 Nigeria
+A/Nosy Be/1060/2016	EPI_ISL_230302	Africa	 Madagascar
+A/Reunion/2032/2016	EPI_ISL_331764	Africa	 Reunion
+A/Reunion/2037/2016	EPI_ISL_331766	Africa	 Reunion
+A/Reunion/2038/2016	EPI_ISL_331767	Africa	 Reunion
+A/Reunion/2120/2016	EPI_ISL_331768	Africa	 Reunion
+A/Reunion/2122/2016	EPI_ISL_331769	Africa	 Reunion
+A/Rwanda/526/2016	EPI_ISL_232538	Africa	 Rwanda
+A/Rwanda/535/2016	EPI_ISL_232563	Africa	 Rwanda
+A/Rwanda/572/2016	EPI_ISL_235537	Africa	 Rwanda
+A/Rwanda/577/2016	EPI_ISL_237337	Africa	 Rwanda
+A/Rwanda/600/2016	EPI_ISL_232093	Africa	 Rwanda
+A/Rwanda/635/2016	EPI_ISL_232564	Africa	 Rwanda
+A/Rwanda/664/2016	EPI_ISL_232094	Africa	 Rwanda
+A/Rwanda/665/2016	EPI_ISL_232095	Africa	 Rwanda
+A/Rwanda/675/2016	EPI_ISL_232096	Africa	 Rwanda
+A/Rwanda/685/2016	EPI_ISL_232079	Africa	 Rwanda
+A/South Africa/2843/2016	EPI_ISL_230295	Africa	 South Africa
+A/South Africa/3285/2016	EPI_ISL_230296	Africa	 South Africa
+A/South Africa/3437/2016	EPI_ISL_230297	Africa	 South Africa
+A/South Africa/3680/2016	EPI_ISL_230298	Africa	 South Africa
+A/South Africa/3731/2016	EPI_ISL_232562	Africa	 South Africa
+A/South Africa/3743/2016	EPI_ISL_230301	Africa	 South Africa
+A/South Africa/3776/2016	EPI_ISL_230299	Africa	 South Africa
+A/South Africa/3892/2016	EPI_ISL_233726	Africa	 South Africa
+A/South Africa/3913/2015	EPI_ISL_211679	Africa	 South Africa
+A/South Africa/3913/2016	EPI_ISL_230300	Africa	 South Africa
+A/South Africa/3915/2015	EPI_ISL_211682	Africa	 South Africa
+A/South Africa/3984/2015	EPI_ISL_212370	Africa	 South Africa
+A/South Africa/4033/2015	EPI_ISL_211683	Africa	 South Africa
+A/South Africa/4069/2016	EPI_ISL_232540	Africa	 South Africa
+A/South Africa/4120/2015	EPI_ISL_212371	Africa	 South Africa
+A/South Africa/4146/2016	EPI_ISL_232541	Africa	 South Africa
+A/South Africa/4244/2015	EPI_ISL_213019	Africa	 South Africa
+A/South Africa/4283/2015	EPI_ISL_213020	Africa	 South Africa
+A/South Africa/4363/2016	EPI_ISL_232555	Africa	 South Africa
+A/South Africa/4438/2015	EPI_ISL_211705	Africa	 South Africa
+A/South Africa/4639/2016	EPI_ISL_232543	Africa	 South Africa
+A/South Africa/4940/2015	EPI_ISL_205282	Africa	 South Africa
+A/South Africa/4940/2016	EPI_ISL_232991	Africa	 South Africa
+A/South Africa/4989/2016	EPI_ISL_232545	Africa	 South Africa
+A/South Africa/4990/2016	EPI_ISL_232546	Africa	 South Africa
+A/South Africa/4993/2016	EPI_ISL_232547	Africa	 South Africa
+A/South Africa/5000/2016	EPI_ISL_237476	Africa	 South Africa
+A/South Africa/5002/2016	EPI_ISL_237477	Africa	 South Africa
+A/South Africa/5008/2016	EPI_ISL_237478	Africa	 South Africa
+A/South Africa/5034/2016	EPI_ISL_237479	Africa	 South Africa
+A/South Africa/5035/2016	EPI_ISL_237480	Africa	 South Africa
+A/South Africa/5231/2016	EPI_ISL_237481	Africa	 South Africa
+A/South Africa/5232/2016	EPI_ISL_237482	Africa	 South Africa
+A/South Africa/5233/2016	EPI_ISL_237483	Africa	 South Africa
+A/South Africa/5390/2015	EPI_ISL_205284	Africa	 South Africa
+A/South Africa/6018/2015	EPI_ISL_206111	Africa	 South Africa
+A/South Africa/6131/2015	EPI_ISL_205283	Africa	 South Africa
+A/South Africa/6270/2015	EPI_ISL_205281	Africa	 South Africa
+A/Tanzania/1906/2014	EPI_ISL_172814	Africa	 Tanzania
+A/Tanzania/2105/2015	EPI_ISL_212061	Africa	 Tanzania
+A/Tanzania/2158/2016	EPI_ISL_230366	Africa	 Tanzania
+A/Tanzania/2173/2016	EPI_ISL_235075	Africa	 Tanzania
+A/Tanzania/2182/2016	EPI_ISL_235077	Africa	 Tanzania
+A/Tanzania/2198/2016	EPI_ISL_230367	Africa	 Tanzania
+A/Tanzania/2218/2016	EPI_ISL_232108	Africa	 Tanzania
+A/Tanzania/2220/2016	EPI_ISL_230368	Africa	 Tanzania
+A/Tanzania/2223/2016	EPI_ISL_230369	Africa	 Tanzania
+A/Tanzania/2228/2016	EPI_ISL_230370	Africa	 Tanzania
+A/Tanzania/2230/2016	EPI_ISL_232098	Africa	 Tanzania
+A/Tanzania/2231/2016	EPI_ISL_230371	Africa	 Tanzania
+A/Tanzania/2239/2016	EPI_ISL_230372	Africa	 Tanzania
+A/Tanzania/2240/2016	EPI_ISL_230373	Africa	 Tanzania
+A/Tanzania/2665/2014	EPI_ISL_172784	Africa	 Tanzania
+A/Tanzania/2915/2016	EPI_ISL_232092	Africa	 Tanzania
+A/Tanzania/2943/2016	EPI_ISL_235073	Africa	 Tanzania
+A/Tanzania/3552/2014	EPI_ISL_172781	Africa	 Tanzania
+A/Tanzania/3555/2014	EPI_ISL_172796	Africa	 Tanzania
+A/Tanzania/3556/2014	EPI_ISL_172800	Africa	 Tanzania
+A/Tanzania/3557/2014	EPI_ISL_172752	Africa	 Tanzania
+A/Tanzania/3559/2014	EPI_ISL_172802	Africa	 Tanzania
+A/Tanzania/3560/2014	EPI_ISL_174137	Africa	 Tanzania
+A/Tanzania/3561/2014	EPI_ISL_172797	Africa	 Tanzania
+A/Tanzania/3562/2014	EPI_ISL_172750	Africa	 Tanzania
+A/Tanzania/3563/2014	EPI_ISL_174124	Africa	 Tanzania
+A/Tanzania/3565/2014	EPI_ISL_174125	Africa	 Tanzania
+A/Tanzania/3576/2014	EPI_ISL_174126	Africa	 Tanzania
+A/Tanzania/3577/2014	EPI_ISL_174127	Africa	 Tanzania
+A/Tanzania/3580/2014	EPI_ISL_172737	Africa	 Tanzania
+A/Tanzania/3588/2014	EPI_ISL_172787	Africa	 Tanzania
+A/Tanzania/3589/2014	EPI_ISL_172789	Africa	 Tanzania
+A/Tanzania/3591/2014	EPI_ISL_175205	Africa	 Tanzania
+A/Tanzania/3594/2014	EPI_ISL_172811	Africa	 Tanzania
+A/Tanzania/3595/2014	EPI_ISL_175202	Africa	 Tanzania
+A/Tanzania/533/2014	EPI_ISL_174120	Africa	 Tanzania
+A/Tanzania/542/2014	EPI_ISL_172759	Africa	 Tanzania
+A/Tanzania/553/2014	EPI_ISL_172803	Africa	 Tanzania
+A/Tanzania/554/2014	EPI_ISL_174121	Africa	 Tanzania
+A/Tanzania/562/2014	EPI_ISL_172755	Africa	 Tanzania
+A/Tanzania/587/2014	EPI_ISL_188871	Africa	 Tanzania
+A/Tanzania/588/2014	EPI_ISL_172785	Africa	 Tanzania
+A/Tanzania/590/2014	EPI_ISL_172776	Africa	 Tanzania
+A/Tanzania/594/2014	EPI_ISL_172773	Africa	 Tanzania
+A/Tanzania/596/2014	EPI_ISL_172774	Africa	 Tanzania
+A/Tanzania/597/2014	EPI_ISL_172799	Africa	 Tanzania
+A/Tanzania/599/2014	EPI_ISL_172777	Africa	 Tanzania
+A/Tanzania/609/2014	EPI_ISL_172788	Africa	 Tanzania
+A/Tanzania/613/2014	EPI_ISL_175197	Africa	 Tanzania
+A/Tanzania/670/2015	EPI_ISL_211931	Africa	 Tanzania
+A/Tanzania/673/2016	EPI_ISL_230364	Africa	 Tanzania
+A/Tanzania/698/2016	EPI_ISL_230365	Africa	 Tanzania
+A/Uganda/0146/2016	EPI_ISL_225057	Africa	 Uganda
+A/Uganda/0182/2016	EPI_ISL_235104	Africa	 Uganda
+A/Uganda/1590/2014	EPI_ISL_177540	Africa	 Uganda
+A/Uganda/1610/2016	EPI_ISL_226798	Africa	 Uganda
+A/Uganda/2447/2016	EPI_ISL_255342	Africa	 Uganda
+A/Uganda/274/2016	EPI_ISL_225058	Africa	 Uganda
+A/Uganda/4829/2016	EPI_ISL_225065	Africa	 Uganda
+A/Uganda/5535/2016	EPI_ISL_235101	Africa	 Uganda
+A/Uganda/583/2014	EPI_ISL_177536	Africa	 Uganda
+A/Zambia/0001/2015	EPI_ISL_220273	Africa	 Zambia
+A/Zambia/0002/2015	EPI_ISL_220274	Africa	 Zambia
+A/Zambia/0008/2015	EPI_ISL_220272	Africa	 Zambia
+A/Zambia/0102/2015	EPI_ISL_220275	Africa	 Zambia
+A/Afghanistan/4932/2016	EPI_ISL_255318	Asia 	 Afghanistan
+A/Afghanistan/4959/2016	EPI_ISL_259140	Asia 	 Afghanistan
+A/Bangladesh/10009/2014	EPI_ISL_168105	Asia 	 Bangladesh
+A/Bangladesh/1002002/2015	EPI_ISL_212959	Asia 	 Bangladesh
+A/Bangladesh/1005001/2015	EPI_ISL_219104	Asia 	 Bangladesh
+A/Bangladesh/1010002/2015	EPI_ISL_219110	Asia 	 Bangladesh
+A/Bangladesh/2015/2016	EPI_ISL_235533	Asia 	 Bangladesh
+A/Bangladesh/202004/2015	EPI_ISL_219133	Asia 	 Bangladesh
+A/Bangladesh/2170/2015	EPI_ISL_208631	Asia 	 Bangladesh
+A/Bangladesh/22014/2015	EPI_ISL_202076	Asia 	 Bangladesh
+A/Bangladesh/222/2016	EPI_ISL_242688	Asia 	 Bangladesh
+A/Bangladesh/3014/2015	EPI_ISL_201266	Asia 	 Bangladesh
+A/Bangladesh/3075/2016	EPI_ISL_233472	Asia 	 Bangladesh
+A/Bangladesh/429/2016	EPI_ISL_239163	Asia 	 Bangladesh
+A/Bangladesh/5010/2016	EPI_ISL_238625	Asia 	 Bangladesh
+A/Bangladesh/5968/2015	EPI_ISL_202074	Asia 	 Bangladesh
+A/Bangladesh/7006/2015	EPI_ISL_201265	Asia 	 Bangladesh
+A/Bangladesh/708004/2016	EPI_ISL_238609	Asia 	 Bangladesh
+A/Bangladesh/711004/2016	EPI_ISL_234989	Asia 	 Bangladesh
+A/Bangladesh/903006/2015	EPI_ISL_211677	Asia 	 Bangladesh
+A/Bangladesh/905004/2015	EPI_ISL_208579	Asia 	 Bangladesh
+A/Bangladesh/914004/2015	EPI_ISL_219096	Asia 	 Bangladesh
+A/Bangladesh/914006/2015	EPI_ISL_219097	Asia 	 Bangladesh
+A/Bangladesh/914007/2015	EPI_ISL_219102	Asia 	 Bangladesh
+A/Busan/1996/2014	EPI_ISL_171372	Asia 	Korea
+A/Cambodia/0840/2015	EPI_ISL_212141	Asia 	 Cambodia
+A/Cambodia/0869/2015	EPI_ISL_212363	Asia 	 Cambodia
+A/Cambodia/0887/2015	EPI_ISL_212364	Asia 	 Cambodia
+A/Cambodia/0911/2015	EPI_ISL_208636	Asia 	 Cambodia
+A/Cambodia/0924/2015	EPI_ISL_208624	Asia 	 Cambodia
+A/Cambodia/0942/2015	EPI_ISL_212146	Asia 	 Cambodia
+A/Cambodia/1201/2015	EPI_ISL_215250	Asia 	 Cambodia
+A/Cambodia/1370/2014	EPI_ISL_175194	Asia 	 Cambodia
+A/Cambodia/1372/2014	EPI_ISL_175195	Asia 	 Cambodia
+A/CAMBODIA/FSS28237/2014	EPI_ISL_168891	Asia 	 Cambodia
+A/Chanthaburi/594/2015	EPI_ISL_219116	Asia 	 Thailand
+A/CHIBA-C/86/2016	EPI_ISL_224689	Asia 	 Japan
+A/China/51340/2014	EPI_ISL_393367	Asia 	 China
+A/China/55312/2014	EPI_ISL_393369	Asia 	 China
+A/China/59882/2014	EPI_ISL_393372	Asia 	 China
+A/China/60134/2014	EPI_ISL_393374	Asia 	 China
+A/China/61001/2014	EPI_ISL_393395	Asia 	 China
+A/China/61461/2014	EPI_ISL_393400	Asia 	 China
+A/China/61559/2014	EPI_ISL_393402	Asia 	 China
+A/China/62885/2015	EPI_ISL_393406	Asia 	 China
+A/China/70219/2015	EPI_ISL_393415	Asia 	 China
+A/China/71517/2016	EPI_ISL_393417	Asia 	 China
+A/China/79880/2016	EPI_ISL_393423	Asia 	 China
+A/China/80241/2016	EPI_ISL_393422	Asia 	 China
+A/China/J7503/2014	EPI_ISL_393376	Asia 	 China
+A/China/J7506/2014	EPI_ISL_393380	Asia 	 China
+A/EHIME/20/2016	EPI_ISL_218457	Asia 	 Japan
+A/FUKUI/48/2016	EPI_ISL_224227	Asia 	 Japan
+A/FUKUSHIMA/74/2016	EPI_ISL_222747	Asia 	 Japan
+A/Gangwon/1602/2015	EPI_ISL_212983	Asia 	Korea
+A/Georgia/NCDC1045/2016	EPI_ISL_232106	Asia 	 Georgia
+A/GIFU/32/2016	EPI_ISL_240544	Asia 	 Japan
+A/Gunma/14G002/2015	EPI_ISL_176322	Asia 	 Japan 
+A/Hokkaido/06/2015	EPI_ISL_197544	Asia 	 Japan
+A/Hong Kong/15607/2015	EPI_ISL_203411	Asia 	 Hong Kong (SAR)
+A/Hong Kong/1704/2016	EPI_ISL_230309	Asia 	 Hong Kong (SAR)
+A/Hong Kong/2398/2016	EPI_ISL_234045	Asia 	 Hong Kong (SAR)
+A/Hong Kong/39/2016	EPI_ISL_213986	Asia 	 Hong Kong (SAR)
+A/Hong Kong/40/2016	EPI_ISL_219135	Asia 	 Hong Kong (SAR)
+A/Hong Kong/4801/2014	EPI_ISL_233740	Asia 	 Hong Kong (SAR)
+A/HYOGO/3213/2015	EPI_ISL_177425	Asia 	 Japan
+A/Hyogo/4001/2014	EPI_ISL_197565	Asia 	 Japan
+A/Jordan/30024/2015	EPI_ISL_195881	Asia 	 Jordan
+A/KANAGAWA/AC1601/2016	EPI_ISL_238898	Asia 	 Japan
+A/KANAGAWA/AC1603/2016	EPI_ISL_239614	Asia 	 Japan
+A/KANAGAWA/AC1606/2016	EPI_ISL_239620	Asia 	 Japan
+A/KANAGAWA/AC1607/2016	EPI_ISL_239621	Asia 	 Japan
+A/KANAGAWA/AC1614/2016	EPI_ISL_252769	Asia 	 Japan
+A/KANAGAWA/AC21/2016	EPI_ISL_218460	Asia 	 Japan
+A/KANAGAWA/IC1604/2016	EPI_ISL_252771	Asia 	 Japan
+A/Kazakhstan/008/2016	EPI_ISL_258286	Asia 	 Kazakhstan
+A/Kazakhstan/10/2015	EPI_ISL_206129	Asia 	 Kazakhstan
+A/Kazakhstan/1080/2015	EPI_ISL_192710	Asia 	 Kazakhstan
+A/Kazakhstan/15/2014	EPI_ISL_175231	Asia 	 Kazakhstan
+A/Kazakhstan/158/2015	EPI_ISL_189848	Asia 	 Kazakhstan
+A/Kazakhstan/159/2015	EPI_ISL_189841	Asia 	 Kazakhstan
+A/Kazakhstan/194/2014	EPI_ISL_191030	Asia 	 Kazakhstan
+A/Kazakhstan/22/2015	EPI_ISL_175232	Asia 	 Kazakhstan
+A/Kazakhstan/276/2016	EPI_ISL_224024	Asia 	 Kazakhstan
+A/Kazakhstan/352/2015	EPI_ISL_192175	Asia 	 Kazakhstan
+A/Kazakhstan/38/2015	EPI_ISL_176520	Asia 	 Kazakhstan
+A/Kazakhstan/44/2015	EPI_ISL_206130	Asia 	 Kazakhstan
+A/Kazakhstan/49/2015	EPI_ISL_175250	Asia 	 Kazakhstan
+A/Kazakhstan/6690/2016	EPI_ISL_270199	Asia 	 Kazakhstan
+A/Kazakhstan/951/2015	EPI_ISL_176517	Asia 	 Kazakhstan
+A/Keelung/0023/2016	EPI_ISL_253770	Asia 	 Taiwan
+A/KOCHI/15/2015	EPI_ISL_178090	Asia 	 Japan
+A/KUMAMOTO/32/2015	EPI_ISL_210371	Asia 	 Japan
+A/Kyoto/13K054/2014	EPI_ISL_176990	Asia 	 Japan
+A/Laos/052/2015	EPI_ISL_194170	Asia 	Lao
+A/Laos/1047/2015	EPI_ISL_215783	Asia 	Lao
+A/Laos/218/2015	EPI_ISL_200691	Asia 	Lao
+A/Laos/3158/2016	EPI_ISL_240146	Asia 	Lao
+A/Laos/3286/2016	EPI_ISL_244846	Asia 	Lao
+A/Laos/406/2015	EPI_ISL_215785	Asia 	Lao
+A/Laos/439/2015	EPI_ISL_215786	Asia 	Lao
+A/Laos/448/2015	EPI_ISL_215787	Asia 	Lao
+A/Laos/529/2015	EPI_ISL_200694	Asia 	Lao
+A/Laos/535/2015	EPI_ISL_200695	Asia 	Lao
+A/Laos/898/2015	EPI_ISL_206104	Asia 	Lao
+A/Laos/913/2015	EPI_ISL_206105	Asia 	Lao
+A/Laos/928/2015	EPI_ISL_206107	Asia 	Lao
+A/Laos/933/2015	EPI_ISL_206109	Asia 	Lao
+A/Laos/951/2015	EPI_ISL_215788	Asia 	Lao
+A/Laos/F3572/2016	EPI_ISL_246752	Asia 	Lao
+A/Laos/I1002/2015	EPI_ISL_210359	Asia 	Lao
+A/Laos/I660/2015	EPI_ISL_202289	Asia 	Lao
+A/Laos/I929/2015	EPI_ISL_202300	Asia 	Lao
+A/Laos/O587/2015	EPI_ISL_202305	Asia 	Lao
+A/Laos/SA380/2015	EPI_ISL_202308	Asia 	Lao
+A/Laos/SA407/2015	EPI_ISL_210365	Asia 	Lao
+A/Lebanon/14L41/2014	EPI_ISL_176847	Asia 	 Lebanon
+A/Lebanon/14L45/2014	EPI_ISL_176848	Asia 	 Lebanon
+A/Liaoning-Shuangta/1505/2015	EPI_ISL_208628	Asia 	 China
+A/Linkou/0166/2016	EPI_ISL_263397	Asia 	 Taiwan
+A/Linkou/0168/2016	EPI_ISL_263451	Asia 	 Taiwan
+A/Linkou/0175/2016	EPI_ISL_263413	Asia 	 Taiwan
+A/Linkou/0185/2016	EPI_ISL_263453	Asia 	 Taiwan
+A/Linkou/0187/2016	EPI_ISL_263437	Asia 	 Taiwan
+A/MIYAGI/52/2014	EPI_ISL_173080	Asia 	 Japan
+A/MIYAZAKI/49/2016	EPI_ISL_248923	Asia 	 Japan
+A/Myanmar/14M059/2014	EPI_ISL_173353	Asia 	 Myanmar 
+A/Nagasaki/13N063/2014	EPI_ISL_171976	Asia 	 Japan 
+A/Nagasaki/13N101/2014	EPI_ISL_173113	Asia 	 Japan 
+A/Nagasaki/14N023/2014	EPI_ISL_176331	Asia 	 Japan 
+A/Nagasaki/14N024/2015	EPI_ISL_176857	Asia 	 Japan 
+A/Nagasaki/14N039/2015	EPI_ISL_176858	Asia 	 Japan 
+A/Nakhonphanom/33/2016	EPI_ISL_230288	Asia 	 Thailand
+A/Nakhonratchaisma/35/2015	EPI_ISL_197500	Asia 	 Thailand
+A/NARA/43/2016	EPI_ISL_248918	Asia 	 Japan
+A/NIIGATA-C/39/2016	EPI_ISL_224691	Asia 	 Japan
+A/Niigata/14F002/2015	EPI_ISL_176312	Asia 	 Japan 
+A/Niigata/14F009/2015	EPI_ISL_176316	Asia 	 Japan 
+A/Niigata/14F197/2015	EPI_ISL_176853	Asia 	 Japan 
+A/NIIGATA/35/2015	EPI_ISL_173099	Asia 	 Japan
+A/Nonthaburi/128/2015	EPI_ISL_211921	Asia 	 Thailand
+A/Nonthaburi/333/2015	EPI_ISL_197257	Asia 	 Thailand
+A/OITA/7/2016	EPI_ISL_218454	Asia 	 Japan
+A/OKAYAMA/2/2015	EPI_ISL_196619	Asia 	 Japan
+A/Oman/4554/2016	EPI_ISL_230353	Asia 	 Oman
+A/Oman/4909/2016	EPI_ISL_230354	Asia 	 Oman
+A/OSAKA-C/2020/2014	EPI_ISL_171879	Asia 	 Japan
+A/OSAKA/59/2016	EPI_ISL_240542	Asia 	 Japan
+A/Phetchaburi/358/2016	EPI_ISL_249983	Asia 	 Thailand
+A/SAITAMA/126/2016	EPI_ISL_248921	Asia 	 Japan
+A/SAITAMA/58/2016	EPI_ISL_224693	Asia 	 Japan
+A/SAITAMA/96/2014	EPI_ISL_169192	Asia 	 Japan
+A/SAPPORO/6/2015	EPI_ISL_177414	Asia 	 Japan
+A/Saudi Arabia/06/2014	EPI_ISL_257193	Asia 	 Saudi Arabia
+A/Saudi Arabia/16/2015	EPI_ISL_257200	Asia 	 Saudi Arabia
+A/Saudi Arabia/18/2015	EPI_ISL_257201	Asia 	 Saudi Arabia
+A/Saudi Arabia/27/2015	EPI_ISL_257209	Asia 	 Saudi Arabia
+A/SENDAI/72/2014	EPI_ISL_169407	Asia 	 Japan
+A/Shanghai-Pudongxin/11809/2015	EPI_ISL_211930	Asia 	 China
+A/Shanghai/2/2016	EPI_ISL_302545	Asia 	 China
+A/Shanghai/3/2016	EPI_ISL_302549	Asia 	 China
+A/Shanghai/5/2016	EPI_ISL_302572	Asia 	 China
+A/Shanghai/7/2016	EPI_ISL_302578	Asia 	 China
+A/SHIMANE/96/2014	EPI_ISL_169188	Asia 	 Japan
+A/Shizuoka/34/2015	EPI_ISL_214007	Asia 	 Japan
+A/Singapore/ED0056/2016	EPI_ISL_239306	Asia 	 Singapore
+A/Singapore/EN0782/2016	EPI_ISL_239314	Asia 	 Singapore
+A/Singapore/EN0965/2016	EPI_ISL_240798	Asia 	 Singapore
+A/Singapore/G2-63.1/2014	EPI_ISL_399255	Asia 	 Singapore
+A/Singapore/GP1388/2016	EPI_ISL_239115	Asia 	 Singapore
+A/Singapore/GP1489/2016	EPI_ISL_239116	Asia 	 Singapore
+A/Singapore/GP2174/2016	EPI_ISL_239302	Asia 	 Singapore
+A/Singapore/GP2413/2016	EPI_ISL_239316	Asia 	 Singapore
+A/Singapore/GP2545/2016	EPI_ISL_240771	Asia 	 Singapore
+A/Singapore/GP2610/2016	EPI_ISL_240795	Asia 	 Singapore
+A/Singapore/IMH0026/2016	EPI_ISL_239139	Asia 	 Singapore
+A/Singapore/INFGP-16-0192/2016	EPI_ISL_225907	Asia 	 Singapore
+A/Singapore/INFGP-16-0253/2016	EPI_ISL_225914	Asia 	 Singapore
+A/Singapore/INFIMH-16-0020/2016	EPI_ISL_225941	Asia 	 Singapore
+A/Singapore/INFKK-16-0294/2016	EPI_ISL_225930	Asia 	 Singapore
+A/Singapore/INFTT-16-0042/2016	EPI_ISL_225909	Asia 	 Singapore
+A/Singapore/INFTT-16-0138/2016	EPI_ISL_225924	Asia 	 Singapore
+A/Singapore/INFTT-16-0143/2016	EPI_ISL_225921	Asia 	 Singapore
+A/Singapore/INFTT-16-0478/2016	EPI_ISL_225938	Asia 	 Singapore
+A/Singapore/INFTT-16-0603/2016	EPI_ISL_225940	Asia 	 Singapore
+A/Singapore/Inftt-16-0612/2016	EPI_ISL_275710	Asia 	 Singapore
+A/Singapore/KK0961/2016	EPI_ISL_239312	Asia 	 Singapore
+A/Singapore/KK1100/2016	EPI_ISL_240792	Asia 	 Singapore
+A/Singapore/KTP0001/2016	EPI_ISL_239125	Asia 	 Singapore
+A/Singapore/KTP0005/2016	EPI_ISL_239129	Asia 	 Singapore
+A/Singapore/MOH0108/2016	EPI_ISL_239326	Asia 	 Singapore
+A/Singapore/MOH0133/2016	EPI_ISL_240769	Asia 	 Singapore
+A/Singapore/MOH0135/2016	EPI_ISL_240770	Asia 	 Singapore
+A/Singapore/SGH0423/2016	EPI_ISL_239131	Asia 	 Singapore
+A/Singapore/SGH0574/2016	EPI_ISL_239291	Asia 	 Singapore
+A/Singapore/SGH0723/2016	EPI_ISL_239295	Asia 	 Singapore
+A/Singapore/TT0946/2016	EPI_ISL_239137	Asia 	 Singapore
+A/Singapore/TT1054/2016	EPI_ISL_239251	Asia 	 Singapore
+A/Singapore/TT1183/2016	EPI_ISL_239281	Asia 	 Singapore
+A/Singapore/TT1196/2016	EPI_ISL_239282	Asia 	 Singapore
+A/Singapore/TT1220/2016	EPI_ISL_239297	Asia 	 Singapore
+A/Singapore/TT1235/2016	EPI_ISL_239283	Asia 	 Singapore
+A/Singapore/TT1273/2016	EPI_ISL_239284	Asia 	 Singapore
+A/Singapore/TT1324/2016	EPI_ISL_240780	Asia 	 Singapore
+A/Singapore/TT1329/2016	EPI_ISL_240782	Asia 	 Singapore
+A/Singapore/TT1361/2016	EPI_ISL_240788	Asia 	 Singapore
+A/Singapore/TT1369/2016	EPI_ISL_240784	Asia 	 Singapore
+A/Singapore/TT1374/2016	EPI_ISL_277146	Asia 	 Singapore
+A/SRI LANKA/42/2014	EPI_ISL_168921	Asia 	 Sri Lanka
+A/Taipei/0092/2016	EPI_ISL_263395	Asia 	 Taiwan
+A/Taiwan/1078/2015	EPI_ISL_206148	Asia 	 Taiwan
+A/Taiwan/1079/2015	EPI_ISL_210386	Asia 	 Taiwan
+A/Taiwan/1086/2015	EPI_ISL_210389	Asia 	 Taiwan
+A/Taiwan/1090/2015	EPI_ISL_210390	Asia 	 Taiwan
+A/Taiwan/657/2016	EPI_ISL_232515	Asia 	 Taiwan
+A/Taiwan/805/2016	EPI_ISL_248311	Asia 	 Taiwan
+A/Taiwan/848/2016	EPI_ISL_248309	Asia 	 Taiwan
+A/Taiwan/921/2016	EPI_ISL_249949	Asia 	 Taiwan
+A/Taiwan/923/2016	EPI_ISL_246746	Asia 	 Taiwan
+A/Taiwan/928/2016	EPI_ISL_246747	Asia 	 Taiwan
+A/Taiwan/955/2016	EPI_ISL_246749	Asia 	 Taiwan
+A/Taiwan/959/2016	EPI_ISL_249953	Asia 	 Taiwan
+A/Thailand/CU-B11202/2014	EPI_ISL_205399	Asia 	 Thailand
+A/Thailand/CU-C4406/2014	EPI_ISL_205390	Asia 	 Thailand
+A/TOKYO/16109/2016	EPI_ISL_225433	Asia 	 Japan
+A/TOKYO/41724/2014	EPI_ISL_170446	Asia 	 Japan
+A/TOKYO/EH1603/2016	EPI_ISL_239619	Asia 	 Japan
+A/TOYAMA/72/2016	EPI_ISL_229785	Asia 	 Japan
+A/UTSUNOMIYA/1/2016	EPI_ISL_277428	Asia 	 Japan
+A/Vietnam/102/2015	EPI_ISL_215648	Asia 	 Vietnam
+A/Vietnam/137/2015	EPI_ISL_215798	Asia 	 Vietnam
+A/Vietnam/146/2015	EPI_ISL_213024	Asia 	 Vietnam
+A/Vietnam/155/2015	EPI_ISL_220280	Asia 	 Vietnam
+A/Vietnam/6017/2016	EPI_ISL_259146	Asia 	 Vietnam
+A/Vietnam/GS150287/2015	EPI_ISL_213026	Asia 	 Vietnam
+A/Vietnam/GS150761/2015	EPI_ISL_219113	Asia 	 Vietnam
+A/WAKAYAMA/136/2016	EPI_ISL_240545	Asia 	 Japan
+A/WAKAYAMA/51/2016	EPI_ISL_218456	Asia 	 Japan
+A/YAMAGATA/64/2015	EPI_ISL_188627	Asia 	 Japan
+A/YAMAGATA/98/2016	EPI_ISL_224700	Asia 	 Japan
+A/YAMAGUCHI/34/2016	EPI_ISL_240553	Asia 	 Japan
+A/YAMAGUCHI/36/2016	EPI_ISL_240554	Asia 	 Japan
+A/Yokohama/120/2016	EPI_ISL_238612	Asia 	 Japan
+A/YOKOHAMA/139/2016	EPI_ISL_240549	Asia 	 Japan
+A/YOKOHAMA/184/2014	EPI_ISL_171856	Asia 	 Japan
+A/Zhejiang-Nanhu/1975/2016	EPI_ISL_255349	Asia 	 China
+A/Alsace/3043/2016	EPI_ISL_241797	Europe 	 France 
+A/Alsace/3208/2016	EPI_ISL_241815	Europe 	 France 
+A/Alsace/541/2016	EPI_ISL_223913	Europe 	 France 
+A/Aniva/RII904S/2016	EPI_ISL_242654	Europe 	 Russian Federation 
+A/Bari/63/2016	EPI_ISL_224200	Europe 	 Italy 
+A/Bretagne/2833/2016	EPI_ISL_237253	Europe 	 France 
+A/Bretagne/2834/2016	EPI_ISL_237254	Europe 	 France 
+A/Bretagne/2836/2016	EPI_ISL_237256	Europe 	 France 
+A/Bretagne/2843/2016	EPI_ISL_237262	Europe 	 France 
+A/Bretagne/2935/2016	EPI_ISL_239148	Europe 	 France 
+A/Bretagne/2938/2016	EPI_ISL_239149	Europe 	 France 
+A/Bretagne/3427/2016	EPI_ISL_241844	Europe 	 France 
+A/Bretagne/3575/2016	EPI_ISL_241836	Europe 	 France 
+A/Bretagne/452/2017	EPI_ISL_249357	Europe 	 France 
+A/Bulgaria/1162/2016	EPI_ISL_244868	Europe 	 Bulgaria
+A/CastillaLaMancha/3399/2016	EPI_ISL_242976	Europe 	 Spain 
+A/Centre/014/2017	EPI_ISL_249338	Europe 	 France 
+A/Ceuta/170026/2016	EPI_ISL_242978	Europe 	 Spain 
+A/Chelyabinsk/192/2015	EPI_ISL_200723	Europe 	 Russian Federation
+A/Chita/12/2014	EPI_ISL_191051	Europe 	 Russian Federation
+A/Chita/14/2014	EPI_ISL_191049	Europe 	 Russian Federation
+A/Chita/256/2014	EPI_ISL_175201	Europe 	 Russian Federation
+A/Chita/260/2014	EPI_ISL_175203	Europe 	 Russian Federation
+A/Chita/262/2014	EPI_ISL_175200	Europe 	 Russian Federation
+A/Chita/266/2014	EPI_ISL_175221	Europe 	 Russian Federation
+A/Dijon/925/2017	EPI_ISL_253462	Europe 	 France 
+A/Dijon/950/2017	EPI_ISL_253464	Europe 	 France 
+A/Dnipro/693/2016	EPI_ISL_244901	Europe 	 Ukraine
+A/Dnipro/725/2016	EPI_ISL_244904	Europe 	 Ukraine
+A/Dnipro/767/2016	EPI_ISL_225050	Europe 	 Ukraine
+A/ENG/50100055/2014	EPI_ISL_192214	Europe 	 United Kingdom 
+A/ENG/516/2014	EPI_ISL_168782	Europe 	 United Kingdom 
+A/England/112/2015	EPI_ISL_186607	Europe 	 United Kingdom 
+A/England/113/2015	EPI_ISL_186608	Europe 	 United Kingdom 
+A/England/127/2015	EPI_ISL_186606	Europe 	 United Kingdom 
+A/England/166/2015	EPI_ISL_186614	Europe 	 United Kingdom 
+A/England/385/2015	EPI_ISL_240935	Europe 	 United Kingdom 
+A/England/43960141/2014	EPI_ISL_188738	Europe 	 United Kingdom 
+A/England/44160198/2014	EPI_ISL_188747	Europe 	 United Kingdom 
+A/England/44160201/2014	EPI_ISL_188750	Europe 	 United Kingdom 
+A/England/44320792/2014	EPI_ISL_188753	Europe 	 United Kingdom 
+A/England/45040065/2014	EPI_ISL_188777	Europe 	 United Kingdom 
+A/England/45060049/2014	EPI_ISL_188779	Europe 	 United Kingdom 
+A/England/45080199/2014	EPI_ISL_188784	Europe 	 United Kingdom 
+A/England/45100189/2014	EPI_ISL_188787	Europe 	 United Kingdom 
+A/England/45140001/2014	EPI_ISL_188791	Europe 	 United Kingdom 
+A/England/45160088/2014	EPI_ISL_188794	Europe 	 United Kingdom 
+A/England/45160092/2014	EPI_ISL_188795	Europe 	 United Kingdom 
+A/England/45160094/2014	EPI_ISL_188796	Europe 	 United Kingdom 
+A/England/45180220/2014	EPI_ISL_188801	Europe 	 United Kingdom 
+A/England/45180226/2014	EPI_ISL_188804	Europe 	 United Kingdom 
+A/England/50120074/2014	EPI_ISL_188828	Europe 	 United Kingdom 
+A/England/50140086/2014	EPI_ISL_188832	Europe 	 United Kingdom 
+A/England/50200115/2014	EPI_ISL_188836	Europe 	 United Kingdom 
+A/England/50200119/2014	EPI_ISL_188837	Europe 	 United Kingdom 
+A/England/50200132/2014	EPI_ISL_188838	Europe 	 United Kingdom 
+A/England/50200187/2015	EPI_ISL_186570	Europe 	 United Kingdom 
+A/England/50220076/2015	EPI_ISL_188844	Europe 	 United Kingdom 
+A/England/50220895/2015	EPI_ISL_188846	Europe 	 United Kingdom 
+A/England/50240248/2015	EPI_ISL_186574	Europe 	 United Kingdom 
+A/England/50280041/2015	EPI_ISL_186584	Europe 	 United Kingdom 
+A/England/50280054/2015	EPI_ISL_186585	Europe 	 United Kingdom 
+A/England/50360027/2015	EPI_ISL_186595	Europe 	 United Kingdom 
+A/England/50400282/2015	EPI_ISL_186601	Europe 	 United Kingdom 
+A/England/50520248/2015	EPI_ISL_186604	Europe 	 United Kingdom 
+A/England/50660120/2015	EPI_ISL_188853	Europe 	 United Kingdom 
+A/England/50740149/2015	EPI_ISL_186611	Europe 	 United Kingdom 
+A/England/50880445/2015	EPI_ISL_188855	Europe 	 United Kingdom 
+A/England/511/2014	EPI_ISL_188749	Europe 	 United Kingdom 
+A/England/51200124/2015	EPI_ISL_188860	Europe 	 United Kingdom 
+A/England/530/2014	EPI_ISL_188769	Europe 	 United Kingdom 
+A/England/533/2014	EPI_ISL_188775	Europe 	 United Kingdom 
+A/England/536/2014	EPI_ISL_188780	Europe 	 United Kingdom 
+A/England/54380710/2015	EPI_ISL_203379	Europe 	 United Kingdom 
+A/England/544/2014	EPI_ISL_188802	Europe 	 United Kingdom 
+A/England/545/2014	EPI_ISL_188803	Europe 	 United Kingdom 
+A/England/556/2014	EPI_ISL_188813	Europe 	 United Kingdom 
+A/England/599/2014	EPI_ISL_186567	Europe 	 United Kingdom 
+A/England/601/2014	EPI_ISL_188797	Europe 	 United Kingdom 
+A/England/603/2014	EPI_ISL_188819	Europe 	 United Kingdom 
+A/England/61380273/2016	EPI_ISL_241294	Europe 	 United Kingdom 
+A/England/61480680/2016	EPI_ISL_241301	Europe 	 United Kingdom 
+A/England/61820159/2016	EPI_ISL_241320	Europe 	 United Kingdom 
+A/England/62440426/2016	EPI_ISL_233005	Europe 	 United Kingdom 
+A/England/64060217/2016	EPI_ISL_248482	Europe 	 United Kingdom 
+A/England/64380522/2016	EPI_ISL_248484	Europe 	 United Kingdom 
+A/England/64760678/2016	EPI_ISL_269789	Europe 	 United Kingdom 
+A/England/64900713/2016	EPI_ISL_248492	Europe 	 United Kingdom 
+A/England/64920038/2016	EPI_ISL_270425	Europe 	 United Kingdom 
+A/England/64940741/2016	EPI_ISL_248494	Europe 	 United Kingdom 
+A/England/64960381/2016	EPI_ISL_248497	Europe 	 United Kingdom 
+A/England/64980276/2016	EPI_ISL_248498	Europe 	 United Kingdom 
+A/England/64980539/2016	EPI_ISL_248499	Europe 	 United Kingdom 
+A/England/64980541/2016	EPI_ISL_269793	Europe 	 United Kingdom 
+A/England/65000030/2016	EPI_ISL_269795	Europe 	 United Kingdom 
+A/England/65020045/2016	EPI_ISL_248503	Europe 	 United Kingdom 
+A/England/65020622/2016	EPI_ISL_248505	Europe 	 United Kingdom 
+A/England/65040076/2016	EPI_ISL_248506	Europe 	 United Kingdom 
+A/England/65040087/2016	EPI_ISL_269798	Europe 	 United Kingdom 
+A/England/65040827/2016	EPI_ISL_248508	Europe 	 United Kingdom 
+A/England/65060420/2016	EPI_ISL_248511	Europe 	 United Kingdom 
+A/England/65080393/2016	EPI_ISL_270433	Europe 	 United Kingdom 
+A/England/65180259/2016	EPI_ISL_270446	Europe 	 United Kingdom 
+A/England/65180266/2016	EPI_ISL_248523	Europe 	 United Kingdom 
+A/England/65180303/2016	EPI_ISL_270448	Europe 	 United Kingdom 
+A/England/65240016/2016	EPI_ISL_270449	Europe 	 United Kingdom 
+A/England/65260859/2016	EPI_ISL_270453	Europe 	 United Kingdom 
+A/England/65260877/2016	EPI_ISL_269809	Europe 	 United Kingdom 
+A/England/65260883/2016	EPI_ISL_248528	Europe 	 United Kingdom 
+A/England/65260886/2016	EPI_ISL_269810	Europe 	 United Kingdom 
+A/England/65280003/2016	EPI_ISL_269811	Europe 	 United Kingdom 
+A/England/65280022/2016	EPI_ISL_269813	Europe 	 United Kingdom 
+A/England/65280699/2016	EPI_ISL_248573	Europe 	 United Kingdom 
+A/England/70120030/2016	EPI_ISL_248535	Europe 	 United Kingdom 
+A/England/70120293/2016	EPI_ISL_269816	Europe 	 United Kingdom 
+A/England/70120299/2016	EPI_ISL_269818	Europe 	 United Kingdom 
+A/England/70120322/2016	EPI_ISL_248538	Europe 	 United Kingdom 
+A/England/70140008/2016	EPI_ISL_248539	Europe 	 United Kingdom 
+A/England/70160650/2016	EPI_ISL_269822	Europe 	 United Kingdom 
+A/England/70180218/2016	EPI_ISL_269826	Europe 	 United Kingdom 
+A/England/72/2015	EPI_ISL_186599	Europe 	 United Kingdom 
+A/England/77/2015	EPI_ISL_188851	Europe 	 United Kingdom 
+A/England/965/2016	EPI_ISL_248490	Europe 	 United Kingdom 
+A/England/971/2016	EPI_ISL_270444	Europe 	 United Kingdom 
+A/Franche_Comte/2323/2016	EPI_ISL_223920	Europe 	 France 
+A/Franche_Comte/3412/2016	EPI_ISL_241819	Europe 	 France 
+A/Giessen/2176/2015	EPI_ISL_192108	Europe 	 Germany 
+A/Grenoble/2067/2016	EPI_ISL_331657	Europe 	 France
+A/Grenoble/552/2017	EPI_ISL_331659	Europe 	 France
+A/Irkutsk/88/2015	EPI_ISL_205177	Europe 	 Russian Federation
+A/Irkutsk/RII485S/2016	EPI_ISL_242621	Europe 	 Russian Federation 
+A/Italy/FVG-89/2015	EPI_ISL_195852	Europe 	 Italy
+A/Khabarovsk/06/2015	EPI_ISL_191054	Europe 	 Russian Federation
+A/Khmelnitsky/1964/2016	EPI_ISL_247970	Europe 	 Ukraine
+A/Khmelnitsky/2059/2016	EPI_ISL_247972	Europe 	 Ukraine
+A/Khmelnitsky/2488/2016	EPI_ISL_247978	Europe 	 Ukraine
+A/Khmelnitsky/674/2016	EPI_ISL_230312	Europe 	 Ukraine
+A/Kristianstad/1/2016	EPI_ISL_235390	Europe 	 Sweden 
+A/Kungalv/1/2015	EPI_ISL_205784	Europe 	 Sweden 
+A/Kungalv/1/2016	EPI_ISL_237508	Europe 	 Sweden 
+A/Kyiv/568/2016	EPI_ISL_225040	Europe 	 Ukraine
+A/Kyiv/848/2016	EPI_ISL_259134	Europe 	 Ukraine
+A/Kyiv/883/2016	EPI_ISL_244725	Europe 	 Ukraine
+A/Kyiv/891/2016	EPI_ISL_256127	Europe 	 Ukraine
+A/Kyiv/915/2016	EPI_ISL_244731	Europe 	 Ukraine
+A/Kyiv/944/2016	EPI_ISL_244737	Europe 	 Ukraine
+A/Kyiv/957/2016	EPI_ISL_259136	Europe 	 Ukraine
+A/Linkoping/2/2016	EPI_ISL_215741	Europe 	 Sweden 
+A/Linkoping/5/2016	EPI_ISL_241918	Europe 	 Sweden 
+A/Lipetsk/RII779S/2016	EPI_ISL_242649	Europe 	 Russian Federation 
+A/Lisboa/niEVA053_16-17/2016	EPI_ISL_333359	Europe 	 Portugal 
+A/Lorraine/3611/2016	EPI_ISL_241838	Europe 	 France 
+A/Lyon/0412R0150/2016	EPI_ISL_331672	Europe 	 France
+A/Lyon/1581/2016	EPI_ISL_331692	Europe 	 France
+A/Lyon/1612R0251/2016	EPI_ISL_331695	Europe 	 France
+A/Lyon/1712R0193/2016	EPI_ISL_331699	Europe 	 France
+A/Lyon/1712R0324/2016	EPI_ISL_331701	Europe 	 France
+A/Lyon/2112R0304/2016	EPI_ISL_331707	Europe 	 France
+A/Lyon/2312R0281/2016	EPI_ISL_331715	Europe 	 France
+A/Lyon/2489/2016	EPI_ISL_331722	Europe 	 France
+A/Lyon/2579/2016	EPI_ISL_331723	Europe 	 France
+A/Lyon/2712R0049/2016	EPI_ISL_331732	Europe 	 France
+A/Lyon/2727/2016	EPI_ISL_331733	Europe 	 France
+A/Lyon/2734/2016	EPI_ISL_331734	Europe 	 France
+A/Lyon/2739/2016	EPI_ISL_331735	Europe 	 France
+A/Lyon/2812R0335/2016	EPI_ISL_331742	Europe 	 France
+A/Lyon/2912R0483/2016	EPI_ISL_331747	Europe 	 France
+A/LyonCHU/1512R259/2016	EPI_ISL_247488	Europe 	 France 
+A/LyonCHU/2212R196/2016	EPI_ISL_247500	Europe 	 France 
+A/LyonCHU/2612R144/2016	EPI_ISL_247506	Europe 	 France 
+A/LyonCHU/2812R490/2016	EPI_ISL_247517	Europe 	 France 
+A/Malmoe/4/2014	EPI_ISL_167959	Europe 	 Sweden 
+A/Moscow/104/2015	EPI_ISL_197514	Europe 	 Russian Federation
+A/Moscow/124/2016	EPI_ISL_230360	Europe 	 Russian Federation
+A/Moscow/134/2015	EPI_ISL_195855	Europe 	 Russian Federation
+A/Netherlands/3380/2016	EPI_ISL_240591	Europe 	 Netherlands
+A/Netherlands/3455/2016	EPI_ISL_241363	Europe 	 Netherlands
+A/Netherlands/3458/2016	EPI_ISL_241364	Europe 	 Netherlands
+A/Netherlands/3766/2016	EPI_ISL_241349	Europe 	 Netherlands
+A/Netherlands/3789/2016	EPI_ISL_241359	Europe 	 Netherlands
+A/Netherlands/3793/2016	EPI_ISL_241362	Europe 	 Netherlands
+A/Nord_Pas_de_Calais/2518/2015	EPI_ISL_223858	Europe 	 France 
+A/Nord_Pas_de_Calais/3195/2016	EPI_ISL_241812	Europe 	 France 
+A/Nord_Pas_de_Calais/3502/2016	EPI_ISL_241829	Europe 	 France 
+A/Novosibirsk/64/2015	EPI_ISL_197513	Europe 	 Russian Federation
+A/Novy Urengoy/1335/2016	EPI_ISL_253194	Europe 	 Russian Federation
+A/Omsk/141/2015	EPI_ISL_200721	Europe 	 Russian Federation
+A/Paris/2805/2016	EPI_ISL_237250	Europe 	 France 
+A/Paris/2969/2016	EPI_ISL_239153	Europe 	 France 
+A/Paris/3119/2016	EPI_ISL_241806	Europe 	 France 
+A/Paris/3587/2016	EPI_ISL_241837	Europe 	 France 
+A/Pays_de_Loire/3206/2016	EPI_ISL_241814	Europe 	 France 
+A/Podporozhye/RII940S/2016	EPI_ISL_242641	Europe 	 Russian Federation 
+A/Poitiers/2238/2016	EPI_ISL_247451	Europe 	 France 
+A/Poitiers/2240/2016	EPI_ISL_331762	Europe 	 France
+A/Rennes/497/2016	EPI_ISL_223860	Europe 	 France 
+A/Saint-Petersburg/RII100S/2016	EPI_ISL_242592	Europe 	 Russian Federation 
+A/Saint-Petersburg/RII698S/2016	EPI_ISL_242596	Europe 	 Russian Federation 
+A/Saint-Petersburg/RII707S/2016	EPI_ISL_242598	Europe 	 Russian Federation 
+A/Saint-Petersburg/RII867S/2016	EPI_ISL_242601	Europe 	 Russian Federation 
+A/Samara/711/2016	EPI_ISL_256809	Europe 	 Russian Federation 
+A/Serbia/NS1010/2015	EPI_ISL_195874	Europe 	 Serbia
+A/Simpheropol/RII837S/2016	EPI_ISL_242658	Europe 	 Russian Federation 
+A/Skovde/4/2016	EPI_ISL_239535	Europe 	 Sweden 
+A/Skovde/5/2015	EPI_ISL_205767	Europe 	 Sweden 
+A/St Petersburg/03/2015	EPI_ISL_192166	Europe 	 Russian Federation
+A/St Petersburg/22/2015	EPI_ISL_192167	Europe 	 Russian Federation
+A/Stockholm/13/2014	EPI_ISL_159401	Europe 	 Sweden 
+A/Stockholm/16/2015	EPI_ISL_177062	Europe 	 Sweden 
+A/Stockholm/23/2014	EPI_ISL_167958	Europe 	 Sweden 
+A/Stockholm/24/2016	EPI_ISL_220447	Europe 	 Sweden 
+A/Stockholm/28/2014	EPI_ISL_169258	Europe 	 Sweden 
+A/Stockholm/30/2014	EPI_ISL_169838	Europe 	 Sweden 
+A/Stockholm/30/2016	EPI_ISL_233407	Europe 	 Sweden 
+A/Stockholm/31/2014	EPI_ISL_169839	Europe 	 Sweden 
+A/Stockholm/31/2016	EPI_ISL_233408	Europe 	 Sweden 
+A/Stockholm/32/2016	EPI_ISL_234034	Europe 	 Sweden 
+A/Stockholm/34/2016	EPI_ISL_234037	Europe 	 Sweden 
+A/Stockholm/35/2014	EPI_ISL_170840	Europe 	 Sweden 
+A/Stockholm/41/2016	EPI_ISL_239537	Europe 	 Sweden 
+A/Stockholm/46/2016	EPI_ISL_241906	Europe 	 Sweden 
+A/Stockholm/58/2016	EPI_ISL_245019	Europe 	 Sweden 
+A/Stockholm/59/2016	EPI_ISL_245021	Europe 	 Sweden 
+A/Stockholm/64/2015	EPI_ISL_205783	Europe 	 Sweden 
+A/Stockholm/8/2015	EPI_ISL_172930	Europe 	 Sweden 
+A/Sweden/1/2015	EPI_ISL_172908	Europe 	 Sweden 
+A/Sweden/101/2016	EPI_ISL_253952	Europe 	 Sweden 
+A/Sweden/11/2015	EPI_ISL_174020	Europe 	 Sweden 
+A/Sweden/17/2015	EPI_ISL_177078	Europe 	 Sweden 
+A/Sweden/22/2016	EPI_ISL_220457	Europe 	 Sweden 
+A/Sweden/63/2016	EPI_ISL_239545	Europe 	 Sweden 
+A/Sweden/65/2016	EPI_ISL_239547	Europe 	 Sweden 
+A/Sweden/74/2016	EPI_ISL_241917	Europe 	 Sweden 
+A/Sweden/75/2014	EPI_ISL_169261	Europe 	 Sweden 
+A/Sweden/78/2016	EPI_ISL_241925	Europe 	 Sweden 
+A/Sweden/82/2016	EPI_ISL_241929	Europe 	 Sweden 
+A/Sweden/83/2016	EPI_ISL_241930	Europe 	 Sweden 
+A/Sweden/87/2016	EPI_ISL_241934	Europe 	 Sweden 
+A/Tomsk/RII618S/2016	EPI_ISL_242638	Europe 	 Russian Federation 
+A/Tosno/RII718S/2016	EPI_ISL_242640	Europe 	 Russian Federation 
+A/Toulon/2291/2016	EPI_ISL_331772	Europe 	 France
+A/Ukraine/111/2016	EPI_ISL_232992	Europe 	 Ukraine
+A/Umea/4/2016	EPI_ISL_245008	Europe 	 Sweden 
+A/Umea/8/2016	EPI_ISL_245012	Europe 	 Sweden 
+A/Uppsala/10/2016	EPI_ISL_239530	Europe 	 Sweden 
+A/Uppsala/7/2015	EPI_ISL_205790	Europe 	 Sweden 
+A/Vasteras/3/2016	EPI_ISL_237515	Europe 	 Sweden 
+A/Volgograd/RII759S/2016	EPI_ISL_242648	Europe 	 Russian Federation 
+A/Vologda/RII506S/2016	EPI_ISL_242629	Europe 	 Russian Federation 
+A/Yekaterinburg/239/2015	EPI_ISL_205181	Europe 	 Russian Federation
+A/Alabama/11/2015	EPI_ISL_197785	North America 	 United States 
+A/Alabama/13/2016	EPI_ISL_238718	North America 	 United States 
+A/Alabama/15/2016	EPI_ISL_239561	North America 	 United States 
+A/Alaska/109/2015	EPI_ISL_203401	North America 	 United States 
+A/Alaska/112/2015	EPI_ISL_201217	North America 	 United States 
+A/Alaska/128/2015	EPI_ISL_206140	North America 	 United States 
+A/Alaska/14/2014	EPI_ISL_367740	North America 	 United States 
+A/Alaska/151/2015	EPI_ISL_205163	North America 	 United States 
+A/Alaska/160/2015	EPI_ISL_200725	North America 	 United States 
+A/Alaska/168/2015	EPI_ISL_203545	North America 	 United States 
+A/Alaska/173/2015	EPI_ISL_206152	North America 	 United States 
+A/Alaska/194/2015	EPI_ISL_206153	North America 	 United States 
+A/Alaska/205/2015	EPI_ISL_207405	North America 	 United States 
+A/Alaska/229/2015	EPI_ISL_202881	North America 	 United States 
+A/Alaska/235/2015	EPI_ISL_202887	North America 	 United States 
+A/Alaska/255/2015	EPI_ISL_201295	North America 	 United States 
+A/Alaska/31/2015	EPI_ISL_251861	North America 	 United States
+A/Alaska/36/2016	EPI_ISL_244669	North America 	 United States 
+A/Alaska/43/2015	EPI_ISL_198220	North America 	 United States 
+A/Alaska/48/2015	EPI_ISL_200669	North America 	 United States 
+A/Alaska/82/2015	EPI_ISL_197761	North America 	 United States 
+A/Alaska/91/2015	EPI_ISL_197775	North America 	 United States 
+A/Alberta/RV2372/2015	EPI_ISL_202809	North America 	 Canada
+A/Alberta/RV2403/2015	EPI_ISL_208612	North America 	 Canada
+A/Arizona/13/2015	EPI_ISL_197756	North America 	 United States 
+A/Arizona/19/2015	EPI_ISL_203555	North America 	 United States 
+A/Arizona/23/2016	EPI_ISL_215766	North America 	 United States 
+A/Arizona/56/2016	EPI_ISL_223993	North America 	 United States 
+A/Arkansas/02/2016	EPI_ISL_212958	North America 	 United States 
+A/Arkansas/04/2014	EPI_ISL_249806	North America 	 United States
+A/Arkansas/12/2014	EPI_ISL_250273	North America 	 United States
+A/Bethesda/P0053/2015	EPI_ISL_253757	North America 	 United States
+A/British Columbia/RV2358/2015	EPI_ISL_202413	North America 	 Canada
+A/California/106/2015	EPI_ISL_205665	North America 	 United States 
+A/California/11/2016	EPI_ISL_212964	North America 	 United States 
+A/California/118/2015	EPI_ISL_207016	North America 	 United States 
+A/California/121/2015	EPI_ISL_208601	North America 	 United States 
+A/California/133/2015	EPI_ISL_214525	North America 	 United States 
+A/California/15/2014	EPI_ISL_167915	North America 	 United States 
+A/California/154/2016	EPI_ISL_239166	North America 	 United States 
+A/California/16/2015	EPI_ISL_251360	North America 	 United States
+A/California/17/2014	EPI_ISL_167917	North America 	 United States 
+A/California/198/2016	EPI_ISL_242752	North America 	 United States 
+A/California/209/2016	EPI_ISL_244689	North America 	 United States 
+A/California/24/2016	EPI_ISL_212969	North America 	 United States 
+A/California/74/2016	EPI_ISL_222008	North America 	 United States 
+A/California/93/2015	EPI_ISL_202935	North America 	 United States 
+A/California/95/2015	EPI_ISL_202937	North America 	 United States 
+A/Columbia/P0033/2014	EPI_ISL_253820	North America 	 United States
+A/Columbia/P0090/2015	EPI_ISL_253810	North America 	 United States
+A/Connecticut/20/2016	EPI_ISL_225098	North America 	 United States 
+A/Connecticut/21/2014	EPI_ISL_249815	North America 	 United States
+A/Connecticut/44/2016	EPI_ISL_248009	North America 	 United States 
+A/Costa Rica/1172/2016	EPI_ISL_249023	North America 	 Costa Rica
+A/Costa Rica/2536/2016	EPI_ISL_238648	North America 	 Costa Rica
+A/Costa Rica/4582/2015	EPI_ISL_212056	North America 	 Costa Rica
+A/Costa Rica/7141/2015	EPI_ISL_212057	North America 	 Costa Rica
+A/Costa Rica/9930/2015	EPI_ISL_212159	North America 	 Costa Rica
+A/Delaware/12/2015	EPI_ISL_176558	North America 	 United States 
+A/Delaware/13/2015	EPI_ISL_251328	North America 	 United States
+A/Delaware/43/2015	EPI_ISL_206160	North America 	 United States 
+A/Dominica/672/2015	EPI_ISL_194947	North America 	 Dominica
+A/Dominica/8432/2016	EPI_ISL_240327	North America 	 Dominica
+A/Dominican Republic/9441/2015	EPI_ISL_215255	North America 	 Dominican Republic
+A/Florida/06/2016	EPI_ISL_219168	North America 	 United States 
+A/Florida/09/2016	EPI_ISL_213982	North America 	 United States 
+A/Florida/11/2015	EPI_ISL_251228	North America 	 United States
+A/Florida/15/2016	EPI_ISL_213984	North America 	 United States 
+A/Florida/18/2015	EPI_ISL_251284	North America 	 United States
+A/Florida/20/2015	EPI_ISL_236777	North America 	 United States
+A/Florida/39/2014	EPI_ISL_167414	North America 	 United States 
+A/Florida/65/2014	EPI_ISL_250965	North America 	 United States
+A/Florida/68/2016	EPI_ISL_230348	North America 	 United States 
+A/Florida/70/2015	EPI_ISL_205246	North America 	 United States 
+A/Florida/76/2014	EPI_ISL_251004	North America 	 United States
+A/Florida/78/2016	EPI_ISL_237330	North America 	 United States 
+A/Florida/88/2016	EPI_ISL_239178	North America 	 United States 
+A/Florida/89/2015	EPI_ISL_207026	North America 	 United States 
+A/Florida/91/2016	EPI_ISL_239691	North America 	 United States 
+A/Florida/92/2016	EPI_ISL_239692	North America 	 United States 
+A/Gainesville/09/2016	EPI_ISL_258586	North America 	 United States
+A/Georgia/24/2014	EPI_ISL_250955	North America 	 United States
+A/Georgia/52/2016	EPI_ISL_224017	North America 	 United States 
+A/Georgia/54/2016	EPI_ISL_225043	North America 	 United States 
+A/Guadeloupe/7129/2016	EPI_ISL_233431	North America 	 Guadeloupe
+A/Guatemala/15/2015	EPI_ISL_197555	North America 	 Guatemala
+A/Guatemala/4084/2015	EPI_ISL_212985	North America 	 Guatemala
+A/Guatemala/4392/2016	EPI_ISL_233438	North America 	 Guatemala
+A/Guatemala/5211/2014	EPI_ISL_172535	North America 	 Guatemala
+A/Hawaii/04/2016	EPI_ISL_219160	North America 	 United States 
+A/Hawaii/103/2016	EPI_ISL_242760	North America 	 United States 
+A/Hawaii/16/2016	EPI_ISL_219211	North America 	 United States 
+A/Hawaii/64/2015	EPI_ISL_203564	North America 	 United States 
+A/Hawaii/67/2015	EPI_ISL_202110	North America 	 United States 
+A/Hawaii/74/2015	EPI_ISL_202921	North America 	 United States 
+A/Hawaii/75/2016	EPI_ISL_237314	North America 	 United States 
+A/Hawaii/76/2016	EPI_ISL_237313	North America 	 United States 
+A/Hawaii/80/2015	EPI_ISL_212161	North America 	 United States 
+A/Idaho/01/2015	EPI_ISL_174142	North America 	 United States 
+A/Idaho/14/2016	EPI_ISL_219270	North America 	 United States 
+A/Illinois/45/2016	EPI_ISL_237344	North America 	 United States 
+A/Illinois/50/2016	EPI_ISL_247995	North America 	 United States 
+A/Illinois/58/2016	EPI_ISL_253566	North America 	 United States 
+A/Indiana/29/2015	EPI_ISL_206121	North America 	 United States 
+A/Indiana/30/2016	EPI_ISL_219260	North America 	 United States 
+A/Iowa/10/2016	EPI_ISL_220365	North America 	 United States 
+A/Iowa/23/2016	EPI_ISL_234047	North America 	 United States 
+A/Iowa/33/2016	EPI_ISL_239186	North America 	 United States 
+A/Iowa/37/2015	EPI_ISL_197546	North America 	 United States 
+A/Iowa/50/2015	EPI_ISL_202088	North America 	 United States 
+A/Iowa/54/2015	EPI_ISL_203414	North America 	 United States 
+A/Kansas/08/2015	EPI_ISL_251290	North America 	 United States
+A/Kentucky/01/2015	EPI_ISL_251260	North America 	 United States
+A/Kentucky/21/2014	EPI_ISL_251121	North America 	 United States
+A/Louisiana/08/2015	EPI_ISL_211703	North America 	 United States 
+A/Louisiana/12/2016	EPI_ISL_220372	North America 	 United States 
+A/Louisiana/13/2014	EPI_ISL_250219	North America 	 United States
+A/Louisiana/13/2016	EPI_ISL_220373	North America 	 United States 
+A/Maine/04/2014	EPI_ISL_167411	North America 	 United States 
+A/Managua/8779.06/2016	EPI_ISL_238659	North America 	 Nicaragua
+A/Maryland/01/2015	EPI_ISL_236786	North America 	 United States
+A/Maryland/12/2015	EPI_ISL_251666	North America 	 United States
+A/Maryland/18/2015	EPI_ISL_202425	North America 	 United States 
+A/Massachusetts/05/2015	EPI_ISL_176537	North America 	 United States 
+A/Massachusetts/09/2015	EPI_ISL_251289	North America 	 United States
+A/Massachusetts/15/2015	EPI_ISL_181072	North America 	 United States 
+A/Mexico/1402/2015	EPI_ISL_197532	North America 	 Mexico
+A/Mexico/2377/2015	EPI_ISL_219153	North America 	 Mexico
+A/Mexico/836/2014	EPI_ISL_172786	North America 	 Mexico
+A/Michigan/09/2014	EPI_ISL_249784	North America 	 United States
+A/Michigan/105/2016	EPI_ISL_237332	North America 	 United States 
+A/Michigan/24/2016	EPI_ISL_215260	North America 	 United States 
+A/Michigan/29/2016	EPI_ISL_214538	North America 	 United States 
+A/Michigan/58/2015	EPI_ISL_202903	North America 	 United States 
+A/Minnesota/22/2014	EPI_ISL_249770	North America 	 United States
+A/Minnesota/25/2015	EPI_ISL_251750	North America 	 United States
+A/Minnesota/43/2015	EPI_ISL_201306	North America 	 United States 
+A/Minnesota/72/2016	EPI_ISL_237318	North America 	 United States 
+A/Minnesota/83/2016	EPI_ISL_258291	North America 	 United States 
+A/Minnesota/85/2016	EPI_ISL_241631	North America 	 United States 
+A/Mississippi/12/2014	EPI_ISL_250362	North America 	 United States
+A/Missouri/11/2015	EPI_ISL_237206	North America 	 United States
+A/Montana/11/2014	EPI_ISL_250289	North America 	 United States
+A/Montana/19/2015	EPI_ISL_200750	North America 	 United States 
+A/Montana/21/2015	EPI_ISL_200752	North America 	 United States 
+A/Montana/24/2015	EPI_ISL_203418	North America 	 United States 
+A/Montana/27/2014	EPI_ISL_251033	North America 	 United States
+A/Montana/32/2015	EPI_ISL_201283	North America 	 United States 
+A/Montana/62/2016	EPI_ISL_240184	North America 	 United States 
+A/Nebraska/10/2016	EPI_ISL_214542	North America 	 United States 
+A/Nebraska/15/2014	EPI_ISL_251007	North America 	 United States
+A/Nevada/18/2014	EPI_ISL_250343	North America 	 United States
+A/Nevada/21/2016	EPI_ISL_219273	North America 	 United States 
+A/Nevada/22/2016	EPI_ISL_219238	North America 	 United States 
+A/New Hampshire/32/2014	EPI_ISL_250956	North America 	 United States
+A/New Jersey/28/2016	EPI_ISL_244791	North America 	 United States 
+A/New Jersey/52/2015	EPI_ISL_201254	North America 	 United States 
+A/New Mexico/06/2016	EPI_ISL_215641	North America 	 United States 
+A/New Mexico/54/2016	EPI_ISL_240847	North America 	 United States 
+A/New York/03/2016	EPI_ISL_211916	North America 	 United States 
+A/New York/100/2016	EPI_ISL_238679	North America 	 United States 
+A/New York/111/2016	EPI_ISL_249062	North America 	 United States 
+A/New York/112/2016	EPI_ISL_241558	North America 	 United States 
+A/New York/76/2015	EPI_ISL_211918	North America 	 United States 
+A/New York/96/2016	EPI_ISL_235536	North America 	 United States 
+A/New York/A-WC-LVD-16-001/2016	EPI_ISL_293361	North America 	 United States
+A/New York/WC-LVD-14-102/2014	EPI_ISL_235692	North America 	 United States
+A/New York/WC-LVD-15-012/2015	EPI_ISL_235644	North America 	 United States
+A/New York/WC-LVD-15-031/2015	EPI_ISL_235667	North America 	 United States
+A/New York/WC-LVD-15-039/2015	EPI_ISL_235674	North America 	 United States
+A/New York/WC-LVD-15-044/2015	EPI_ISL_235679	North America 	 United States
+A/Nicaragua/4877_07/2014	EPI_ISL_279367	North America 	 Nicaragua
+A/Nicaragua/5627_04/2014	EPI_ISL_279366	North America 	 Nicaragua
+A/Nicaragua/6200_06/2014	EPI_ISL_279372	North America 	 Nicaragua
+A/Nicaragua/6530_19/2014	EPI_ISL_279371	North America 	 Nicaragua
+A/Nicaragua/6597_07/2014	EPI_ISL_279376	North America 	 Nicaragua
+A/Nicaragua/6826_06/2014	EPI_ISL_279355	North America 	 Nicaragua
+A/Nicaragua/6831.07/2016	EPI_ISL_257874	North America 	 Nicaragua
+A/North Carolina/05/2015	EPI_ISL_251159	North America 	 United States
+A/North Carolina/16/2015	EPI_ISL_251580	North America 	 United States
+A/North Carolina/41/2016	EPI_ISL_225060	North America 	 United States 
+A/North Dakota/05/2015	EPI_ISL_251270	North America 	 United States
+A/Northwest Territories/RV2421/2015	EPI_ISL_207440	North America 	 Canada
+A/Ohio/04/2015	EPI_ISL_251287	North America 	 United States
+A/Ohio/20/2016	EPI_ISL_224046	North America 	 United States 
+A/Ohio/27/2016	EPI_ISL_232044	North America 	 United States 
+A/Oklahoma/06/2015	EPI_ISL_251339	North America 	 United States
+A/Oklahoma/18/2016	EPI_ISL_240224	North America 	 United States 
+A/Ontario/RV3236/2016	EPI_ISL_239893	North America 	 Canada 
+A/Ontario/RV3606/2014	EPI_ISL_171398	North America 	 Canada
+A/Oregon/05/2015	EPI_ISL_251658	North America 	 United States
+A/Oregon/05/2016	EPI_ISL_215797	North America 	 United States 
+A/Oregon/21/2016	EPI_ISL_239209	North America 	 United States 
+A/Oregon/24/2015	EPI_ISL_201292	North America 	 United States 
+A/Pennsylvania/10/2015	EPI_ISL_251166	North America 	 United States
+A/Pennsylvania/113/2016	EPI_ISL_249088	North America 	 United States 
+A/Pennsylvania/137/2016	EPI_ISL_289309	North America 	 United States 
+A/Pennsylvania/20/2016	EPI_ISL_219241	North America 	 United States 
+A/Pennsylvania/28/2014	EPI_ISL_286142	North America 	 United States 
+A/Puerto Rico/35/2015	EPI_ISL_206222	North America 	 Puerto Rico
+A/Puerto Rico/37/2015	EPI_ISL_206224	North America 	 Puerto Rico
+A/Puerto Rico/44/2015	EPI_ISL_206229	North America 	 Puerto Rico
+A/Quebec/RV3242/2016	EPI_ISL_244890	North America 	 Canada
+A/Rhode Island/15/2015	EPI_ISL_251702	North America 	 United States
+A/Rhode Island/29/2016	EPI_ISL_235112	North America 	 United States 
+A/South Carolina/07/2015	EPI_ISL_251318	North America 	 United States
+A/South Dakota/01/2015	EPI_ISL_251163	North America 	 United States
+A/South Dakota/27/2016	EPI_ISL_239211	North America 	 United States 
+A/South Dakota/40/2015	EPI_ISL_206132	North America 	 United States 
+A/Tennessee/02/2016	EPI_ISL_214551	North America 	 United States 
+A/Tennessee/09/2015	EPI_ISL_251407	North America 	 United States
+A/Tennessee/15/2014	EPI_ISL_251030	North America 	 United States
+A/Tennessee/18/2015	EPI_ISL_200727	North America 	 United States 
+A/Tennessee/41/2016	EPI_ISL_253622	North America 	 United States 
+A/Texas/158/2016	EPI_ISL_232102	North America 	 United States 
+A/Texas/170/2016	EPI_ISL_230319	North America 	 United States 
+A/Texas/201/2016	EPI_ISL_241573	North America 	 United States 
+A/Texas/28/2015	EPI_ISL_237203	North America 	 United States
+A/Texas/30/2016	EPI_ISL_214554	North America 	 United States 
+A/Texas/42/2016	EPI_ISL_215645	North America 	 United States 
+A/Texas/83/2016	EPI_ISL_220296	North America 	 United States 
+A/Texas/84/2014	EPI_ISL_251154	North America 	 United States
+A/Utah/12/2016	EPI_ISL_214013	North America 	 United States 
+A/Utah/33/2014	EPI_ISL_251027	North America 	 United States
+A/Vermont/16/2016	EPI_ISL_223190	North America 	 United States 
+A/Vermont/32/2016	EPI_ISL_238715	North America 	 United States 
+A/Vermont/34/2016	EPI_ISL_247989	North America 	 United States 
+A/Virginia/03/2015	EPI_ISL_251190	North America 	 United States
+A/Virginia/42/2014	EPI_ISL_250995	North America 	 United States
+A/Virginia/63/2016	EPI_ISL_239731	North America 	 United States 
+A/Virginia/69/2016	EPI_ISL_253572	North America 	 United States 
+A/Washington/120/2016	EPI_ISL_286325	North America 	 United States 
+A/Washington/128/2016	EPI_ISL_286332	North America 	 United States 
+A/Washington/13/2015	EPI_ISL_251347	North America 	 United States
+A/Washington/144/2016	EPI_ISL_286363	North America 	 United States 
+A/Washington/153/2016	EPI_ISL_286365	North America 	 United States 
+A/Washington/35/2015	EPI_ISL_251664	North America 	 United States
+A/Washington/45/2015	EPI_ISL_202841	North America 	 United States 
+A/Washington/46/2014	EPI_ISL_251115	North America 	 United States
+A/Washington/49/2015	EPI_ISL_202101	North America 	 United States 
+A/Washington/55/2016	EPI_ISL_222075	North America 	 United States 
+A/Washington/60/2015	EPI_ISL_206122	North America 	 United States 
+A/Washington/61/2015	EPI_ISL_205628	North America 	 United States 
+A/Washington/87/2016	EPI_ISL_248366	North America 	 United States 
+A/West Virginia/15/2016	EPI_ISL_248300	North America 	 United States 
+A/Wisconsin/75/2014	EPI_ISL_251097	North America 	 United States
+A/Wisconsin/77/2016	EPI_ISL_234055	North America 	 United States 
+A/Wisconsin/82/2015	EPI_ISL_205256	North America 	 United States 
+A/Wisconsin/86/2015	EPI_ISL_202431	North America 	 United States 
+A/Wisconsin/95/2016	EPI_ISL_248362	North America 	 United States 
+A/Brisbane/100/2014	EPI_ISL_288214	Oceania	Australia
+A/Brisbane/1000/2015	EPI_ISL_288050	Oceania	Australia
+A/Brisbane/1004/2015	EPI_ISL_287941	Oceania	Australia
+A/Brisbane/1004/2016	EPI_ISL_289085	Oceania	Australia
+A/Brisbane/1005/2015	EPI_ISL_287951	Oceania	Australia
+A/Brisbane/1008/2016	EPI_ISL_289055	Oceania	Australia
+A/Brisbane/115/2015	EPI_ISL_288042	Oceania	Australia
+A/Brisbane/119/2015	EPI_ISL_288043	Oceania	Australia
+A/Brisbane/12/2015	EPI_ISL_288148	Oceania	Australia
+A/Brisbane/127/2015	EPI_ISL_287976	Oceania	Australia
+A/Brisbane/134/2015	EPI_ISL_287981	Oceania	Australia
+A/Brisbane/140/2015	EPI_ISL_287983	Oceania	Australia
+A/Brisbane/141/2015	EPI_ISL_287984	Oceania	Australia
+A/Brisbane/158/2016	EPI_ISL_289082	Oceania	Australia
+A/Brisbane/172/2015	EPI_ISL_287854	Oceania	Australia
+A/Brisbane/179/2015	EPI_ISL_287830	Oceania	Australia
+A/Brisbane/188/2015	EPI_ISL_287811	Oceania	Australia
+A/Brisbane/197/2015	EPI_ISL_287813	Oceania	Australia
+A/Brisbane/22/2015	EPI_ISL_288146	Oceania	Australia
+A/Brisbane/225/2016	EPI_ISL_288857	Oceania	Australia
+A/Brisbane/231/2016	EPI_ISL_288858	Oceania	Australia
+A/Brisbane/273/2016	EPI_ISL_288853	Oceania	Australia
+A/Brisbane/285/2016	EPI_ISL_288854	Oceania	Australia
+A/Brisbane/287/2016	EPI_ISL_288855	Oceania	Australia
+A/Brisbane/290/2016	EPI_ISL_288847	Oceania	Australia
+A/Brisbane/291/2016	EPI_ISL_288856	Oceania	Australia
+A/Brisbane/296/2016	EPI_ISL_288831	Oceania	Australia
+A/Brisbane/298/2016	EPI_ISL_288832	Oceania	Australia
+A/Brisbane/300/2016	EPI_ISL_288834	Oceania	Australia
+A/Brisbane/318/2016	EPI_ISL_269294	Oceania	Australia
+A/Brisbane/324/2016	EPI_ISL_288819	Oceania	Australia
+A/Brisbane/40/2015	EPI_ISL_288139	Oceania	Australia
+A/Brisbane/43/2014	EPI_ISL_288219	Oceania	Australia
+A/Brisbane/43/2015	EPI_ISL_288123	Oceania	Australia
+A/Brisbane/66/2016	EPI_ISL_289133	Oceania	Australia
+A/Brisbane/68/2016	EPI_ISL_289134	Oceania	Australia
+A/Brisbane/71/2015	EPI_ISL_288078	Oceania	Australia
+A/Brisbane/79/2015	EPI_ISL_288081	Oceania	Australia
+A/Brisbane/80/2015	EPI_ISL_288082	Oceania	Australia
+A/Canberra/1001/2016	EPI_ISL_289080	Oceania	Australia
+A/Canberra/13/2015	EPI_ISL_288108	Oceania	Australia
+A/Canberra/2/2014	EPI_ISL_288222	Oceania	Australia
+A/Canberra/31/2014	EPI_ISL_288195	Oceania	Australia
+A/Canberra/80/2016	EPI_ISL_288848	Oceania	Australia
+A/Canberra/93/2016	EPI_ISL_288849	Oceania	Australia
+A/Christchurch/505/2016	EPI_ISL_237834	Oceania	New Zealand
+A/Darwin/1000/2015	EPI_ISL_287834	Oceania	Australia
+A/Darwin/1006/2016	EPI_ISL_289029	Oceania	Australia
+A/Dunedin/3/2016	EPI_ISL_232818	Oceania	New Zealand
+A/Fiji/02/2015	EPI_ISL_194166	Oceania	Fiji
+A/FIJI/1/2014	EPI_ISL_166142	Oceania	Fiji
+A/Fiji/7/2015	EPI_ISL_219049	Oceania	Fiji
+A/NEW CALEDONIA/71/2014	EPI_ISL_168901	Oceania	New Caledonia
+A/New Zealand/0581/2016	EPI_ISL_235060	Oceania	New Zealand
+A/New Zealand/0635/2016	EPI_ISL_235061	Oceania	New Zealand
+A/New Zealand/0678/2016	EPI_ISL_235062	Oceania	New Zealand
+A/New Zealand/0777/2016	EPI_ISL_240114	Oceania	New Zealand
+A/New Zealand/0779/2016	EPI_ISL_240115	Oceania	New Zealand
+A/New Zealand/0783/2016	EPI_ISL_240116	Oceania	New Zealand
+A/New Zealand/0788/2016	EPI_ISL_240117	Oceania	New Zealand
+A/New Zealand/0800/2016	EPI_ISL_240118	Oceania	New Zealand
+A/New Zealand/0831/2016	EPI_ISL_235066	Oceania	New Zealand
+A/New Zealand/0879/2016	EPI_ISL_235070	Oceania	New Zealand
+A/New Zealand/0888/2016	EPI_ISL_237369	Oceania	New Zealand
+A/New Zealand/0889/2016	EPI_ISL_240123	Oceania	New Zealand
+A/New Zealand/0977/2016	EPI_ISL_240321	Oceania	New Zealand
+A/New Zealand/1001/2016	EPI_ISL_240319	Oceania	New Zealand
+A/New Zealand/1014/2016	EPI_ISL_240315	Oceania	New Zealand
+A/New Zealand/1017/2016	EPI_ISL_240314	Oceania	New Zealand
+A/New Zealand/1118/2016	EPI_ISL_240311	Oceania	New Zealand
+A/New Zealand/1152/2016	EPI_ISL_240310	Oceania	New Zealand
+A/New Zealand/1165/2016	EPI_ISL_240308	Oceania	New Zealand
+A/New Zealand/1933/2016	EPI_ISL_235064	Oceania	New Zealand
+A/New Zealand/2308/2016	EPI_ISL_240126	Oceania	New Zealand
+A/New Zealand/2336/2016	EPI_ISL_240127	Oceania	New Zealand
+A/New Zealand/2343/2016	EPI_ISL_240128	Oceania	New Zealand
+A/New Zealand/2369/2016	EPI_ISL_244826	Oceania	New Zealand
+A/New Zealand/2374/2016	EPI_ISL_240131	Oceania	New Zealand
+A/New Zealand/2378/2016	EPI_ISL_240132	Oceania	New Zealand
+A/New Zealand/2409/2016	EPI_ISL_240138	Oceania	New Zealand
+A/New Zealand/2413/2016	EPI_ISL_240140	Oceania	New Zealand
+A/New Zealand/431/2015	EPI_ISL_197501	Oceania	New Zealand
+A/New Zealand/476/2015	EPI_ISL_197270	Oceania	New Zealand
+A/New Zealand/519/2015	EPI_ISL_197263	Oceania	New Zealand
+A/New Zealand/536/2015	EPI_ISL_197524	Oceania	New Zealand
+A/New Zealand/562/2015	EPI_ISL_197508	Oceania	New Zealand
+A/New Zealand/686/2015	EPI_ISL_197525	Oceania	New Zealand
+A/Newcastle/1002/2015	EPI_ISL_287990	Oceania	Australia
+A/Newcastle/187/2016	EPI_ISL_289031	Oceania	Australia
+A/Newcastle/20/2014	EPI_ISL_288225	Oceania	Australia
+A/Newcastle/22/2014	EPI_ISL_164979	Oceania	Australia
+A/Newcastle/25/2014	EPI_ISL_288201	Oceania	Australia
+A/Newcastle/30/2016	EPI_ISL_227637	Oceania	Australia
+A/Newcastle/48/2016	EPI_ISL_255496	Oceania	Australia
+A/NEWCASTLE/54/2014	EPI_ISL_168907	Oceania	Australia
+A/Newcastle/63/2014	EPI_ISL_288188	Oceania	Australia
+A/Newcastle/64/2015	EPI_ISL_226255	Oceania	Australia
+A/Newcastle/78/2016	EPI_ISL_289091	Oceania	Australia
+A/Newcastle/83/2016	EPI_ISL_237880	Oceania	Australia
+A/Palau/6759/2014	EPI_ISL_164404	Oceania	Palau
+A/Palau/6775/2014	EPI_ISL_167865	Oceania	Palau
+A/Perth/113/2015	EPI_ISL_287949	Oceania	Australia
+A/Perth/114/2015	EPI_ISL_287932	Oceania	Australia
+A/Perth/116/2015	EPI_ISL_287933	Oceania	Australia
+A/Perth/15/2015	EPI_ISL_288085	Oceania	Australia
+A/Perth/22/2016	EPI_ISL_289090	Oceania	Australia
+A/Perth/26/2015	EPI_ISL_288054	Oceania	Australia
+A/Perth/31/2015	EPI_ISL_288059	Oceania	Australia
+A/Perth/43/2015	EPI_ISL_288045	Oceania	Australia
+A/Perth/50/2015	EPI_ISL_287963	Oceania	Australia
+A/Perth/53/2015	EPI_ISL_287965	Oceania	Australia
+A/Perth/69/2015	EPI_ISL_287945	Oceania	Australia
+A/Perth/76/2015	EPI_ISL_287862	Oceania	Australia
+A/Perth/78/2016	EPI_ISL_289065	Oceania	Australia
+A/Perth/92/2015	EPI_ISL_287882	Oceania	Australia
+A/Perth/97/2015	EPI_ISL_287948	Oceania	Australia
+A/Perth/99/2016	EPI_ISL_234117	Oceania	Australia
+A/South Auckland/23/2016	EPI_ISL_232811	Oceania	New Zealand
+A/South Australia/1/2015	EPI_ISL_288164	Oceania	Australia
+A/South Australia/1001/2015	EPI_ISL_288038	Oceania	Australia
+A/South Australia/1002/2014	EPI_ISL_288204	Oceania	Australia
+A/South Australia/1005/2014	EPI_ISL_288208	Oceania	Australia
+A/South Australia/1005/2015	EPI_ISL_288036	Oceania	Australia
+A/South Australia/1006/2015	EPI_ISL_287860	Oceania	Australia
+A/South Australia/1017/2015	EPI_ISL_287891	Oceania	Australia
+A/South Australia/1021/2015	EPI_ISL_287925	Oceania	Australia
+A/South Australia/1023/2015	EPI_ISL_287928	Oceania	Australia
+A/South Australia/1032/2014	EPI_ISL_288177	Oceania	Australia
+A/South Australia/106/2016	EPI_ISL_289049	Oceania	Australia
+A/South Australia/115/2016	EPI_ISL_289035	Oceania	Australia
+A/South Australia/117/2016	EPI_ISL_289026	Oceania	Australia
+A/South Australia/118/2016	EPI_ISL_289051	Oceania	Australia
+A/South Australia/12/2015	EPI_ISL_288156	Oceania	Australia
+A/South Australia/125/2016	EPI_ISL_289030	Oceania	Australia
+A/South Australia/132/2015	EPI_ISL_287924	Oceania	Australia
+A/South Australia/137/2016	EPI_ISL_288839	Oceania	Australia
+A/South Australia/143/2016	EPI_ISL_288842	Oceania	Australia
+A/South Australia/147/2016	EPI_ISL_288843	Oceania	Australia
+A/South Australia/163/2015	EPI_ISL_287839	Oceania	Australia
+A/South Australia/164/2016	EPI_ISL_288828	Oceania	Australia
+A/South Australia/167/2015	EPI_ISL_287841	Oceania	Australia
+A/South Australia/172/2015	EPI_ISL_287821	Oceania	Australia
+A/South Australia/18/2016	EPI_ISL_289132	Oceania	Australia
+A/South Australia/21/2015	EPI_ISL_205160	Oceania	Australia
+A/South Australia/27/2016	EPI_ISL_289125	Oceania	Australia
+A/South Australia/31/2016	EPI_ISL_289138	Oceania	Australia
+A/South Australia/34/2015	EPI_ISL_288137	Oceania	Australia
+A/South Australia/36/2015	EPI_ISL_288131	Oceania	Australia
+A/South Australia/37/2015	EPI_ISL_288132	Oceania	Australia
+A/South Australia/38/2016	EPI_ISL_289128	Oceania	Australia
+A/South Australia/51/2016	EPI_ISL_289115	Oceania	Australia
+A/South Australia/55/2016	EPI_ISL_289118	Oceania	Australia
+A/South Australia/60/2015	EPI_ISL_288109	Oceania	Australia
+A/South Australia/9/2015	EPI_ISL_288165	Oceania	Australia
+A/Sydney/10/2015	EPI_ISL_288141	Oceania	Australia
+A/Sydney/1004/2014	EPI_ISL_288187	Oceania	Australia
+A/Sydney/1005/2014	EPI_ISL_288200	Oceania	Australia
+A/Sydney/1005/2015	EPI_ISL_288052	Oceania	Australia
+A/Sydney/1007/2014	EPI_ISL_288199	Oceania	Australia
+A/Sydney/101/2016	EPI_ISL_289126	Oceania	Australia
+A/Sydney/1010/2015	EPI_ISL_287956	Oceania	Australia
+A/Sydney/1011/2015	EPI_ISL_287935	Oceania	Australia
+A/Sydney/1019/2015	EPI_ISL_287896	Oceania	Australia
+A/Sydney/1020/2015	EPI_ISL_287939	Oceania	Australia
+A/Sydney/1024/2015	EPI_ISL_287927	Oceania	Australia
+A/Sydney/1030/2015	EPI_ISL_287961	Oceania	Australia
+A/Sydney/1042/2015	EPI_ISL_287846	Oceania	Australia
+A/Sydney/1043/2015	EPI_ISL_287844	Oceania	Australia
+A/Sydney/1065/2016	EPI_ISL_289058	Oceania	Australia
+A/Sydney/12/2015	EPI_ISL_288136	Oceania	Australia
+A/Sydney/133/2016	EPI_ISL_255504	Oceania	Australia
+A/Sydney/156/2014	EPI_ISL_288175	Oceania	Australia
+A/Sydney/18/2015	EPI_ISL_288143	Oceania	Australia
+A/Sydney/241/2015	EPI_ISL_287823	Oceania	Australia
+A/Sydney/266/2016	EPI_ISL_289052	Oceania	Australia
+A/Sydney/29/2016	EPI_ISL_289139	Oceania	Australia
+A/Sydney/37/2014	EPI_ISL_288212	Oceania	Australia
+A/Sydney/4/2015	EPI_ISL_288155	Oceania	Australia
+A/Sydney/529/2014	EPI_ISL_288147	Oceania	Australia
+A/Sydney/530/2014	EPI_ISL_288133	Oceania	Australia
+A/Sydney/54/2015	EPI_ISL_287970	Oceania	Australia
+A/SYDNEY/71/2014	EPI_ISL_165658	Oceania	Australia
+A/Sydney/8/2014	EPI_ISL_288234	Oceania	Australia
+A/Sydney/9/2016	EPI_ISL_287816	Oceania	Australia
+A/Tasmania/1001/2016	EPI_ISL_289120	Oceania	Australia
+A/Tasmania/1015/2015	EPI_ISL_287936	Oceania	Australia
+A/Tasmania/1021/2015	EPI_ISL_287926	Oceania	Australia
+A/Tasmania/11/2014	EPI_ISL_165591	Oceania	Australia
+A/Tasmania/141/2016	EPI_ISL_289028	Oceania	Australia
+A/Tasmania/15/2014	EPI_ISL_288217	Oceania	Australia
+A/Tasmania/213/2016	EPI_ISL_288825	Oceania	Australia
+A/Tasmania/37/2014	EPI_ISL_288189	Oceania	Australia
+A/Tasmania/7/2015	EPI_ISL_288049	Oceania	Australia
+A/Tasmania/92/2016	EPI_ISL_288861	Oceania	Australia
+A/Townsville/1001/2015	EPI_ISL_288134	Oceania	Australia
+A/Townsville/32/2015	EPI_ISL_287825	Oceania	Australia
+A/Townsville/37/2015	EPI_ISL_287812	Oceania	Australia
+A/Townsville/51/2016	EPI_ISL_288830	Oceania	Australia
+A/Victoria/1000/2015	EPI_ISL_219035	Oceania	Australia
+A/Victoria/1006/2015	EPI_ISL_287861	Oceania	Australia
+A/Victoria/1012/2014	EPI_ISL_288176	Oceania	Australia
+A/Victoria/109/2016	EPI_ISL_288863	Oceania	Australia
+A/Victoria/115/2014	EPI_ISL_288158	Oceania	Australia
+A/Victoria/123/2016	EPI_ISL_288864	Oceania	Australia
+A/Victoria/16/2015	EPI_ISL_287992	Oceania	Australia
+A/Victoria/19/2015	EPI_ISL_287943	Oceania	Australia
+A/Victoria/2074/2016	EPI_ISL_289072	Oceania	Australia
+A/Victoria/2079/2016	EPI_ISL_289053	Oceania	Australia
+A/Victoria/21/2015	EPI_ISL_287944	Oceania	Australia
+A/Victoria/2102/2016	EPI_ISL_289064	Oceania	Australia
+A/Victoria/2111/2016	EPI_ISL_289071	Oceania	Australia
+A/Victoria/2502/2015	EPI_ISL_287991	Oceania	Australia
+A/Victoria/27/2014	EPI_ISL_288206	Oceania	Australia
+A/Victoria/3009/2015	EPI_ISL_287864	Oceania	Australia
+A/Victoria/3015/2015	EPI_ISL_287883	Oceania	Australia
+A/Victoria/3070/2015	EPI_ISL_287929	Oceania	Australia
+A/Victoria/3079/2015	EPI_ISL_287894	Oceania	Australia
+A/Victoria/3085/2015	EPI_ISL_287867	Oceania	Australia
+A/Victoria/503/2014	EPI_ISL_288226	Oceania	Australia
+A/Victoria/503/2015	EPI_ISL_194165	Oceania	Australia
+A/Victoria/5054/2014	EPI_ISL_288181	Oceania	Australia
+A/VICTORIA/5060/2014	EPI_ISL_168962	Oceania	Australia
+A/Victoria/5065/2014	EPI_ISL_288168	Oceania	Australia
+A/Victoria/5075/2014	EPI_ISL_288173	Oceania	Australia
+A/Victoria/508/2016	EPI_ISL_289107	Oceania	Australia
+A/Victoria/51/2015	EPI_ISL_287835	Oceania	Australia
+A/Victoria/519/2015	EPI_ISL_288022	Oceania	Australia
+A/Victoria/523/2015	EPI_ISL_288024	Oceania	Australia
+A/Victoria/527/2015	EPI_ISL_288025	Oceania	Australia
+A/Victoria/528/2014	EPI_ISL_288194	Oceania	Australia
+A/Victoria/53/2015	EPI_ISL_287817	Oceania	Australia
+A/Victoria/542/2016	EPI_ISL_289100	Oceania	Australia
+A/Victoria/546/2016	EPI_ISL_289095	Oceania	Australia
+A/Victoria/55/2015	EPI_ISL_287847	Oceania	Australia
+A/Victoria/576/2016	EPI_ISL_289076	Oceania	Australia
+A/Victoria/589/2016	EPI_ISL_289069	Oceania	Australia
+A/Victoria/600/2016	EPI_ISL_289060	Oceania	Australia
+A/Victoria/63/2015	EPI_ISL_287849	Oceania	Australia
+A/Victoria/63/2016	EPI_ISL_289061	Oceania	Australia
+A/Victoria/64/2015	EPI_ISL_287848	Oceania	Australia
+A/Victoria/660/2016	EPI_ISL_288837	Oceania	Australia
+A/Victoria/664/2015	EPI_ISL_209046	Oceania	Australia
+A/Victoria/668/2016	EPI_ISL_288845	Oceania	Australia
+A/Victoria/670/2016	EPI_ISL_288838	Oceania	Australia
+A/Victoria/673/2014	EPI_ISL_288171	Oceania	Australia
+A/Victoria/806/2014	EPI_ISL_288224	Oceania	Australia
+A/Victoria/820/2015	EPI_ISL_287982	Oceania	Australia
+A/Victoria/837/2015	EPI_ISL_287968	Oceania	Australia
+A/Victoria/853/2015	EPI_ISL_287973	Oceania	Australia
+A/Victoria/909/2016	EPI_ISL_289077	Oceania	Australia
+A/WELLINGTON/81/2014	EPI_ISL_168963	Oceania	New Zealand
+A/Acre/133946-IEC/2015	EPI_ISL_200698	South America 	 Brazil
+A/Acre/134806-IEC/2015	EPI_ISL_201222	South America 	 Brazil
+A/Acre/135094-IEC/2015	EPI_ISL_201223	South America 	 Brazil
+A/Acre/135356-IEC/2015	EPI_ISL_201225	South America 	 Brazil
+A/Alegrete/LACENRS-1624/2014	EPI_ISL_263261	South America 	 Brazil
+A/Argentina/103/2015	EPI_ISL_205197	South America 	 Argentina
+A/Argentina/104/2015	EPI_ISL_205199	South America 	 Argentina
+A/Argentina/11071/2014	EPI_ISL_167908	South America 	 Argentina
+A/Argentina/11093/2014	EPI_ISL_167909	South America 	 Argentina
+A/Argentina/11126/2014	EPI_ISL_167910	South America 	 Argentina
+A/Argentina/112/2015	EPI_ISL_200730	South America 	 Argentina
+A/Argentina/113/2015	EPI_ISL_200731	South America 	 Argentina
+A/Argentina/114/2015	EPI_ISL_200732	South America 	 Argentina
+A/Argentina/11573/2015	EPI_ISL_200742	South America 	 Argentina
+A/Argentina/11592/2015	EPI_ISL_205201	South America 	 Argentina
+A/Argentina/11594/2015	EPI_ISL_205203	South America 	 Argentina
+A/Argentina/11596/2015	EPI_ISL_205205	South America 	 Argentina
+A/Argentina/116/2015	EPI_ISL_202387	South America 	 Argentina
+A/Argentina/116/2016	EPI_ISL_230315	South America 	 Argentina
+A/Argentina/11611/2015	EPI_ISL_205207	South America 	 Argentina
+A/Argentina/11628/2015	EPI_ISL_205209	South America 	 Argentina
+A/Argentina/11639/2015	EPI_ISL_205210	South America 	 Argentina
+A/Argentina/11640/2015	EPI_ISL_205213	South America 	 Argentina
+A/Argentina/11652/2015	EPI_ISL_205215	South America 	 Argentina
+A/Argentina/11656/2015	EPI_ISL_205217	South America 	 Argentina
+A/Argentina/11659/2015	EPI_ISL_205219	South America 	 Argentina
+A/Argentina/120/2015	EPI_ISL_200734	South America 	 Argentina
+A/Argentina/121/2015	EPI_ISL_200735	South America 	 Argentina
+A/Argentina/132/2015	EPI_ISL_200736	South America 	 Argentina
+A/Argentina/133/2015	EPI_ISL_200737	South America 	 Argentina
+A/Argentina/135/2015	EPI_ISL_195879	South America 	 Argentina
+A/Argentina/149/2015	EPI_ISL_202434	South America 	 Argentina
+A/Argentina/156/2015	EPI_ISL_202435	South America 	 Argentina
+A/Argentina/157/2015	EPI_ISL_202437	South America 	 Argentina
+A/Argentina/158/2015	EPI_ISL_202438	South America 	 Argentina
+A/Argentina/163/2015	EPI_ISL_202829	South America 	 Argentina
+A/Argentina/166/2015	EPI_ISL_195878	South America 	 Argentina
+A/Argentina/169/2015	EPI_ISL_202831	South America 	 Argentina
+A/Argentina/181/2015	EPI_ISL_202833	South America 	 Argentina
+A/Argentina/183/2015	EPI_ISL_195866	South America 	 Argentina
+A/Argentina/196/2015	EPI_ISL_195873	South America 	 Argentina
+A/Argentina/218/2015	EPI_ISL_195875	South America 	 Argentina
+A/Argentina/229/2015	EPI_ISL_195857	South America 	 Argentina
+A/Argentina/23/2015	EPI_ISL_205191	South America 	 Argentina
+A/Argentina/234/2015	EPI_ISL_195877	South America 	 Argentina
+A/Argentina/235/2015	EPI_ISL_195860	South America 	 Argentina
+A/Argentina/236/2015	EPI_ISL_195861	South America 	 Argentina
+A/Argentina/24/2015	EPI_ISL_205193	South America 	 Argentina
+A/Argentina/25/2015	EPI_ISL_205195	South America 	 Argentina
+A/Argentina/250/2015	EPI_ISL_195864	South America 	 Argentina
+A/Argentina/254/2015	EPI_ISL_195863	South America 	 Argentina
+A/Argentina/255/2015	EPI_ISL_195867	South America 	 Argentina
+A/Argentina/261/2015	EPI_ISL_195871	South America 	 Argentina
+A/Argentina/943/2016	EPI_ISL_230314	South America 	 Argentina
+A/Bage/LACENRS-1200/2014	EPI_ISL_263274	South America 	 Brazil
+A/Bolivia/1770/2016	EPI_ISL_238657	South America 	Bolivia
+A/Bolivia/2315/2016	EPI_ISL_239165	South America 	Bolivia
+A/Bolivia/426/2015	EPI_ISL_205276	South America 	Bolivia
+A/Bolivia/499/2015	EPI_ISL_205277	South America 	Bolivia
+A/Bolivia/502/2015	EPI_ISL_205278	South America 	Bolivia
+A/Bolivia/667/2014	EPI_ISL_167911	South America 	Bolivia
+A/Bolivia/716/2014	EPI_ISL_167912	South America 	Bolivia
+A/Bolivia/751/2014	EPI_ISL_167913	South America 	Bolivia
+A/Brazil/0168/2015	EPI_ISL_201246	South America 	 Brazil
+A/Brazil/0293/2016	EPI_ISL_232999	South America 	 Brazil
+A/Brazil/0507/2015	EPI_ISL_206124	South America 	 Brazil
+A/Brazil/0515/2015	EPI_ISL_206125	South America 	 Brazil
+A/Brazil/0523/2015	EPI_ISL_206123	South America 	 Brazil
+A/Brazil/0636/2015	EPI_ISL_206126	South America 	 Brazil
+A/Brazil/0640/2015	EPI_ISL_206127	South America 	 Brazil
+A/Brazil/0769/2014	EPI_ISL_168112	South America 	 Brazil
+A/Brazil/0809/2016	EPI_ISL_244823	South America 	 Brazil
+A/Brazil/114/2015	EPI_ISL_197556	South America 	 Brazil
+A/Brazil/1790/2015	EPI_ISL_201247	South America 	 Brazil
+A/Brazil/1804/2015	EPI_ISL_200673	South America 	 Brazil
+A/Brazil/187/2015	EPI_ISL_193330	South America 	 Brazil
+A/Brazil/2002/2015	EPI_ISL_202400	South America 	 Brazil
+A/Brazil/2035/2014	EPI_ISL_168119	South America 	 Brazil
+A/Brazil/2047/2015	EPI_ISL_201249	South America 	 Brazil
+A/Brazil/2081/2015	EPI_ISL_201248	South America 	 Brazil
+A/Brazil/23262/2015	EPI_ISL_212137	South America 	 Brazil
+A/Brazil/237/2015	EPI_ISL_194174	South America 	 Brazil
+A/Brazil/2837/2015	EPI_ISL_197256	South America 	 Brazil
+A/Brazil/367/2014	EPI_ISL_168121	South America 	 Brazil
+A/Brazil/3972/2014	EPI_ISL_168104	South America 	 Brazil
+A/Brazil/4146/2014	EPI_ISL_168128	South America 	 Brazil
+A/Brazil/4388/2015	EPI_ISL_201245	South America 	 Brazil
+A/Brazil/4390/2015	EPI_ISL_202397	South America 	 Brazil
+A/Brazil/440/2015	EPI_ISL_200674	South America 	 Brazil
+A/Brazil/4996/2015	EPI_ISL_200677	South America 	 Brazil
+A/Brazil/56/2015	EPI_ISL_195885	South America 	 Brazil
+A/Brazil/6069/2014	EPI_ISL_168123	South America 	 Brazil
+A/Brazil/623/2014	EPI_ISL_168120	South America 	 Brazil
+A/Brazil/6261/2015	EPI_ISL_200678	South America 	 Brazil
+A/Brazil/6359/2016	EPI_ISL_242690	South America 	 Brazil
+A/Brazil/70/2015	EPI_ISL_194143	South America 	 Brazil
+A/Brazil/71886/2015	EPI_ISL_212962	South America 	 Brazil
+A/Brazil/7588/2015	EPI_ISL_201250	South America 	 Brazil
+A/Brazil/78870/2015	EPI_ISL_219083	South America 	 Brazil
+A/Brazil/8004/2015	EPI_ISL_194969	South America 	 Brazil
+A/Brazil/8433/2015	EPI_ISL_200671	South America 	 Brazil
+A/Brazil/8438/2015	EPI_ISL_193339	South America 	 Brazil
+A/Brazil/8925/2015	EPI_ISL_200676	South America 	 Brazil
+A/Brazil/9056/2015	EPI_ISL_193314	South America 	 Brazil
+A/Brazil/9492/2015	EPI_ISL_193340	South America 	 Brazil
+A/Brazil/9517/2015	EPI_ISL_193342	South America 	 Brazil
+A/Brazil/96/2015	EPI_ISL_195902	South America 	 Brazil
+A/Brazil/9850/2015	EPI_ISL_200672	South America 	 Brazil
+A/Brazil/9879/2014	EPI_ISL_168114	South America 	 Brazil
+A/Cambara do Sul/LACENRS-1939/2015	EPI_ISL_263253	South America 	 Brazil
+A/Cambara do Sul/LACENRS-2049/2015	EPI_ISL_263169	South America 	 Brazil
+A/Canoas/LACENRS-1283/2015	EPI_ISL_263142	South America 	 Brazil
+A/Canoas/LACENRS-1317/2014	EPI_ISL_263145	South America 	 Brazil
+A/Canoas/LACENRS-1660/2014	EPI_ISL_263140	South America 	 Brazil
+A/Canoas/LACENRS-1793/2015	EPI_ISL_263250	South America 	 Brazil
+A/Canoas/LACENRS-773/2015	EPI_ISL_263228	South America 	 Brazil
+A/Colombia/1297/2016	EPI_ISL_242694	South America 	 Colombia
+A/Colombia/1368/2016	EPI_ISL_242695	South America 	 Colombia
+A/Colombia/1373/2016	EPI_ISL_242696	South America 	 Colombia
+A/Colombia/1408/2016	EPI_ISL_242697	South America 	 Colombia
+A/Colombia/235/2015	EPI_ISL_199509	South America 	 Colombia
+A/Colombia/241/2015	EPI_ISL_199513	South America 	 Colombia
+A/Colombia/2473/2015	EPI_ISL_179012	South America 	 Colombia
+A/Colombia/4352/2015	EPI_ISL_179013	South America 	 Colombia
+A/Colombia/4468/2015	EPI_ISL_179011	South America 	 Colombia
+A/Colombia/5215/2015	EPI_ISL_199516	South America 	 Colombia
+A/Colombia/5364/2015	EPI_ISL_199511	South America 	 Colombia
+A/Colombia/5402/2015	EPI_ISL_199508	South America 	 Colombia
+A/Colombia/5433/2015	EPI_ISL_201208	South America 	 Colombia
+A/Colombia/5438/2015	EPI_ISL_199510	South America 	 Colombia
+A/Colombia/5614/2015	EPI_ISL_195896	South America 	 Colombia
+A/Colombia/5615/2015	EPI_ISL_195899	South America 	 Colombia
+A/Colombia/6276/2015	EPI_ISL_212051	South America 	 Colombia
+A/Colombia/6308/2015	EPI_ISL_212052	South America 	 Colombia
+A/Colombia/6352/2015	EPI_ISL_220284	South America 	 Colombia
+A/Colombia/6372/2015	EPI_ISL_214526	South America 	 Colombia
+A/Colombia/6438/2015	EPI_ISL_212974	South America 	 Colombia
+A/Colombia/6443/2015	EPI_ISL_212975	South America 	 Colombia
+A/Colombia/6825/2015	EPI_ISL_212976	South America 	 Colombia
+A/Colombia/6844/2015	EPI_ISL_212977	South America 	 Colombia
+A/Colombia/6855/2015	EPI_ISL_214527	South America 	 Colombia
+A/Colombia/6860/2015	EPI_ISL_215254	South America 	 Colombia
+A/Colombia/7113/2015	EPI_ISL_212978	South America 	 Colombia
+A/Colombia/7207/2015	EPI_ISL_212053	South America 	 Colombia
+A/Colombia/7208/2015	EPI_ISL_212054	South America 	 Colombia
+A/Colombia/9773/2016	EPI_ISL_234038	South America 	 Colombia
+A/Concepcion/75466/2015	EPI_ISL_206116	South America 	 Chile
+A/Cruz Alta/LACENRS-2045/2014	EPI_ISL_263268	South America 	 Brazil
+A/Cruz Alta/LACENRS-2623/2014	EPI_ISL_263223	South America 	 Brazil
+A/Ecuador/1372/2016	EPI_ISL_232553	South America 	 Ecuador
+A/Ecuador/1374/2016	EPI_ISL_232542	South America 	 Ecuador
+A/Ecuador/1668/2015	EPI_ISL_194962	South America 	 Ecuador
+A/Ecuador/1670/2015	EPI_ISL_194961	South America 	 Ecuador
+A/Ecuador/1673/2015	EPI_ISL_197496	South America 	 Ecuador
+A/Ecuador/1695/2015	EPI_ISL_200682	South America 	 Ecuador
+A/Ecuador/1845/2015	EPI_ISL_200684	South America 	 Ecuador
+A/Ecuador/220/2016	EPI_ISL_232989	South America 	 Ecuador
+A/Ecuador/2369/2015	EPI_ISL_195876	South America 	 Ecuador
+A/Ecuador/2384/2015	EPI_ISL_194960	South America 	 Ecuador
+A/Ecuador/2404/2015	EPI_ISL_200680	South America 	 Ecuador
+A/Ecuador/2495/2016	EPI_ISL_232986	South America 	 Ecuador
+A/Ecuador/2673/2016	EPI_ISL_232988	South America 	 Ecuador
+A/Ecuador/572/2015	EPI_ISL_200681	South America 	 Ecuador
+A/Ecuador/821/2015	EPI_ISL_200683	South America 	 Ecuador
+A/Farroupilha/LACENRS-1297/2014	EPI_ISL_263222	South America 	 Brazil
+A/French Guiana/5020/2015	EPI_ISL_205629	South America 	 French Guiana
+A/French Guiana/6101/2015	EPI_ISL_201229	South America 	 French Guiana
+A/French Guiana/8217/2015	EPI_ISL_201235	South America 	 French Guiana
+A/French Guiana/9189/2015	EPI_ISL_201236	South America 	 French Guiana
+A/Gorbea/75876/2015	EPI_ISL_207393	South America 	 Chile
+A/Guyane/2773/2016	EPI_ISL_238145	South America 	 French Guiana
+A/Guyane/2774/2016	EPI_ISL_236649	South America 	 French Guiana
+A/Guyane/2776/2016	EPI_ISL_236651	South America 	 French Guiana
+A/Guyane/2777/2016	EPI_ISL_238146	South America 	 French Guiana
+A/Guyane/2780/2016	EPI_ISL_237267	South America 	 French Guiana 
+A/Guyane/2782/2016	EPI_ISL_236652	South America 	 French Guiana
+A/Guyane/501/2016	EPI_ISL_249963	South America 	 French Guiana
+A/Guyane/590/2016	EPI_ISL_249969	South America 	 French Guiana
+A/Guyane/601/2016	EPI_ISL_249970	South America 	 French Guiana
+A/ilopolis/LACENRS-1322/2014	EPI_ISL_263298	South America 	 Brazil
+A/Iquique/62331/2014	EPI_ISL_171353	South America 	 Chile
+A/Linares/71226/2015	EPI_ISL_207402	South America 	 Chile
+A/Para/134244-IEC/2015	EPI_ISL_200700	South America 	 Brazil
+A/Para/134324-IEC/2015	EPI_ISL_200701	South America 	 Brazil
+A/Para/134473-IEC/2015	EPI_ISL_200702	South America 	 Brazil
+A/Para/134575-IEC/2015	EPI_ISL_200703	South America 	 Brazil
+A/Para/134701-IEC/2015	EPI_ISL_200706	South America 	 Brazil
+A/Paraguay/0049/2014	EPI_ISL_167947	South America 	 Paraguay
+A/Paraguay/0094/2014	EPI_ISL_171388	South America 	 Paraguay
+A/Paraguay/0095/2014	EPI_ISL_167948	South America 	 Paraguay
+A/Paraguay/0097/2014	EPI_ISL_191036	South America 	 Paraguay
+A/Paraguay/3144/2014	EPI_ISL_172529	South America 	 Paraguay
+A/Paraguay/3371/2015	EPI_ISL_197275	South America 	 Paraguay
+A/Paraguay/3585/2015	EPI_ISL_197273	South America 	 Paraguay
+A/Paraguay/4413/2014	EPI_ISL_172771	South America 	 Paraguay
+A/Paraguay/5554/2015	EPI_ISL_197277	South America 	 Paraguay
+A/Paraguay/5821/2015	EPI_ISL_208607	South America 	 Paraguay
+A/Paraguay/6248/2015	EPI_ISL_197274	South America 	 Paraguay
+A/Paraguay/6991/2015	EPI_ISL_197276	South America 	 Paraguay
+A/Paraiba/143404-IEC/2016	EPI_ISL_247962	South America 	 Brazil
+A/Parana/87/2014	EPI_ISL_166797	South America 	 Brazil 
+A/Passo Fundo/LACENRS-1854/2015	EPI_ISL_263376	South America 	 Brazil
+A/Pelotas/LACENRS-1787/2015	EPI_ISL_263265	South America 	 Brazil
+A/Pernambuco/135596-IEC/2015	EPI_ISL_203424	South America 	 Brazil
+A/Pernambuco/135597-IEC/2015	EPI_ISL_203425	South America 	 Brazil
+A/Pernambuco/136136-IEC/2015	EPI_ISL_203426	South America 	 Brazil
+A/Peru/0216/2016	EPI_ISL_239673	South America 	 Peru
+A/Peru/1216/2016	EPI_ISL_238650	South America 	 Peru
+A/Peru/1416/2016	EPI_ISL_239674	South America 	 Peru
+A/Peru/27/2015	EPI_ISL_192696	South America 	 Peru
+A/Peru/2716/2016	EPI_ISL_238655	South America 	 Peru
+A/Peru/28/2015	EPI_ISL_192703	South America 	 Peru
+A/Peru/30/2015	EPI_ISL_192697	South America 	 Peru
+A/Peru/3216/2016	EPI_ISL_238656	South America 	 Peru
+A/Peru/34/2015	EPI_ISL_193334	South America 	 Peru
+A/Peru/36/2015	EPI_ISL_193335	South America 	 Peru
+A/Peru/37/2015	EPI_ISL_193336	South America 	 Peru
+A/Peru/3916/2016	EPI_ISL_239675	South America 	 Peru
+A/Peru/5116/2016	EPI_ISL_230357	South America 	 Peru
+A/Peru/61016/2016	EPI_ISL_238654	South America 	 Peru
+A/Peru/6116/2016	EPI_ISL_230356	South America 	 Peru
+A/Peru/65116/2016	EPI_ISL_242716	South America 	 Peru
+A/Peru/69/2015	EPI_ISL_203428	South America 	 Peru
+A/Peru/6915/2015	EPI_ISL_202391	South America 	 Peru
+A/Peru/71/2015	EPI_ISL_207389	South America 	 Peru
+A/Peru/72/2015	EPI_ISL_207390	South America 	 Peru
+A/Peru/81016/2016	EPI_ISL_239676	South America 	 Peru
+A/Peru/8116/2016	EPI_ISL_238652	South America 	 Peru
+A/Peru/8316/2016	EPI_ISL_240144	South America 	 Peru
+A/Peru/9016/2016	EPI_ISL_230358	South America 	 Peru
+A/Porto Alegre/LACENRS-1013/2016	EPI_ISL_263257	South America 	 Brazil
+A/Porto Alegre/LACENRS-1030/2015	EPI_ISL_263269	South America 	 Brazil
+A/Porto Alegre/LACENRS-1075/2015	EPI_ISL_263242	South America 	 Brazil
+A/Porto Alegre/LACENRS-1112/2015	EPI_ISL_263230	South America 	 Brazil
+A/Porto Alegre/LACENRS-1155/2015	EPI_ISL_263374	South America 	 Brazil
+A/Porto Alegre/LACENRS-1351/2014	EPI_ISL_263251	South America 	 Brazil
+A/Porto Alegre/LACENRS-1406/2014	EPI_ISL_263170	South America 	 Brazil
+A/Porto Alegre/LACENRS-1447/2014	EPI_ISL_263125	South America 	 Brazil
+A/Porto Alegre/LACENRS-1738/2015	EPI_ISL_263137	South America 	 Brazil
+A/Porto Alegre/LACENRS-1887/2015	EPI_ISL_263161	South America 	 Brazil
+A/Porto Alegre/LACENRS-1969/2015	EPI_ISL_263234	South America 	 Brazil
+A/Porto Alegre/LACENRS-2021/2014	EPI_ISL_263124	South America 	 Brazil
+A/Porto Alegre/LACENRS-2232/2014	EPI_ISL_263259	South America 	 Brazil
+A/Porto Alegre/LACENRS-2376/2014	EPI_ISL_263247	South America 	 Brazil
+A/Porto Alegre/LACENRS-820/2015	EPI_ISL_263174	South America 	 Brazil
+A/Porto Alegre/LACENRS-846/2015	EPI_ISL_263203	South America 	 Brazil
+A/Porto Alegre/LACENRS-921/2015	EPI_ISL_263302	South America 	 Brazil
+A/Rio Grande Do Norte/134592-IEC/2015	EPI_ISL_200704	South America 	 Brazil
+A/Rio Grande Do Norte/134696-IEC/2015	EPI_ISL_200705	South America 	 Brazil
+A/Rio Grande Do Norte/135219-IEC/2015	EPI_ISL_201224	South America 	 Brazil
+A/Rio Grande Do Norte/135497-IEC/2015	EPI_ISL_201226	South America 	 Brazil
+A/Rio Grande do Sul/23/2014	EPI_ISL_166794	South America 	 Brazil 
+A/Roraima/141969-IEC/2016	EPI_ISL_233003	South America 	 Brazil
+A/Roraima/143199-IEC/2016	EPI_ISL_247961	South America 	 Brazil
+A/Roraima/144096-IEC/2016	EPI_ISL_247963	South America 	 Brazil
+A/Roraima/144238-IEC/2016	EPI_ISL_247964	South America 	 Brazil
+A/Roraima/144714-IEC/2016	EPI_ISL_247965	South America 	 Brazil
+A/Santa Cruz do Sul/LACENRS-1625/2014	EPI_ISL_263136	South America 	 Brazil
+A/Santiago/33417/2015	EPI_ISL_193313	South America 	 Chile
+A/Santiago/35385/2015	EPI_ISL_194975	South America 	 Chile
+A/Santiago/37245/2015	EPI_ISL_194971	South America 	 Chile
+A/Santiago/39170/2015	EPI_ISL_193318	South America 	 Chile
+A/Santiago/40992/2015	EPI_ISL_194972	South America 	 Chile
+A/Santiago/42575/2015	EPI_ISL_194973	South America 	 Chile
+A/Santiago/44139/2015	EPI_ISL_194974	South America 	 Chile
+A/Santiago/68839/2014	EPI_ISL_172778	South America 	 Chile
+A/Santiago/70123/2014	EPI_ISL_171369	South America 	 Chile
+A/Santiago/70910/2015	EPI_ISL_207407	South America 	 Chile
+A/Suriname/1665/2016	EPI_ISL_253049	South America 	 Suriname
+A/Suriname/1683/2016	EPI_ISL_253050	South America 	 Suriname
+A/Suriname/1693/2016	EPI_ISL_253051	South America 	 Suriname
+A/Suriname/1716/2016	EPI_ISL_253052	South America 	 Suriname
+A/Talca/14380/2016	EPI_ISL_225093	South America 	 Chile
+A/Talca/79797/2015	EPI_ISL_207456	South America 	 Chile
+A/Temuco/50233/2016	EPI_ISL_232534	South America 	 Chile
+A/Temuco/75349/2015	EPI_ISL_206115	South America 	 Chile
+A/Uruguay/122/2015	EPI_ISL_199517	South America 	 Uruguay
+A/Uruguay/39/2015	EPI_ISL_199519	South America 	 Uruguay
+A/Uruguay/43/2015	EPI_ISL_199520	South America 	 Uruguay
+A/Uruguay/44/2015	EPI_ISL_199506	South America 	 Uruguay
+A/Uruguay/54/2015	EPI_ISL_199521	South America 	 Uruguay
+A/Uruguay/55/2015	EPI_ISL_199522	South America 	 Uruguay
+A/Uruguay/86/2015	EPI_ISL_199504	South America 	 Uruguay
+A/Valparaiso/42142/2015	EPI_ISL_194979	South America 	 Chile
+A/Valparaiso/50516/2016	EPI_ISL_232535	South America 	 Chile
+A/Valparaiso/51089/2016	EPI_ISL_232537	South America 	 Chile
+A/Venezuela/07/2014	EPI_ISL_172735	South America 	 Venezuela
+A/Venezuela/13/2016	EPI_ISL_237365	South America 	 Venezuela
+A/Viamao/LACENRS-733/2014	EPI_ISL_263237	South America 	 Brazil
+A/Viamao/LACENRS-974/2015	EPI_ISL_263252	South America 	 Brazil
