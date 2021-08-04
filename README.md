@@ -6,19 +6,16 @@ Institution:	KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya
 
 Date Published: 30 August 2020
 
-
 ## Introduction
 
 This repository contains data and input files for the phylogeographical analysis of
 **influenza A H3N2 virus from Kilifi, Kenya, 2015-2016.**
-
 
 ## General instructions
 
 The data and instructions will allow replication of the results in my PhD thesis available
 at http://oro.open.ac.uk/75472/; Chapter 3 - Phylogeography of Influenza A(H3N2) Virus in
 Kilifi, Kenya, 2015-2016.
-
 
 ## Data
 
@@ -35,13 +32,11 @@ of sequencing reads; number of influenza virus reads; Ct - PCR Ct value; date - 
 dates; and strain_accession - strain identity showing collection site and collection date
 for phylogeographical analyses.
 
-
 *	H3N2_global_2014-2016_genome_details.txt
 
 A list of global influenza H3N2 virus data from 2014-16 showing: strain - virus strain
 identity; accession - GISAID accession number; country - country of isolation; and
 continent - continent of isolation.
-
 
 2.	2_H3N2_Kilifi_phylogeography
 
@@ -55,13 +50,11 @@ Kilifi virus sequence data.
 * H3N2_KHDSS_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_MCC.trees - 
 MCC tree from BEAST analyses for annotation of phylogenetic tree with virus lineages.
 
-
 3.	3_H3N2_Kilifi_BaTS
   
 The edited trees file from BEAST analysis for BaTS analysis.
 
-*	H3N2_Kilifi_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_bats_locations.trees
-
+* H3N2_Kilifi_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_bats_locations.trees
 
 ## Analysis
 
