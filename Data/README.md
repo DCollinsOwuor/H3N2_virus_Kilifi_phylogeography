@@ -36,6 +36,9 @@ Kilifi virus sequence data.
 
 * kilifi.geojson - Kilifi geojson file for phylogeographical analysis of Kilifi NGS data.
 
+* H3N2_KHDSS_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_MCC.trees - 
+MCC tree from BEAST analyses for annotation of phylogenetic tree with virus lineages.
+
 3.	3_H3N2_Kilifi_BaTS
   
 The edited trees file from BEAST analysis for BaTS analysis.
