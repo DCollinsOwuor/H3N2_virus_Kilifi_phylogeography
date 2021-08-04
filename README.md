@@ -20,7 +20,7 @@ at http://oro.open.ac.uk/75472/; Chapter 3 - Phylogeography of Influenza A(H3N2)
 Kilifi, Kenya, 2015-2016.
 
 
-## Datasets
+## Data
 
 This folder contains next generation sequencing (NGS) data and input files for the
 phylogenetic and phylogeographical analyses.
@@ -59,6 +59,19 @@ The edited trees file from BEAST analysis for BaTS analysis.
 *	H3N2_Kilifi_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_bats_locations.trees
 
 
+## Analysis
+
+This folder contains analysis scripts and analysis files used to generate chapter figures.
+
+1.	1_KHDSS_site_frequency
+
+*	Site_frequency.R - R script for plotting sampled influenza viruses over time. 
+
+*	KHDSS_site_frequency.csv - File with data on sampled influenza viruses.
+
+*	Figure_3.1
+
+
 ##	Figures
 
-This folder contains figures from the analyses.
+This folder contains all the figures from the analyses.
