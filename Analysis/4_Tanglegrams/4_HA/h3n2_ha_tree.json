@@ -1,0 +1,3339 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "date": "2013-06-10",
+    "div": 0,
+    "location": "Chasimba",
+    "location_confidence": {
+      "Chasimba": 0.5042076633476742,
+      "Matsangoni": 0.07716666779972811,
+      "Mavueni": 0.07720332802887395,
+      "Pingilikani": 0.08311818445101056
+    },
+    "location_entropy": 1.6986144349916361,
+    "num_date": 2013.4417016022485,
+    "num_date_confidence": [
+      2011.8638302610868,
+      2014.022696853937
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "HA1": [
+          "N171K"
+        ],
+        "HA2": [
+          "I77V",
+          "G155E"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.003093733325649316,
+        "date": "2014-12-27",
+        "div": 0.004125630010201191,
+        "location": "Chasimba",
+        "location_confidence": {
+          "Chasimba": 0.38774393739637947,
+          "Matsangoni": 0.12692893053780846,
+          "Ngerenya": 0.16095248735572723,
+          "Pingilikani": 0.16276844859822487
+        },
+        "location_entropy": 1.7609747097069857,
+        "num_date": 2014.9885682650731,
+        "num_date_confidence": [
+          2014.2470588590559,
+          2015.3805752134965
+        ]
+      },
+      "branch_length": 0.00309373,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.0019268596471328,
+            "date": "2015-12-13",
+            "div": 0.005891411725909685,
+            "location": "Pingilikani",
+            "location_confidence": {
+              "Chasimba": 0.0750983069489315,
+              "Matsangoni": 0.03046936990707641,
+              "Ngerenya": 0.407728003394236,
+              "Pingilikani": 0.42646483248139416
+            },
+            "location_entropy": 1.291877015734975,
+            "num_date": 2015.9519980886396,
+            "num_date_confidence": [
+              2015.8411635633067,
+              2016.113296989156
+            ]
+          },
+          "branch_length": 0.00192686,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0008571263415432491,
+                "date": "2016-05-18",
+                "div": 0.006479745486683145,
+                "location": "Pingilikani",
+                "location_confidence": {
+                  "Pingilikani": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2016.3805612594113,
+                "num_date_confidence": [
+                  2016.3805612594113,
+                  2016.3805612594113
+                ],
+                "raw_date": "2016-05-18"
+              },
+              "branch_length": 0.00085713,
+              "clade": 0,
+              "muts": [
+                "A81T"
+              ],
+              "strain": "A/Kilifi/PIN/116/2016_18-May-2016",
+              "yvalue": 66
+            },
+            {
+              "aa_muts": {
+                "HA1": [
+                  "R261Q"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0009137542297789928,
+                "date": "2016-05-29",
+                "div": 0.0076575232531468475,
+                "location": "Ngerenya",
+                "location_confidence": {
+                  "Chasimba": 0.0025594569099745006,
+                  "Matsangoni": 0.0021631874748235936,
+                  "Ngerenya": 0.9786651501672283,
+                  "Pingilikani": 0.01297685723880344
+                },
+                "location_entropy": 0.13198722124356282,
+                "num_date": 2016.408875203529,
+                "num_date_confidence": [
+                  2016.2387597684228,
+                  2016.432580424367
+                ]
+              },
+              "branch_length": 0.00091375,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 4.7410441675674667e-05,
+                    "date": "2016-06-07",
+                    "div": 0.007657523253146857,
+                    "location": "Ngerenya",
+                    "location_confidence": {
+                      "Ngerenya": 0.9999999999999999
+                    },
+                    "location_entropy": -9.99866855976916e-13,
+                    "num_date": 2016.432580424367,
+                    "num_date_confidence": [
+                      2016.432580424367,
+                      2016.432580424367
+                    ],
+                    "raw_date": "2016-06-06"
+                  },
+                  "branch_length": 4.741e-05,
+                  "clade": 1,
+                  "muts": [],
+                  "strain": "A/Kilifi/NGE/109/2016_06-Jun-2016",
+                  "yvalue": 65
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 4.7410441675674667e-05,
+                    "date": "2016-06-07",
+                    "div": 0.007657523253146857,
+                    "location": "Ngerenya",
+                    "location_confidence": {
+                      "Ngerenya": 0.9999999999999999
+                    },
+                    "location_entropy": -9.99866855976916e-13,
+                    "num_date": 2016.432580424367,
+                    "num_date_confidence": [
+                      2016.432580424367,
+                      2016.432580424367
+                    ],
+                    "raw_date": "2016-06-06"
+                  },
+                  "branch_length": 4.741e-05,
+                  "clade": 2,
+                  "muts": [],
+                  "strain": "A/Kilifi/NGE/110/2016_06-Jun-2016",
+                  "yvalue": 64
+                }
+              ],
+              "clade": 3,
+              "muts": [
+                "G830A",
+                "G1056A",
+                "G1407A"
+              ],
+              "strain": "NODE_0000041",
+              "yvalue": 64.5
+            }
+          ],
+          "clade": 4,
+          "muts": [
+            "C204T",
+            "C267T",
+            "A1197G"
+          ],
+          "strain": "NODE_0000040",
+          "yvalue": 65.25
+        },
+        {
+          "aa_muts": {
+            "HA1": [
+              "D53E",
+              "Q75H",
+              "K92R",
+              "H311Q"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.002098606885409641,
+            "date": "2016-01-13",
+            "div": 0.008848367912413564,
+            "location": "Chasimba",
+            "location_confidence": {
+              "Chasimba": 0.5556579805612254,
+              "Matsangoni": 0.27932005526988024,
+              "Mtondia": 0.047175144359799755,
+              "Ngerenya": 0.03529814272269868
+            },
+            "location_entropy": 1.2750975880514739,
+            "num_date": 2016.037871707778,
+            "num_date_confidence": [
+              2015.887770655537,
+              2016.3101745082777
+            ]
+          },
+          "branch_length": 0.00209861,
+          "children": [
+            {
+              "aa_muts": {
+                "HA1": [
+                  "S144G"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0007666847859801873,
+                "date": "2016-06-02",
+                "div": 0.009436347041643232,
+                "location": "Chasimba",
+                "location_confidence": {
+                  "Chasimba": 0.9524056443397422,
+                  "Matsangoni": 0.0178523265633579,
+                  "Mavueni": 0.015781534483752042,
+                  "Mtondia": 0.005375662207641976
+                },
+                "location_entropy": 0.2659955321264476,
+                "num_date": 2016.421214100768,
+                "num_date_confidence": [
+                  2016.09644604851,
+                  2016.473648186174
+                ]
+              },
+              "branch_length": 0.00076668,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00010486817081158204,
+                    "date": "2016-06-22",
+                    "div": 0.009436347041643242,
+                    "location": "Chasimba",
+                    "location_confidence": {
+                      "Chasimba": 1.0
+                    },
+                    "location_entropy": -1.000088900581841e-12,
+                    "num_date": 2016.473648186174,
+                    "num_date_confidence": [
+                      2016.473648186174,
+                      2016.473648186174
+                    ],
+                    "raw_date": "2016-06-21"
+                  },
+                  "branch_length": 0.00010487,
+                  "clade": 5,
+                  "muts": [],
+                  "strain": "A/Kilifi/CHA/056/2016_21-Jun-2016",
+                  "yvalue": 63
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0007025132579082877,
+                    "date": "2016-10-09",
+                    "div": 0.009436347041643242,
+                    "location": "Chasimba",
+                    "location_confidence": {
+                      "Chasimba": 0.946274167423027,
+                      "Matsangoni": 0.0041603007813683516,
+                      "Mavueni": 0.043209340699387346,
+                      "Mtondia": 0.0023216961228977573
+                    },
+                    "location_entropy": 0.25347800140298266,
+                    "num_date": 2016.7724707297223,
+                    "num_date_confidence": [
+                      2016.3859499506211,
+                      2016.8673143599813
+                    ]
+                  },
+                  "branch_length": 0.00070251,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0002510886569138818,
+                        "date": "2016-11-23",
+                        "div": 0.010024326248518435,
+                        "location": "Chasimba",
+                        "location_confidence": {
+                          "Chasimba": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2016.8980150581792,
+                        "num_date_confidence": [
+                          2016.8980150581792,
+                          2016.8980150581792
+                        ],
+                        "raw_date": "2016-11-23"
+                      },
+                      "branch_length": 0.00025109,
+                      "clade": 6,
+                      "muts": [
+                        "G837A"
+                      ],
+                      "strain": "A/Kilifi/CHA/057/2016_23-Nov-2016",
+                      "yvalue": 62
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0001757587458944363,
+                        "date": "2016-11-10",
+                        "div": 0.009436347041643253,
+                        "location": "Mavueni",
+                        "location_confidence": {
+                          "Chasimba": 0.48894359559445155,
+                          "Mavueni": 0.5021511468605099,
+                          "Mtondia": 0.0019975061179810837,
+                          "Sokoke": 0.002229812283851566
+                        },
+                        "location_entropy": 0.7539502125935341,
+                        "num_date": 2016.8603501026696,
+                        "num_date_confidence": [
+                          2016.7127748778937,
+                          2016.8748501026696
+                        ]
+                      },
+                      "branch_length": 0.00017576,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 3.699999999999971e-05,
+                            "date": "2016-11-17",
+                            "div": 0.009436347041643263,
+                            "location": "Mavueni",
+                            "location_confidence": {
+                              "Chasimba": 0.4892521994913348,
+                              "Mavueni": 0.5033990751966839,
+                              "Mtondia": 0.0017681836839977061,
+                              "Sokoke": 0.00143460428044445
+                            },
+                            "location_entropy": 0.744976196856851,
+                            "num_date": 2016.8788501026695,
+                            "num_date_confidence": [
+                              2016.8388606763963,
+                              2016.8788501026695
+                            ]
+                          },
+                          "branch_length": 3.7e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0,
+                                "date": "2016-11-17",
+                                "div": 0.009436347041643273,
+                                "location": "Chasimba",
+                                "location_confidence": {
+                                  "Chasimba": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2016.8788501026695,
+                                "num_date_confidence": [
+                                  2016.8788501026695,
+                                  2016.8788501026695
+                                ],
+                                "raw_date": "2016-11-16"
+                              },
+                              "branch_length": 0.0,
+                              "clade": 7,
+                              "muts": [],
+                              "strain": "A/Kilifi/CHA/055/2016_16-Nov-2016",
+                              "yvalue": 61
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0,
+                                "date": "2016-11-17",
+                                "div": 0.009436347041643273,
+                                "location": "Mavueni",
+                                "location_confidence": {
+                                  "Mavueni": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2016.8788501026695,
+                                "num_date_confidence": [
+                                  2016.8788501026695,
+                                  2016.8788501026695
+                                ],
+                                "raw_date": "2016-11-16"
+                              },
+                              "branch_length": 0.0,
+                              "clade": 8,
+                              "muts": [],
+                              "strain": "A/Kilifi/MAV/094/2016_16-Nov-2016",
+                              "yvalue": 60
+                            }
+                          ],
+                          "clade": 9,
+                          "muts": [],
+                          "strain": "NODE_0000008",
+                          "yvalue": 60.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 3.480696608611656e-05,
+                            "date": "2016-11-16",
+                            "div": 0.009436347041643263,
+                            "location": "Mavueni",
+                            "location_confidence": {
+                              "Chasimba": 0.0442928524789645,
+                              "Mavueni": 0.9381810410216352,
+                              "Mtondia": 0.0016698542526449665,
+                              "Sokoke": 0.012134765461696827
+                            },
+                            "location_entropy": 0.2885573876565651,
+                            "num_date": 2016.8777535857125,
+                            "num_date_confidence": [
+                              2016.832913727576,
+                              2016.8788501026695
+                            ]
+                          },
+                          "branch_length": 3.481e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 2.1930339138831467e-06,
+                                "date": "2016-11-17",
+                                "div": 0.009436347041643273,
+                                "location": "Mavueni",
+                                "location_confidence": {
+                                  "Mavueni": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2016.8788501026695,
+                                "num_date_confidence": [
+                                  2016.8788501026695,
+                                  2016.8788501026695
+                                ],
+                                "raw_date": "2016-11-16"
+                              },
+                              "branch_length": 2.19e-06,
+                              "clade": 10,
+                              "muts": [],
+                              "strain": "A/Kilifi/MAV/093/2016_16-Nov-2016",
+                              "yvalue": 59
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 2.049101112927207e-05,
+                                "date": "2016-11-20",
+                                "div": 0.009436347041643273,
+                                "location": "Mavueni",
+                                "location_confidence": {
+                                  "Chasimba": 0.0133614413605662,
+                                  "Mavueni": 0.9176060110419245,
+                                  "Mtondia": 0.0021221664420161368,
+                                  "Sokoke": 0.06216478026953876
+                                },
+                                "location_entropy": 0.35474918827711677,
+                                "num_date": 2016.8879990912772,
+                                "num_date_confidence": [
+                                  2016.8700907856162,
+                                  2016.911704312115
+                                ]
+                              },
+                              "branch_length": 2.049e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 8.574035269557495e-05,
+                                    "date": "2016-12-06",
+                                    "div": 0.009436347041643284,
+                                    "location": "Sokoke",
+                                    "location_confidence": {
+                                      "Sokoke": 0.9999999999999999
+                                    },
+                                    "location_entropy": -9.99866855976916e-13,
+                                    "num_date": 2016.930869267625,
+                                    "num_date_confidence": [
+                                      2016.930869267625,
+                                      2016.930869267625
+                                    ],
+                                    "raw_date": "2016-12-05"
+                                  },
+                                  "branch_length": 8.574e-05,
+                                  "clade": 11,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/SOK/119/2016_05-Dec-2016",
+                                  "yvalue": 58
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 4.7410441675674667e-05,
+                                    "date": "2016-11-29",
+                                    "div": 0.009436347041643284,
+                                    "location": "Mavueni",
+                                    "location_confidence": {
+                                      "Mavueni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.911704312115,
+                                    "num_date_confidence": [
+                                      2016.911704312115,
+                                      2016.911704312115
+                                    ],
+                                    "raw_date": "2016-11-28"
+                                  },
+                                  "branch_length": 4.741e-05,
+                                  "clade": 12,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MAV/097/2016_28-Nov-2016",
+                                  "yvalue": 57
+                                }
+                              ],
+                              "clade": 13,
+                              "muts": [],
+                              "strain": "NODE_0000011",
+                              "yvalue": 57.5
+                            }
+                          ],
+                          "clade": 14,
+                          "muts": [],
+                          "strain": "NODE_0000010",
+                          "yvalue": 58.25
+                        }
+                      ],
+                      "clade": 15,
+                      "muts": [],
+                      "strain": "NODE_0000007",
+                      "yvalue": 59.375
+                    }
+                  ],
+                  "clade": 16,
+                  "muts": [],
+                  "strain": "NODE_0000006",
+                  "yvalue": 60.6875
+                }
+              ],
+              "clade": 17,
+              "muts": [
+                "A478G"
+              ],
+              "strain": "NODE_0000046",
+              "yvalue": 61.84375
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 2.038077384486272e-05,
+                "date": "2016-01-17",
+                "div": 0.008848367912413575,
+                "location": "Matsangoni",
+                "location_confidence": {
+                  "Chasimba": 0.09966372010987277,
+                  "Matsangoni": 0.776221789909418,
+                  "Mtondia": 0.06179290189290215,
+                  "Sokoke": 0.02862385426603528
+                },
+                "location_entropy": 0.8644903192530985,
+                "num_date": 2016.0480620947005,
+                "num_date_confidence": [
+                  2015.9331732195556,
+                  2016.7236463731824
+                ]
+              },
+              "branch_length": 2.038e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00144953983311221,
+                    "date": "2016-10-09",
+                    "div": 0.008848367912413585,
+                    "location": "Matsangoni",
+                    "location_confidence": {
+                      "Chasimba": 0.003509487803262322,
+                      "Matsangoni": 0.9870973653592644,
+                      "Mtondia": 0.005459117687583202,
+                      "Sokoke": 0.001634834866428477
+                    },
+                    "location_entropy": 0.0889210883413642,
+                    "num_date": 2016.7728320112567,
+                    "num_date_confidence": [
+                      2016.2266099786136,
+                      2016.8772689288967
+                    ]
+                  },
+                  "branch_length": 0.00144954,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "HA2": [
+                          "K39R"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.00021751188439998043,
+                        "date": "2016-11-18",
+                        "div": 0.009436347041643253,
+                        "location": "Matsangoni",
+                        "location_confidence": {
+                          "Matsangoni": 0.9982401197485825
+                        },
+                        "location_entropy": 0.015560204546769867,
+                        "num_date": 2016.8815879534566,
+                        "num_date_confidence": [
+                          2016.8294508990034,
+                          2016.8815879534566
+                        ]
+                      },
+                      "branch_length": 0.00021751,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0,
+                            "date": "2016-11-18",
+                            "div": 0.009436347041643263,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2016.8815879534566,
+                            "num_date_confidence": [
+                              2016.8815879534566,
+                              2016.8815879534566
+                            ],
+                            "raw_date": "2016-11-17"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 18,
+                          "muts": [],
+                          "strain": "A/Kilifi/MAT/084/2016_17-Nov-2016",
+                          "yvalue": 56
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0,
+                            "date": "2016-11-18",
+                            "div": 0.009436347041643263,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2016.8815879534566,
+                            "num_date_confidence": [
+                              2016.8815879534566,
+                              2016.8815879534566
+                            ],
+                            "raw_date": "2016-11-17"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 19,
+                          "muts": [],
+                          "strain": "A/Kilifi/MAT/085/2016_17-Nov-2016",
+                          "yvalue": 55
+                        }
+                      ],
+                      "clade": 20,
+                      "muts": [
+                        "A1151G"
+                      ],
+                      "strain": "NODE_0000045",
+                      "yvalue": 55.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00020843135374420604,
+                        "date": "2016-11-16",
+                        "div": 0.008848367912413595,
+                        "location": "Matsangoni",
+                        "location_confidence": {
+                          "Matsangoni": 0.9982401197485825
+                        },
+                        "location_entropy": 0.015560204546769867,
+                        "num_date": 2016.8770476881286,
+                        "num_date_confidence": [
+                          2016.83510478708,
+                          2016.9007529089665
+                        ]
+                      },
+                      "branch_length": 0.00020843,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 4.7410441675674667e-05,
+                            "date": "2016-11-25",
+                            "div": 0.008848367912413606,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2016.9007529089665,
+                            "num_date_confidence": [
+                              2016.9007529089665,
+                              2016.9007529089665
+                            ],
+                            "raw_date": "2016-11-24"
+                          },
+                          "branch_length": 4.741e-05,
+                          "clade": 21,
+                          "muts": [],
+                          "strain": "A/Kilifi/MAT/086/2016_24-Nov-2016",
+                          "yvalue": 54
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 4.7410441675674667e-05,
+                            "date": "2016-11-25",
+                            "div": 0.008848367912413606,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2016.9007529089665,
+                            "num_date_confidence": [
+                              2016.9007529089665,
+                              2016.9007529089665
+                            ],
+                            "raw_date": "2016-11-24"
+                          },
+                          "branch_length": 4.741e-05,
+                          "clade": 22,
+                          "muts": [],
+                          "strain": "A/Kilifi/MAT/087/2016_24-Nov-2016",
+                          "yvalue": 53
+                        }
+                      ],
+                      "clade": 23,
+                      "muts": [],
+                      "strain": "NODE_0000017",
+                      "yvalue": 53.5
+                    }
+                  ],
+                  "clade": 24,
+                  "muts": [],
+                  "strain": "NODE_0000015",
+                  "yvalue": 54.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0014575307599750025,
+                    "date": "2016-10-10",
+                    "div": 0.008848367912413585,
+                    "location": "Matsangoni",
+                    "location_confidence": {
+                      "Chasimba": 0.017427079510000384,
+                      "Matsangoni": 0.7647023932772774,
+                      "Mtondia": 0.11437666224339534,
+                      "Sokoke": 0.08367117871361719
+                    },
+                    "location_entropy": 0.8346802513625808,
+                    "num_date": 2016.776827474688,
+                    "num_date_confidence": [
+                      2016.3671258311974,
+                      2016.858656617817
+                    ]
+                  },
+                  "branch_length": 0.00145753,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00019231998391741525,
+                        "date": "2016-11-14",
+                        "div": 0.008848367912413595,
+                        "location": "Matsangoni",
+                        "location_confidence": {
+                          "Chasimba": 0.005956727122280374,
+                          "Matsangoni": 0.7814389159752776,
+                          "Mtondia": 0.04600762701972254,
+                          "Sokoke": 0.15495068589876074
+                        },
+                        "location_entropy": 0.7224363406477103,
+                        "num_date": 2016.8729874666467,
+                        "num_date_confidence": [
+                          2016.7518135856305,
+                          2016.9118602075962
+                        ]
+                      },
+                      "branch_length": 0.00019232,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00030330638087480797,
+                            "date": "2017-01-08",
+                            "div": 0.008848367912413606,
+                            "location": "Sokoke",
+                            "location_confidence": {
+                              "Sokoke": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2017.024640657084,
+                            "num_date_confidence": [
+                              2017.024640657084,
+                              2017.024640657084
+                            ],
+                            "raw_date": "2017-01-09"
+                          },
+                          "branch_length": 0.00030331,
+                          "clade": 25,
+                          "muts": [],
+                          "strain": "A/Kilifi/SOK/121/2017_09-Jan-2017",
+                          "yvalue": 52
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 8.29093925108354e-05,
+                            "date": "2016-11-29",
+                            "div": 0.009436429890517873,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2016.914442162902,
+                            "num_date_confidence": [
+                              2016.914442162902,
+                              2016.914442162902
+                            ],
+                            "raw_date": "2016-11-29"
+                          },
+                          "branch_length": 8.291e-05,
+                          "clade": 26,
+                          "muts": [
+                            "G1557A"
+                          ],
+                          "strain": "A/Kilifi/MAT/089/2016_29-Nov-2016",
+                          "yvalue": 51
+                        }
+                      ],
+                      "clade": 27,
+                      "muts": [],
+                      "strain": "NODE_0000019",
+                      "yvalue": 51.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0001637220533753361,
+                        "date": "2016-11-09",
+                        "div": 0.008848367912413595,
+                        "location": "Matsangoni",
+                        "location_confidence": {
+                          "Matsangoni": 0.5991395041758205,
+                          "Mtondia": 0.2831558221749705,
+                          "Ngerenya": 0.023639151836824655,
+                          "Sokoke": 0.07526017892615089
+                        },
+                        "location_entropy": 1.0450159754355497,
+                        "num_date": 2016.8586885013756,
+                        "num_date_confidence": [
+                          2016.697851006549,
+                          2016.8641472731547
+                        ]
+                      },
+                      "branch_length": 0.00016372,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 3.179443325161766e-05,
+                            "date": "2016-11-15",
+                            "div": 0.008848367912413606,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 0.5390599617666049,
+                              "Mavueni": 0.03293591803677661,
+                              "Mtondia": 0.2955763993836928,
+                              "Sokoke": 0.10989219780175816
+                            },
+                            "location_entropy": 1.1630756668754678,
+                            "num_date": 2016.8745857180015,
+                            "num_date_confidence": [
+                              2016.8254894591694,
+                              2016.8985363556974
+                            ]
+                          },
+                          "branch_length": 3.179e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 4.325385127436007e-05,
+                                "date": "2016-11-23",
+                                "div": 0.008848367912413616,
+                                "location": "Matsangoni",
+                                "location_confidence": {
+                                  "Matsangoni": 0.5800677603121867,
+                                  "Mavueni": 0.0070448820699593,
+                                  "Mtondia": 0.37476039440675935,
+                                  "Sokoke": 0.02734750473035982
+                                },
+                                "location_entropy": 0.8810818601798507,
+                                "num_date": 2016.8962126436386,
+                                "num_date_confidence": [
+                                  2016.8708810877088,
+                                  2016.914442162902
+                                ]
+                              },
+                              "branch_length": 4.325e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 3.645903852693682e-05,
+                                    "date": "2016-11-29",
+                                    "div": 0.008848367912413627,
+                                    "location": "Matsangoni",
+                                    "location_confidence": {
+                                      "Matsangoni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.914442162902,
+                                    "num_date_confidence": [
+                                      2016.914442162902,
+                                      2016.914442162902
+                                    ],
+                                    "raw_date": "2016-11-29"
+                                  },
+                                  "branch_length": 3.646e-05,
+                                  "clade": 28,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MAT/090/2016_29-Nov-2016",
+                                  "yvalue": 50
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 4.7410441675674667e-05,
+                                    "date": "2016-12-02",
+                                    "div": 0.008848367912413627,
+                                    "location": "Mtondia",
+                                    "location_confidence": {
+                                      "Mtondia": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.9199178644765,
+                                    "num_date_confidence": [
+                                      2016.9199178644765,
+                                      2016.9199178644765
+                                    ],
+                                    "raw_date": "2016-12-01"
+                                  },
+                                  "branch_length": 4.741e-05,
+                                  "clade": 29,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MTO/107/2016_01-Dec-2016",
+                                  "yvalue": 49
+                                }
+                              ],
+                              "clade": 30,
+                              "muts": [],
+                              "strain": "NODE_0000023",
+                              "yvalue": 49.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.337971558390473e-05,
+                                "date": "2016-11-25",
+                                "div": 0.008848367912413616,
+                                "location": "Sokoke",
+                                "location_confidence": {
+                                  "Matsangoni": 0.1539661771585261,
+                                  "Mavueni": 0.2814646393652855,
+                                  "Mtondia": 0.09467695992813809,
+                                  "Sokoke": 0.43966858253319285
+                                },
+                                "location_entropy": 1.379855590270634,
+                                "num_date": 2016.9012755757933,
+                                "num_date_confidence": [
+                                  2016.8715441653299,
+                                  2016.9199178644765
+                                ]
+                              },
+                              "branch_length": 5.338e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 3.728457736613001e-05,
+                                    "date": "2016-12-02",
+                                    "div": 0.008848367912413627,
+                                    "location": "Sokoke",
+                                    "location_confidence": {
+                                      "Sokoke": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.9199178644765,
+                                    "num_date_confidence": [
+                                      2016.9199178644765,
+                                      2016.9199178644765
+                                    ],
+                                    "raw_date": "2016-12-01"
+                                  },
+                                  "branch_length": 3.728e-05,
+                                  "clade": 31,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/SOK/118/2016_01-Dec-2016",
+                                  "yvalue": 48
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00024673016258136473,
+                                    "date": "2017-01-08",
+                                    "div": 0.008848367912413627,
+                                    "location": "Mavueni",
+                                    "location_confidence": {
+                                      "Mavueni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2017.024640657084,
+                                    "num_date_confidence": [
+                                      2017.024640657084,
+                                      2017.024640657084
+                                    ],
+                                    "raw_date": "2017-01-09"
+                                  },
+                                  "branch_length": 0.00024673,
+                                  "clade": 32,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MAV/098/2017_09-Jan-2017",
+                                  "yvalue": 47
+                                }
+                              ],
+                              "clade": 33,
+                              "muts": [],
+                              "strain": "NODE_0000024",
+                              "yvalue": 47.5
+                            }
+                          ],
+                          "clade": 34,
+                          "muts": [],
+                          "strain": "NODE_0000022",
+                          "yvalue": 48.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 1.0917543557905328e-05,
+                            "date": "2016-11-11",
+                            "div": 0.008848367912413606,
+                            "location": "Mtondia",
+                            "location_confidence": {
+                              "Matsangoni": 0.4109110048337552,
+                              "Mtondia": 0.4270292723146561,
+                              "Ngerenya": 0.10526573514735542,
+                              "Sokoke": 0.046709938022897746
+                            },
+                            "location_entropy": 1.1698334651590732,
+                            "num_date": 2016.8641472731547,
+                            "num_date_confidence": [
+                              2016.8013708905553,
+                              2016.8693744010952
+                            ]
+                          },
+                          "branch_length": 1.092e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 1.845425588106655e-05,
+                                "date": "2016-11-15",
+                                "div": 0.008848367912413616,
+                                "location": "Mtondia",
+                                "location_confidence": {
+                                  "Matsangoni": 0.1792469605960202,
+                                  "Mtondia": 0.5661283699176554,
+                                  "Ngerenya": 0.2203815559634599,
+                                  "Sokoke": 0.01853102405439645
+                                },
+                                "location_entropy": 1.126621844303262,
+                                "num_date": 2016.8733744010951,
+                                "num_date_confidence": [
+                                  2016.8541610672983,
+                                  2016.8733744010951
+                                ]
+                              },
+                              "branch_length": 1.845e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0,
+                                    "date": "2016-11-15",
+                                    "div": 0.008848367912413627,
+                                    "location": "Mtondia",
+                                    "location_confidence": {
+                                      "Mtondia": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.8733744010951,
+                                    "num_date_confidence": [
+                                      2016.8733744010951,
+                                      2016.8733744010951
+                                    ],
+                                    "raw_date": "2016-11-14"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 35,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MTO/106/2016_14-Nov-2016",
+                                  "yvalue": 46
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0,
+                                    "date": "2016-11-15",
+                                    "div": 0.008848367912413627,
+                                    "location": "Ngerenya",
+                                    "location_confidence": {
+                                      "Ngerenya": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.8733744010951,
+                                    "num_date_confidence": [
+                                      2016.8733744010951,
+                                      2016.8733744010951
+                                    ],
+                                    "raw_date": "2016-11-14"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 36,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/NGE/111/2016_14-Nov-2016",
+                                  "yvalue": 45
+                                }
+                              ],
+                              "clade": 37,
+                              "muts": [],
+                              "strain": "NODE_0000026",
+                              "yvalue": 45.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 2.1211449584147835e-05,
+                                "date": "2016-11-15",
+                                "div": 0.008848367912413616,
+                                "location": "Matsangoni",
+                                "location_confidence": {
+                                  "Matsangoni": 0.40906666163851335,
+                                  "Mtondia": 0.405212453053076,
+                                  "Ngerenya": 0.10967986828869435,
+                                  "Sokoke": 0.06535096966248229
+                                },
+                                "location_entropy": 1.2169748476680189,
+                                "num_date": 2016.8747529979466,
+                                "num_date_confidence": [
+                                  2016.8495857659645,
+                                  2016.8907126744753
+                                ]
+                              },
+                              "branch_length": 2.121e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 5.1999822039698954e-05,
+                                    "date": "2016-11-25",
+                                    "div": 0.008848367912413627,
+                                    "location": "Matsangoni",
+                                    "location_confidence": {
+                                      "Matsangoni": 0.5910068911701424,
+                                      "Mtondia": 0.13867361870539763,
+                                      "Ngerenya": 0.23385155985933503,
+                                      "Sokoke": 0.021999035071689172
+                                    },
+                                    "location_entropy": 1.0921010692626036,
+                                    "num_date": 2016.9007529089665,
+                                    "num_date_confidence": [
+                                      2016.870592335585,
+                                      2016.9007529089665
+                                    ]
+                                  },
+                                  "branch_length": 5.2e-05,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0,
+                                        "date": "2016-11-25",
+                                        "div": 0.008848367912413637,
+                                        "location": "Matsangoni",
+                                        "location_confidence": {
+                                          "Matsangoni": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.9007529089665,
+                                        "num_date_confidence": [
+                                          2016.9007529089665,
+                                          2016.9007529089665
+                                        ],
+                                        "raw_date": "2016-11-24"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 38,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/MAT/088/2016_24-Nov-2016",
+                                      "yvalue": 44
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.7378507871162437e-05,
+                                        "date": "2016-11-29",
+                                        "div": 0.008848367912413637,
+                                        "location": "Ngerenya",
+                                        "location_confidence": {
+                                          "Ngerenya": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.914442162902,
+                                        "num_date_confidence": [
+                                          2016.914442162902,
+                                          2016.914442162902
+                                        ],
+                                        "raw_date": "2016-11-29"
+                                      },
+                                      "branch_length": 2.738e-05,
+                                      "clade": 39,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/NGE/112/2016_29-Nov-2016",
+                                      "yvalue": 43
+                                    }
+                                  ],
+                                  "clade": 40,
+                                  "muts": [],
+                                  "strain": "NODE_0000030",
+                                  "yvalue": 43.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 3.777078968758042e-05,
+                                    "date": "2016-11-22",
+                                    "div": 0.008848367912413627,
+                                    "location": "Mtondia",
+                                    "location_confidence": {
+                                      "Matsangoni": 0.16525986410126112,
+                                      "Mtondia": 0.575330712737907,
+                                      "Ngerenya": 0.03109419725107736,
+                                      "Sokoke": 0.2112970968586469
+                                    },
+                                    "location_entropy": 1.1472508430257737,
+                                    "num_date": 2016.8936383927905,
+                                    "num_date_confidence": [
+                                      2016.872301872438,
+                                      2016.9211980435248
+                                    ]
+                                  },
+                                  "branch_length": 3.777e-05,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.00026200452858725354,
+                                        "date": "2017-01-08",
+                                        "div": 0.008848367912413637,
+                                        "location": "Sokoke",
+                                        "location_confidence": {
+                                          "Sokoke": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2017.024640657084,
+                                        "num_date_confidence": [
+                                          2017.024640657084,
+                                          2017.024640657084
+                                        ],
+                                        "raw_date": "2017-01-09"
+                                      },
+                                      "branch_length": 0.000262,
+                                      "clade": 41,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/SOK/122/2017_09-Jan-2017",
+                                      "yvalue": 42
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 5.8034644946160056e-05,
+                                        "date": "2016-12-03",
+                                        "div": 0.008848367912413637,
+                                        "location": "Mtondia",
+                                        "location_confidence": {
+                                          "Mtondia": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.9226557152635,
+                                        "num_date_confidence": [
+                                          2016.9226557152635,
+                                          2016.9226557152635
+                                        ],
+                                        "raw_date": "2016-12-02"
+                                      },
+                                      "branch_length": 5.803e-05,
+                                      "clade": 42,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/MTO/108/2016_02-Dec-2016",
+                                      "yvalue": 41
+                                    }
+                                  ],
+                                  "clade": 43,
+                                  "muts": [],
+                                  "strain": "NODE_0000035",
+                                  "yvalue": 41.5
+                                }
+                              ],
+                              "clade": 44,
+                              "muts": [],
+                              "strain": "NODE_0000028",
+                              "yvalue": 42.5
+                            }
+                          ],
+                          "clade": 45,
+                          "muts": [],
+                          "strain": "NODE_0000025",
+                          "yvalue": 44.0
+                        }
+                      ],
+                      "clade": 46,
+                      "muts": [],
+                      "strain": "NODE_0000021",
+                      "yvalue": 46.25
+                    }
+                  ],
+                  "clade": 47,
+                  "muts": [],
+                  "strain": "NODE_0000018",
+                  "yvalue": 48.875
+                }
+              ],
+              "clade": 48,
+              "muts": [],
+              "strain": "NODE_0000012",
+              "yvalue": 51.6875
+            }
+          ],
+          "clade": 49,
+          "muts": [
+            "C207A",
+            "G219A",
+            "A264G",
+            "G273T",
+            "T279C",
+            "A323G",
+            "T538C",
+            "T981A"
+          ],
+          "strain": "NODE_0000042",
+          "yvalue": 56.765625
+        }
+      ],
+      "clade": 50,
+      "muts": [
+        "C172T",
+        "A234G",
+        "C531T",
+        "T561G",
+        "G1206A",
+        "A1264G",
+        "G1269A",
+        "G1499A",
+        "G1683A"
+      ],
+      "strain": "NODE_0000039",
+      "yvalue": 61.0078125
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.001057652126578804,
+        "date": "2013-12-20",
+        "div": 0.0011771964886520732,
+        "location": "Chasimba",
+        "location_confidence": {
+          "Chasimba": 0.60537356717631,
+          "Matsangoni": 0.05674492095073873,
+          "Mavueni": 0.08063816993328045,
+          "Mtondia": 0.055347828340807446
+        },
+        "location_entropy": 1.4687450666103188,
+        "num_date": 2013.970527665538,
+        "num_date_confidence": [
+          2013.3390050933772,
+          2014.5918062985124
+        ]
+      },
+      "branch_length": 0.00105765,
+      "children": [
+        {
+          "aa_muts": {
+            "HA1": [
+              "S144K"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.003936534053875257,
+            "date": "2015-12-08",
+            "div": 0.004713238762825068,
+            "location": "Chasimba",
+            "location_confidence": {
+              "Chasimba": 0.5768476222708266,
+              "Jaribuni": 0.046948999266467416,
+              "Mavueni": 0.20582360290942472,
+              "Sokoke": 0.054220536308446234
+            },
+            "location_entropy": 1.3691430043429627,
+            "num_date": 2015.9387946924755,
+            "num_date_confidence": [
+              2015.8461906032496,
+              2016.100403015623
+            ]
+          },
+          "branch_length": 0.00393653,
+          "children": [
+            {
+              "aa_muts": {
+                "HA1": [
+                  "N122D",
+                  "S262N"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0021716919292169845,
+                "date": "2017-01-08",
+                "div": 0.008248825718730807,
+                "location": "Chasimba",
+                "location_confidence": {
+                  "Chasimba": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2017.024640657084,
+                "num_date_confidence": [
+                  2017.024640657084,
+                  2017.024640657084
+                ],
+                "raw_date": "2017-01-09"
+              },
+              "branch_length": 0.00217169,
+              "clade": 51,
+              "muts": [
+                "C393T",
+                "A412G",
+                "G833A",
+                "T987C",
+                "G1023A",
+                "G1524A"
+              ],
+              "strain": "A/Kilifi/CHA/058/2017_09-Jan-2017",
+              "yvalue": 40
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00020342755095501767,
+                "date": "2016-01-14",
+                "div": 0.004713238762825077,
+                "location": "Mavueni",
+                "location_confidence": {
+                  "Chasimba": 0.2926352349565245,
+                  "Jaribuni": 0.07559726234934704,
+                  "Mavueni": 0.39145622853231477,
+                  "Sokoke": 0.10742442482529557
+                },
+                "location_entropy": 1.619195362961683,
+                "num_date": 2016.040508467953,
+                "num_date_confidence": [
+                  2015.922048021993,
+                  2016.4228674677493
+                ]
+              },
+              "branch_length": 0.00020343,
+              "children": [
+                {
+                  "aa_muts": {
+                    "HA1": [
+                      "T135K"
+                    ],
+                    "HA2": [
+                      "I77F"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.0017150131804522352,
+                    "date": "2016-11-23",
+                    "div": 0.005890428291751255,
+                    "location": "Mavueni",
+                    "location_confidence": {
+                      "Mavueni": 0.9999999999999999
+                    },
+                    "location_entropy": -9.99866855976916e-13,
+                    "num_date": 2016.8980150581792,
+                    "num_date_confidence": [
+                      2016.8980150581792,
+                      2016.8980150581792
+                    ],
+                    "raw_date": "2016-11-23"
+                  },
+                  "branch_length": 0.00171501,
+                  "clade": 52,
+                  "muts": [
+                    "C452A",
+                    "A1264T"
+                  ],
+                  "strain": "A/Kilifi/MAV/096/2016_23-Nov-2016",
+                  "yvalue": 39
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0016696983418534352,
+                    "date": "2016-11-15",
+                    "div": 0.005301249494170555,
+                    "location": "Sokoke",
+                    "location_confidence": {
+                      "Jaribuni": 0.24628648521544516,
+                      "Matsangoni": 0.13932472916783523,
+                      "Ngerenya": 0.07538883199646923,
+                      "Sokoke": 0.3727377844989456
+                    },
+                    "location_entropy": 1.6916567416027408,
+                    "num_date": 2016.87535763888,
+                    "num_date_confidence": [
+                      2016.8557388562529,
+                      2016.9106564926508
+                    ]
+                  },
+                  "branch_length": 0.0016697,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "HA1": [
+                          "T160I",
+                          "F193S"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0005778268166961188,
+                        "date": "2017-02-28",
+                        "div": 0.007066495726032115,
+                        "location": "Jaribuni",
+                        "location_confidence": {
+                          "Jaribuni": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2017.1642710472279,
+                        "num_date_confidence": [
+                          2017.1642710472279,
+                          2017.1642710472279
+                        ],
+                        "raw_date": "2017-03-01"
+                      },
+                      "branch_length": 0.00057783,
+                      "clade": 53,
+                      "muts": [
+                        "T517C",
+                        "C527T",
+                        "T626C"
+                      ],
+                      "strain": "A/Kilifi/JAR/067/2017_01-Mar-2017",
+                      "yvalue": 38
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0002985660364085317,
+                        "date": "2017-01-08",
+                        "div": 0.005889246425069013,
+                        "location": "Sokoke",
+                        "location_confidence": {
+                          "Sokoke": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2017.024640657084,
+                        "num_date_confidence": [
+                          2017.024640657084,
+                          2017.024640657084
+                        ],
+                        "raw_date": "2017-01-09"
+                      },
+                      "branch_length": 0.00029857,
+                      "clade": 54,
+                      "muts": [
+                        "C85T"
+                      ],
+                      "strain": "A/Kilifi/SOK/120/2017_09-Jan-2017",
+                      "yvalue": 37
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 6.178765983783866e-05,
+                        "date": "2016-11-27",
+                        "div": 0.005301249494170565,
+                        "location": "Matsangoni",
+                        "location_confidence": {
+                          "Jaribuni": 0.057888834756275216,
+                          "Matsangoni": 0.4336041294520938,
+                          "Ngerenya": 0.31909967394248484,
+                          "Sokoke": 0.1072439739097127
+                        },
+                        "location_entropy": 1.4534438933780094,
+                        "num_date": 2016.9062514687987,
+                        "num_date_confidence": [
+                          2016.8637539006706,
+                          2017.0636542632587
+                        ]
+                      },
+                      "branch_length": 6.179e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0005215148584324213,
+                            "date": "2017-03-01",
+                            "div": 0.005301249494170574,
+                            "location": "Ngerenya",
+                            "location_confidence": {
+                              "Ngerenya": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2017.167008898015,
+                            "num_date_confidence": [
+                              2017.167008898015,
+                              2017.167008898015
+                            ],
+                            "raw_date": "2017-03-02"
+                          },
+                          "branch_length": 0.00052151,
+                          "clade": 55,
+                          "muts": [],
+                          "strain": "A/Kilifi/NGE/113/2017_02-Mar-2017",
+                          "yvalue": 36
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0005215148584324213,
+                            "date": "2017-03-01",
+                            "div": 0.005301249494170574,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2017.167008898015,
+                            "num_date_confidence": [
+                              2017.167008898015,
+                              2017.167008898015
+                            ],
+                            "raw_date": "2017-03-02"
+                          },
+                          "branch_length": 0.00052151,
+                          "clade": 56,
+                          "muts": [],
+                          "strain": "A/Kilifi/MAT/091/2017_02-Mar-2017",
+                          "yvalue": 35
+                        }
+                      ],
+                      "clade": 57,
+                      "muts": [],
+                      "strain": "NODE_0000043",
+                      "yvalue": 35.5
+                    }
+                  ],
+                  "clade": 58,
+                  "muts": [
+                    "A768G"
+                  ],
+                  "strain": "NODE_0000036",
+                  "yvalue": 36.75
+                }
+              ],
+              "clade": 59,
+              "muts": [],
+              "strain": "NODE_0000038",
+              "yvalue": 37.875
+            }
+          ],
+          "clade": 60,
+          "muts": [
+            "G479A",
+            "T480A",
+            "G540A",
+            "T1119C",
+            "A1134G",
+            "C1320T"
+          ],
+          "strain": "NODE_0000034",
+          "yvalue": 38.9375
+        },
+        {
+          "aa_muts": {
+            "HA1": [
+              "D53N",
+              "K121N",
+              "R142K",
+              "Q197R"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0031799861078624387,
+            "date": "2015-07-23",
+            "div": 0.005304015201267727,
+            "location": "Chasimba",
+            "location_confidence": {
+              "Chasimba": 0.8731785194988098,
+              "Jaribuni": 0.03320463109247425,
+              "Matsangoni": 0.013603967530436162,
+              "Mtondia": 0.043130124928088494
+            },
+            "location_entropy": 0.6036232079997673,
+            "num_date": 2015.5605207194692,
+            "num_date_confidence": [
+              2015.1332486394454,
+              2015.7384772751288
+            ]
+          },
+          "branch_length": 0.00317999,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0007899784104797728,
+                "date": "2015-12-14",
+                "div": 0.006480496891647791,
+                "location": "Chasimba",
+                "location_confidence": {
+                  "Chasimba": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2015.955509924709,
+                "num_date_confidence": [
+                  2015.955509924709,
+                  2015.955509924709
+                ],
+                "raw_date": "2015-12-15"
+              },
+              "branch_length": 0.00078998,
+              "clade": 61,
+              "muts": [
+                "A639G",
+                "T1635C"
+              ],
+              "strain": "A/Kilifi/CHA/054/2015_15-Dec-2015",
+              "yvalue": 34
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0004927724666338191,
+                "date": "2015-10-21",
+                "div": 0.005892047179387748,
+                "location": "Chasimba",
+                "location_confidence": {
+                  "Chasimba": 0.7204729779966208,
+                  "Jaribuni": 0.08640355854609132,
+                  "Junju": 0.03484530241339315,
+                  "Mtondia": 0.11289919626263752
+                },
+                "location_entropy": 1.0138880655224745,
+                "num_date": 2015.806906952786,
+                "num_date_confidence": [
+                  2015.526120159692,
+                  2015.856607631925
+                ]
+              },
+              "branch_length": 0.00049277,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00020238506049460436,
+                    "date": "2015-11-27",
+                    "div": 0.005892047179387757,
+                    "location": "Jaribuni",
+                    "location_confidence": {
+                      "Chasimba": 0.23906819961765913,
+                      "Jaribuni": 0.3913952809085431,
+                      "Junju": 0.2779855526592179,
+                      "Mtondia": 0.040159549438932955
+                    },
+                    "location_entropy": 1.4259052559192689,
+                    "num_date": 2015.9080994830333,
+                    "num_date_confidence": [
+                      2015.759345785902,
+                      2015.9431506291894
+                    ]
+                  },
+                  "branch_length": 0.00020239,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 9.482088335134933e-05,
+                        "date": "2015-12-14",
+                        "div": 0.005892047179387767,
+                        "location": "Junju",
+                        "location_confidence": {
+                          "Junju": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2015.955509924709,
+                        "num_date_confidence": [
+                          2015.955509924709,
+                          2015.955509924709
+                        ],
+                        "raw_date": "2015-12-15"
+                      },
+                      "branch_length": 9.482e-05,
+                      "clade": 62,
+                      "muts": [],
+                      "strain": "A/Kilifi/JUN/068/2015_15-Dec-2015",
+                      "yvalue": 33
+                    },
+                    {
+                      "aa_muts": {
+                        "HA1": [
+                          "P55L"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 8.934518177720722e-05,
+                        "date": "2015-12-14",
+                        "div": 0.006480065338582755,
+                        "location": "Jaribuni",
+                        "location_confidence": {
+                          "Chasimba": 0.009601571887052877,
+                          "Jaribuni": 0.9756811791182691,
+                          "Junju": 0.008997153662819722,
+                          "Mtondia": 0.0019316814644028469
+                        },
+                        "location_entropy": 0.1502043806090355,
+                        "num_date": 2015.952772073922,
+                        "num_date_confidence": [
+                          2015.911890988217,
+                          2015.952772073922
+                        ]
+                      },
+                      "branch_length": 8.935e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0,
+                            "date": "2015-12-14",
+                            "div": 0.006480065338582764,
+                            "location": "Jaribuni",
+                            "location_confidence": {
+                              "Jaribuni": 0.9999999999999999
+                            },
+                            "location_entropy": -9.99866855976916e-13,
+                            "num_date": 2015.952772073922,
+                            "num_date_confidence": [
+                              2015.952772073922,
+                              2015.952772073922
+                            ],
+                            "raw_date": "2015-12-14"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 63,
+                          "muts": [],
+                          "strain": "A/Kilifi/JAR/059/2015_14-Dec-2015",
+                          "yvalue": 32
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 2.1902806297021196e-05,
+                            "date": "2015-12-18",
+                            "div": 0.006480065338582764,
+                            "location": "Jaribuni",
+                            "location_confidence": {
+                              "Jaribuni": 0.9999999999999999
+                            },
+                            "location_entropy": -9.99866855976916e-13,
+                            "num_date": 2015.9637234770705,
+                            "num_date_confidence": [
+                              2015.9637234770705,
+                              2015.9637234770705
+                            ],
+                            "raw_date": "2015-12-18"
+                          },
+                          "branch_length": 2.19e-05,
+                          "clade": 64,
+                          "muts": [],
+                          "strain": "A/Kilifi/JAR/060/2015_18-Dec-2015",
+                          "yvalue": 31
+                        }
+                      ],
+                      "clade": 65,
+                      "muts": [
+                        "C212T"
+                      ],
+                      "strain": "NODE_0000031",
+                      "yvalue": 31.5
+                    }
+                  ],
+                  "clade": 66,
+                  "muts": [],
+                  "strain": "NODE_0000047",
+                  "yvalue": 32.25
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.389999030315813e-06,
+                    "date": "2015-10-22",
+                    "div": 0.006480079041561419,
+                    "location": "Chasimba",
+                    "location_confidence": {
+                      "Chasimba": 0.6643556925342787,
+                      "Jaribuni": 0.029753596525480198,
+                      "Matsangoni": 0.027964711235910735,
+                      "Mtondia": 0.2674089739714764
+                    },
+                    "location_entropy": 0.8839119156539557,
+                    "num_date": 2015.8101019523012,
+                    "num_date_confidence": [
+                      2015.7778974468224,
+                      2015.8950896791691
+                    ]
+                  },
+                  "branch_length": 6.39e-06,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "HA2": [
+                          "V18M"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0002908159448156379,
+                        "date": "2015-12-14",
+                        "div": 0.007656670789416637,
+                        "location": "Chasimba",
+                        "location_confidence": {
+                          "Chasimba": 0.9999999999999999
+                        },
+                        "location_entropy": -9.99866855976916e-13,
+                        "num_date": 2015.955509924709,
+                        "num_date_confidence": [
+                          2015.955509924709,
+                          2015.955509924709
+                        ],
+                        "raw_date": "2015-12-15"
+                      },
+                      "branch_length": 0.00029082,
+                      "clade": 67,
+                      "muts": [
+                        "A555G",
+                        "G1087A"
+                      ],
+                      "strain": "A/Kilifi/CHA/053/2015_15-Dec-2015",
+                      "yvalue": 30
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00020243508035366377,
+                        "date": "2015-11-28",
+                        "div": 0.0064800790415614285,
+                        "location": "Jaribuni",
+                        "location_confidence": {
+                          "Chasimba": 0.23429019478558297,
+                          "Jaribuni": 0.33711307300278875,
+                          "Mtondia": 0.08490917951751978,
+                          "Pingilikani": 0.3041878158670973
+                        },
+                        "location_entropy": 1.4657770311475504,
+                        "num_date": 2015.911319492478,
+                        "num_date_confidence": [
+                          2015.8316866918447,
+                          2015.943056870253
+                        ]
+                      },
+                      "branch_length": 0.00020244,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "HA1": [
+                              "S9G"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 8.2905162887832e-05,
+                            "date": "2015-12-14",
+                            "div": 0.007068111019681449,
+                            "location": "Pingilikani",
+                            "location_confidence": {
+                              "Pingilikani": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2015.952772073922,
+                            "num_date_confidence": [
+                              2015.952772073922,
+                              2015.952772073922
+                            ],
+                            "raw_date": "2015-12-14"
+                          },
+                          "branch_length": 8.291e-05,
+                          "clade": 68,
+                          "muts": [
+                            "A73G"
+                          ],
+                          "strain": "A/Kilifi/PIN/114/2015_14-Dec-2015",
+                          "yvalue": 29
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00012123507390773315,
+                            "date": "2015-12-21",
+                            "div": 0.0070681938629013,
+                            "location": "Jaribuni",
+                            "location_confidence": {
+                              "Jaribuni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2015.971937029432,
+                            "num_date_confidence": [
+                              2015.971937029432,
+                              2015.971937029432
+                            ],
+                            "raw_date": "2015-12-21"
+                          },
+                          "branch_length": 0.00012124,
+                          "clade": 69,
+                          "muts": [
+                            "G720A"
+                          ],
+                          "strain": "A/Kilifi/JAR/061/2015_21-Dec-2015",
+                          "yvalue": 28
+                        }
+                      ],
+                      "clade": 70,
+                      "muts": [],
+                      "strain": "NODE_0000050",
+                      "yvalue": 28.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0002062823582748832,
+                        "date": "2015-11-29",
+                        "div": 0.0070682796252827616,
+                        "location": "Mtondia",
+                        "location_confidence": {
+                          "Chasimba": 0.02638178228983166,
+                          "Mavueni": 0.025553333026374112,
+                          "Mtondia": 0.9193809157863893,
+                          "Sokoke": 0.02211495552041131
+                        },
+                        "location_entropy": 0.38961491677861726,
+                        "num_date": 2015.9132431314388,
+                        "num_date_confidence": [
+                          2015.8880974508145,
+                          2015.9404419051614
+                        ]
+                      },
+                      "branch_length": 0.00020628,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "HA2": [
+                              "K124M"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 8.453358654075468e-05,
+                            "date": "2015-12-14",
+                            "div": 0.008245099161307673,
+                            "location": "Sokoke",
+                            "location_confidence": {
+                              "Sokoke": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2015.955509924709,
+                            "num_date_confidence": [
+                              2015.955509924709,
+                              2015.955509924709
+                            ],
+                            "raw_date": "2015-12-15"
+                          },
+                          "branch_length": 8.453e-05,
+                          "clade": 71,
+                          "muts": [
+                            "T1119C",
+                            "A1406T"
+                          ],
+                          "strain": "A/Kilifi/SOK/117/2015_15-Dec-2015",
+                          "yvalue": 27
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 7.905788496661258e-05,
+                            "date": "2015-12-14",
+                            "div": 0.007068279625282771,
+                            "location": "Mtondia",
+                            "location_confidence": {
+                              "Mtondia": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2015.952772073922,
+                            "num_date_confidence": [
+                              2015.952772073922,
+                              2015.952772073922
+                            ],
+                            "raw_date": "2015-12-14"
+                          },
+                          "branch_length": 7.906e-05,
+                          "clade": 72,
+                          "muts": [],
+                          "strain": "A/Kilifi/MTO/100/2015_14-Dec-2015",
+                          "yvalue": 26
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 7.905788496661258e-05,
+                            "date": "2015-12-14",
+                            "div": 0.007656239043807626,
+                            "location": "Mavueni",
+                            "location_confidence": {
+                              "Mavueni": 0.9999999999999999
+                            },
+                            "location_entropy": -9.99866855976916e-13,
+                            "num_date": 2015.952772073922,
+                            "num_date_confidence": [
+                              2015.952772073922,
+                              2015.952772073922
+                            ],
+                            "raw_date": "2015-12-14"
+                          },
+                          "branch_length": 7.906e-05,
+                          "clade": 73,
+                          "muts": [
+                            "A528G"
+                          ],
+                          "strain": "A/Kilifi/MAV/092/2015_14-Dec-2015",
+                          "yvalue": 25
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 8.453358654075468e-05,
+                            "date": "2015-12-14",
+                            "div": 0.007656266837821309,
+                            "location": "Mtondia",
+                            "location_confidence": {
+                              "Mtondia": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2015.955509924709,
+                            "num_date_confidence": [
+                              2015.955509924709,
+                              2015.955509924709
+                            ],
+                            "raw_date": "2015-12-15"
+                          },
+                          "branch_length": 8.453e-05,
+                          "clade": 74,
+                          "muts": [
+                            "T270C"
+                          ],
+                          "strain": "A/Kilifi/MTO/101/2015_15-Dec-2015",
+                          "yvalue": 24
+                        }
+                      ],
+                      "clade": 75,
+                      "muts": [
+                        "T1122A"
+                      ],
+                      "strain": "NODE_0000009",
+                      "yvalue": 25.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00017857015767859096,
+                        "date": "2015-11-24",
+                        "div": 0.007068139008687264,
+                        "location": "Chasimba",
+                        "location_confidence": {
+                          "Chasimba": 0.5727593483281332,
+                          "Jaribuni": 0.030286717070858057,
+                          "Mtondia": 0.34365608176166396,
+                          "Pingilikani": 0.0320453115612394
+                        },
+                        "location_entropy": 1.0076566726255316,
+                        "num_date": 2015.8993870311406,
+                        "num_date_confidence": [
+                          2015.8353193598182,
+                          2015.9181461775074
+                        ]
+                      },
+                      "branch_length": 0.00017857,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "HA2": [
+                              "K121R"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 5.2057570192371935e-05,
+                            "date": "2015-12-04",
+                            "div": 0.0076561297887368564,
+                            "location": "Mtondia",
+                            "location_confidence": {
+                              "Chasimba": 0.24755597193853673,
+                              "Jaribuni": 0.10709326597187117,
+                              "Mtondia": 0.35422055061051777,
+                              "Pingilikani": 0.2527958922463277
+                            },
+                            "location_entropy": 1.4816921789822268,
+                            "num_date": 2015.9254158162366,
+                            "num_date_confidence": [
+                              2015.8816608963562,
+                              2015.9444486882282
+                            ]
+                          },
+                          "branch_length": 5.206e-05,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "HA1": [
+                                  "H18Y",
+                                  "S312N"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.0002970123100315275,
+                                "date": "2016-01-26",
+                                "div": 0.008832611519006883,
+                                "location": "Pingilikani",
+                                "location_confidence": {
+                                  "Pingilikani": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2016.0739219712525,
+                                "num_date_confidence": [
+                                  2016.0739219712525,
+                                  2016.0739219712525
+                                ],
+                                "raw_date": "2016-01-27"
+                              },
+                              "branch_length": 0.00029701,
+                              "clade": 76,
+                              "muts": [
+                                "C100T",
+                                "G983A"
+                              ],
+                              "strain": "A/Kilifi/PIN/115/2016_27-Jan-2016",
+                              "yvalue": 23
+                            },
+                            {
+                              "aa_muts": {
+                                "HA1": [
+                                  "T128N"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 3.185770164595807e-05,
+                                "date": "2015-12-09",
+                                "div": 0.008244198526317895,
+                                "location": "Mtondia",
+                                "location_confidence": {
+                                  "Chasimba": 0.09600186190683001,
+                                  "Jaribuni": 0.2812704830436734,
+                                  "Mtondia": 0.5031620710457575,
+                                  "Pingilikani": 0.08013753207037354
+                                },
+                                "location_entropy": 1.3156711186218177,
+                                "num_date": 2015.9413446670596,
+                                "num_date_confidence": [
+                                  2015.919214952719,
+                                  2015.9542318679903
+                                ]
+                              },
+                              "branch_length": 3.186e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00022682469736566829,
+                                    "date": "2016-01-19",
+                                    "div": 0.008244198526317905,
+                                    "location": "Jaribuni",
+                                    "location_confidence": {
+                                      "Jaribuni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.0547570157426,
+                                    "num_date_confidence": [
+                                      2016.0547570157426,
+                                      2016.0547570157426
+                                    ],
+                                    "raw_date": "2016-01-20"
+                                  },
+                                  "branch_length": 0.00022682,
+                                  "clade": 77,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/JAR/062/2016_20-Jan-2016",
+                                  "yvalue": 22
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 2.8330515298716913e-05,
+                                    "date": "2015-12-14",
+                                    "div": 0.008832144158628305,
+                                    "location": "Mtondia",
+                                    "location_confidence": {
+                                      "Mtondia": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2015.955509924709,
+                                    "num_date_confidence": [
+                                      2015.955509924709,
+                                      2015.955509924709
+                                    ],
+                                    "raw_date": "2015-12-15"
+                                  },
+                                  "branch_length": 2.833e-05,
+                                  "clade": 78,
+                                  "muts": [
+                                    "C1363T"
+                                  ],
+                                  "strain": "A/Kilifi/MTO/099/2015_15-Dec-2015",
+                                  "yvalue": 21
+                                }
+                              ],
+                              "clade": 79,
+                              "muts": [
+                                "C431A"
+                              ],
+                              "strain": "NODE_0000002",
+                              "yvalue": 21.5
+                            }
+                          ],
+                          "clade": 80,
+                          "muts": [
+                            "A1397G"
+                          ],
+                          "strain": "NODE_0000001",
+                          "yvalue": 22.25
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 5.277570864895085e-05,
+                            "date": "2015-12-04",
+                            "div": 0.007068139008687273,
+                            "location": "Chasimba",
+                            "location_confidence": {
+                              "Chasimba": 0.5855224943389655,
+                              "Jaribuni": 0.010296566789141136,
+                              "Mtondia": 0.3770944576807151,
+                              "Pingilikani": 0.009982168552115454
+                            },
+                            "location_entropy": 0.8653527245201018,
+                            "num_date": 2015.925774885465,
+                            "num_date_confidence": [
+                              2015.8904106279756,
+                              2015.9496964987482
+                            ]
+                          },
+                          "branch_length": 5.278e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 7.042148163683391e-05,
+                                "date": "2015-12-17",
+                                "div": 0.007068139008687283,
+                                "location": "Mtondia",
+                                "location_confidence": {
+                                  "Mtondia": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2015.9609856262834,
+                                "num_date_confidence": [
+                                  2015.9609856262834,
+                                  2015.9609856262834
+                                ],
+                                "raw_date": "2015-12-17"
+                              },
+                              "branch_length": 7.042e-05,
+                              "clade": 81,
+                              "muts": [],
+                              "strain": "A/Kilifi/MTO/102/2015_17-Dec-2015",
+                              "yvalue": 20
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.9470078488096066e-05,
+                                "date": "2015-12-14",
+                                "div": 0.007068139008687283,
+                                "location": "Chasimba",
+                                "location_confidence": {
+                                  "Chasimba": 0.9792679953229468,
+                                  "Matsangoni": 0.0014431375069278592,
+                                  "Mtondia": 0.015708844715206522
+                                },
+                                "location_entropy": 0.12129584002326985,
+                                "num_date": 2015.955509924709,
+                                "num_date_confidence": [
+                                  2015.9204795954206,
+                                  2015.955509924709
+                                ]
+                              },
+                              "branch_length": 5.947e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0,
+                                    "date": "2015-12-14",
+                                    "div": 0.007068139008687292,
+                                    "location": "Chasimba",
+                                    "location_confidence": {
+                                      "Chasimba": 0.9999999999999999
+                                    },
+                                    "location_entropy": -9.99866855976916e-13,
+                                    "num_date": 2015.955509924709,
+                                    "num_date_confidence": [
+                                      2015.955509924709,
+                                      2015.955509924709
+                                    ],
+                                    "raw_date": "2015-12-15"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 82,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/CHA/052/2015_15-Dec-2015",
+                                  "yvalue": 19
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0,
+                                    "date": "2015-12-14",
+                                    "div": 0.007068139008687292,
+                                    "location": "Chasimba",
+                                    "location_confidence": {
+                                      "Chasimba": 0.9999999999999999
+                                    },
+                                    "location_entropy": -9.99866855976916e-13,
+                                    "num_date": 2015.955509924709,
+                                    "num_date_confidence": [
+                                      2015.955509924709,
+                                      2015.955509924709
+                                    ],
+                                    "raw_date": "2015-12-15"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 83,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/CHA/051/2015_15-Dec-2015",
+                                  "yvalue": 18
+                                }
+                              ],
+                              "clade": 84,
+                              "muts": [],
+                              "strain": "NODE_0000056",
+                              "yvalue": 18.5
+                            }
+                          ],
+                          "clade": 85,
+                          "muts": [],
+                          "strain": "NODE_0000055",
+                          "yvalue": 19.25
+                        }
+                      ],
+                      "clade": 86,
+                      "muts": [
+                        "T606C"
+                      ],
+                      "strain": "NODE_0000000",
+                      "yvalue": 20.75
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00019853839505137427,
+                        "date": "2015-11-28",
+                        "div": 0.007068193862901291,
+                        "location": "Matsangoni",
+                        "location_confidence": {
+                          "Chasimba": 0.004087478871018593,
+                          "Junju": 0.001011738448601151,
+                          "Matsangoni": 0.9865935848591665,
+                          "Mtondia": 0.007580607832355624
+                        },
+                        "location_entropy": 0.08614912175089684,
+                        "num_date": 2015.909371149827,
+                        "num_date_confidence": [
+                          2015.8475148400707,
+                          2015.9293569109673
+                        ]
+                      },
+                      "branch_length": 0.00019854,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "HA1": [
+                              "S115T"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.00032362594127697403,
+                            "date": "2016-01-26",
+                            "div": 0.0076564774068716545,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2016.0711841204654,
+                            "num_date_confidence": [
+                              2016.0711841204654,
+                              2016.0711841204654
+                            ],
+                            "raw_date": "2016-01-26"
+                          },
+                          "branch_length": 0.00032363,
+                          "clade": 87,
+                          "muts": [
+                            "T391A"
+                          ],
+                          "strain": "A/Kilifi/MAT/080/2016_26-Jan-2016",
+                          "yvalue": 17
+                        },
+                        {
+                          "aa_muts": {
+                            "SigPep": [
+                              "A16T"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 3.52908359948622e-05,
+                            "date": "2015-12-04",
+                            "div": 0.007656391670667716,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Chasimba": 0.002971700500846771,
+                              "Junju": 0.04194671996341756,
+                              "Matsangoni": 0.9418264386828342,
+                              "Mtondia": 0.007162033183004285
+                            },
+                            "location_entropy": 0.28237448457359404,
+                            "num_date": 2015.9270165678245,
+                            "num_date_confidence": [
+                              2015.9017168719433,
+                              2015.9515099247092
+                            ]
+                          },
+                          "branch_length": 3.529e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.698671376940141e-05,
+                                "date": "2015-12-14",
+                                "div": 0.007656391670667726,
+                                "location": "Matsangoni",
+                                "location_confidence": {
+                                  "Junju": 0.0016628980333983812,
+                                  "Matsangoni": 0.9959955518247154,
+                                  "Mtondia": 0.001207506498503897
+                                },
+                                "location_entropy": 0.03228360607090594,
+                                "num_date": 2015.955509924709,
+                                "num_date_confidence": [
+                                  2015.925523693056,
+                                  2015.955509924709
+                                ]
+                              },
+                              "branch_length": 5.699e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0,
+                                    "date": "2015-12-14",
+                                    "div": 0.007656391670667735,
+                                    "location": "Matsangoni",
+                                    "location_confidence": {
+                                      "Matsangoni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2015.955509924709,
+                                    "num_date_confidence": [
+                                      2015.955509924709,
+                                      2015.955509924709
+                                    ],
+                                    "raw_date": "2015-12-15"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 88,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MAT/075/2015_15-Dec-2015",
+                                  "yvalue": 16
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0,
+                                    "date": "2015-12-14",
+                                    "div": 0.007656391670667735,
+                                    "location": "Matsangoni",
+                                    "location_confidence": {
+                                      "Matsangoni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2015.955509924709,
+                                    "num_date_confidence": [
+                                      2015.955509924709,
+                                      2015.955509924709
+                                    ],
+                                    "raw_date": "2015-12-15"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 89,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MAT/074/2015_15-Dec-2015",
+                                  "yvalue": 15
+                                }
+                              ],
+                              "clade": 90,
+                              "muts": [],
+                              "strain": "NODE_0000048",
+                              "yvalue": 15.5
+                            },
+                            {
+                              "aa_muts": {
+                                "HA1": [
+                                  "N121D"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.00012373687954406968,
+                                "date": "2015-12-27",
+                                "div": 0.008244589299974809,
+                                "location": "Junju",
+                                "location_confidence": {
+                                  "Junju": 0.9677279790083089,
+                                  "Matsangoni": 0.027127145020919154,
+                                  "Mtondia": 0.0012207255368182465
+                                },
+                                "location_entropy": 0.16639107840852668,
+                                "num_date": 2015.9888850075963,
+                                "num_date_confidence": [
+                                  2015.942389085342,
+                                  2016.0325379774517
+                                ]
+                              },
+                              "branch_length": 0.00012374,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00011905865655487645,
+                                    "date": "2016-01-17",
+                                    "div": 0.00824458929997482,
+                                    "location": "Junju",
+                                    "location_confidence": {
+                                      "Junju": 0.9988673807757652
+                                    },
+                                    "location_entropy": 0.010207506249321017,
+                                    "num_date": 2016.0484143358738,
+                                    "num_date_confidence": [
+                                      2015.9975397545757,
+                                      2016.0739219712525
+                                    ]
+                                  },
+                                  "branch_length": 0.00011906,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 5.101527075730781e-05,
+                                        "date": "2016-01-26",
+                                        "div": 0.00824458929997483,
+                                        "location": "Junju",
+                                        "location_confidence": {
+                                          "Junju": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.0739219712525,
+                                        "num_date_confidence": [
+                                          2016.0739219712525,
+                                          2016.0739219712525
+                                        ],
+                                        "raw_date": "2016-01-27"
+                                      },
+                                      "branch_length": 5.102e-05,
+                                      "clade": 91,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/JUN/070/2016_27-Jan-2016",
+                                      "yvalue": 14
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 9.482088335134933e-05,
+                                        "date": "2016-02-03",
+                                        "div": 0.00824458929997483,
+                                        "location": "Junju",
+                                        "location_confidence": {
+                                          "Junju": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.0958247775495,
+                                        "num_date_confidence": [
+                                          2016.0958247775495,
+                                          2016.0958247775495
+                                        ],
+                                        "raw_date": "2016-02-04"
+                                      },
+                                      "branch_length": 9.482e-05,
+                                      "clade": 92,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/JUN/072/2016_04-Feb-2016",
+                                      "yvalue": 13
+                                    }
+                                  ],
+                                  "clade": 93,
+                                  "muts": [],
+                                  "strain": "NODE_0000051",
+                                  "yvalue": 13.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00012079261314400062,
+                                    "date": "2016-01-18",
+                                    "div": 0.00824458929997482,
+                                    "location": "Junju",
+                                    "location_confidence": {
+                                      "Junju": 0.9988673807757652
+                                    },
+                                    "location_entropy": 0.010207506249321017,
+                                    "num_date": 2016.0492813141684,
+                                    "num_date_confidence": [
+                                      2015.9882837301427,
+                                      2016.0492813141684
+                                    ]
+                                  },
+                                  "branch_length": 0.00012079,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 9.308692676222516e-05,
+                                        "date": "2016-02-03",
+                                        "div": 0.00824458929997483,
+                                        "location": "Junju",
+                                        "location_confidence": {
+                                          "Junju": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.0958247775495,
+                                        "num_date_confidence": [
+                                          2016.0958247775495,
+                                          2016.0958247775495
+                                        ],
+                                        "raw_date": "2016-02-04"
+                                      },
+                                      "branch_length": 9.309e-05,
+                                      "clade": 94,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/JUN/071/2016_04-Feb-2016",
+                                      "yvalue": 12
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0,
+                                        "date": "2016-01-18",
+                                        "div": 0.00824458929997483,
+                                        "location": "Junju",
+                                        "location_confidence": {
+                                          "Junju": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.0492813141684,
+                                        "num_date_confidence": [
+                                          2016.0492813141684,
+                                          2016.0492813141684
+                                        ],
+                                        "raw_date": "2016-01-18"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 95,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/JUN/069/2016_18-Jan-2016",
+                                      "yvalue": 11
+                                    }
+                                  ],
+                                  "clade": 96,
+                                  "muts": [],
+                                  "strain": "NODE_0000052",
+                                  "yvalue": 11.5
+                                }
+                              ],
+                              "clade": 97,
+                              "muts": [
+                                "A409G"
+                              ],
+                              "strain": "NODE_0000016",
+                              "yvalue": 12.5
+                            }
+                          ],
+                          "clade": 98,
+                          "muts": [
+                            "G46A"
+                          ],
+                          "strain": "NODE_0000014",
+                          "yvalue": 14.0
+                        },
+                        {
+                          "aa_muts": {
+                            "HA1": [
+                              "N31S"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 8.094094180440253e-05,
+                            "date": "2015-12-12",
+                            "div": 0.0076563088886510595,
+                            "location": "Matsangoni",
+                            "location_confidence": {
+                              "Matsangoni": 0.992411842088527,
+                              "Mtondia": 0.007581563774817705
+                            },
+                            "location_entropy": 0.044660314613113775,
+                            "num_date": 2015.949841620729,
+                            "num_date_confidence": [
+                              2015.929904055725,
+                              2015.9552605961212
+                            ]
+                          },
+                          "branch_length": 8.094e-05,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "HA1": [
+                                  "T160K"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.00016054947585862882,
+                                "date": "2016-01-11",
+                                "div": 0.008244501632670362,
+                                "location": "Mtondia",
+                                "location_confidence": {
+                                  "Mtondia": 0.9999999999999999
+                                },
+                                "location_entropy": -9.99866855976916e-13,
+                                "num_date": 2016.0301163586585,
+                                "num_date_confidence": [
+                                  2016.0301163586585,
+                                  2016.0301163586585
+                                ],
+                                "raw_date": "2016-01-11"
+                              },
+                              "branch_length": 0.00016055,
+                              "clade": 99,
+                              "muts": [
+                                "C527A"
+                              ],
+                              "strain": "A/Kilifi/MTO/103/2016_11-Jan-2016",
+                              "yvalue": 10
+                            },
+                            {
+                              "aa_muts": {
+                                "HA1": [
+                                  "P227H"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.00017697658058150878,
+                                "date": "2016-01-14",
+                                "div": 0.008833222872303698,
+                                "location": "Matsangoni",
+                                "location_confidence": {
+                                  "Matsangoni": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2016.03832991102,
+                                "num_date_confidence": [
+                                  2016.03832991102,
+                                  2016.03832991102
+                                ],
+                                "raw_date": "2016-01-14"
+                              },
+                              "branch_length": 0.00017698,
+                              "clade": 100,
+                              "muts": [
+                                "C728A",
+                                "G1185A"
+                              ],
+                              "strain": "A/Kilifi/MAT/077/2016_14-Jan-2016",
+                              "yvalue": 9
+                            },
+                            {
+                              "aa_muts": {
+                                "HA1": [
+                                  "K83N"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.00017697658058150878,
+                                "date": "2016-01-14",
+                                "div": 0.00824453339177614,
+                                "location": "Matsangoni",
+                                "location_confidence": {
+                                  "Matsangoni": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2016.03832991102,
+                                "num_date_confidence": [
+                                  2016.03832991102,
+                                  2016.03832991102
+                                ],
+                                "raw_date": "2016-01-14"
+                              },
+                              "branch_length": 0.00017698,
+                              "clade": 101,
+                              "muts": [
+                                "A297C"
+                              ],
+                              "strain": "A/Kilifi/MAT/076/2016_14-Jan-2016",
+                              "yvalue": 8
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.479828245025329e-05,
+                                "date": "2015-12-22",
+                                "div": 0.008244423709990931,
+                                "location": "Matsangoni",
+                                "location_confidence": {
+                                  "Matsangoni": 0.9983722476901485,
+                                  "Mtondia": 0.0011198899803298787
+                                },
+                                "location_entropy": 0.013975385795470446,
+                                "num_date": 2015.9772407619544,
+                                "num_date_confidence": [
+                                  2015.9638724159333,
+                                  2016.076258157755
+                                ]
+                              },
+                              "branch_length": 5.48e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0003138278532303033,
+                                    "date": "2016-02-17",
+                                    "div": 0.008832707253961295,
+                                    "location": "Matsangoni",
+                                    "location_confidence": {
+                                      "Matsangoni": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.1341546885694,
+                                    "num_date_confidence": [
+                                      2016.1341546885694,
+                                      2016.1341546885694
+                                    ],
+                                    "raw_date": "2016-02-18"
+                                  },
+                                  "branch_length": 0.00031383,
+                                  "clade": 102,
+                                  "muts": [
+                                    "T255A"
+                                  ],
+                                  "strain": "A/Kilifi/MAT/082/2016_18-Feb-2016",
+                                  "yvalue": 7
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00017928763079140628,
+                                    "date": "2016-01-24",
+                                    "div": 0.008244423709990942,
+                                    "location": "Matsangoni",
+                                    "location_confidence": {
+                                      "Matsangoni": 0.9989596932045283
+                                    },
+                                    "location_entropy": 0.009733216507809776,
+                                    "num_date": 2016.06688457735,
+                                    "num_date_confidence": [
+                                      2016.0201177660967,
+                                      2016.1341546885694
+                                    ]
+                                  },
+                                  "branch_length": 0.00017929,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.000134540222438897,
+                                        "date": "2016-02-17",
+                                        "div": 0.008244423709990952,
+                                        "location": "Matsangoni",
+                                        "location_confidence": {
+                                          "Matsangoni": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.1341546885694,
+                                        "num_date_confidence": [
+                                          2016.1341546885694,
+                                          2016.1341546885694
+                                        ],
+                                        "raw_date": "2016-02-18"
+                                      },
+                                      "branch_length": 0.00013454,
+                                      "clade": 103,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/MAT/083/2016_18-Feb-2016",
+                                      "yvalue": 6
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.000134540222438897,
+                                        "date": "2016-02-17",
+                                        "div": 0.008244423709990952,
+                                        "location": "Matsangoni",
+                                        "location_confidence": {
+                                          "Matsangoni": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.1341546885694,
+                                        "num_date_confidence": [
+                                          2016.1341546885694,
+                                          2016.1341546885694
+                                        ],
+                                        "raw_date": "2016-02-18"
+                                      },
+                                      "branch_length": 0.00013454,
+                                      "clade": 104,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/MAT/081/2016_18-Feb-2016",
+                                      "yvalue": 5
+                                    }
+                                  ],
+                                  "clade": 105,
+                                  "muts": [],
+                                  "strain": "NODE_0000057",
+                                  "yvalue": 5.5
+                                }
+                              ],
+                              "clade": 106,
+                              "muts": [
+                                "G1572A"
+                              ],
+                              "strain": "NODE_0000027",
+                              "yvalue": 6.25
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 9.921342329285987e-07,
+                                "date": "2015-12-13",
+                                "div": 0.007656308888651069,
+                                "location": "Mtondia",
+                                "location_confidence": {
+                                  "Chasimba": 0.001430365090928969,
+                                  "Matsangoni": 0.4586740608213439,
+                                  "Mtondia": 0.5351989525821076,
+                                  "Sokoke": 0.0017028620013467873
+                                },
+                                "location_entropy": 0.7342236829626692,
+                                "num_date": 2015.9503376878456,
+                                "num_date_confidence": [
+                                  2015.9321034725647,
+                                  2016.0138535015546
+                                ]
+                              },
+                              "branch_length": 9.9e-07,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0004333424203386907,
+                                    "date": "2016-03-01",
+                                    "div": 0.007656308888651079,
+                                    "location": "Mtondia",
+                                    "location_confidence": {
+                                      "Mtondia": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2016.167008898015,
+                                    "num_date_confidence": [
+                                      2016.167008898015,
+                                      2016.167008898015
+                                    ],
+                                    "raw_date": "2016-03-01"
+                                  },
+                                  "branch_length": 0.00043334,
+                                  "clade": 107,
+                                  "muts": [],
+                                  "strain": "A/Kilifi/MTO/105/2016_01-Mar-2016",
+                                  "yvalue": 4
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00016941136392923436,
+                                    "date": "2016-01-12",
+                                    "div": 0.007656308888651079,
+                                    "location": "Mtondia",
+                                    "location_confidence": {
+                                      "Chasimba": 0.0014515146953005943,
+                                      "Matsangoni": 0.4561747549313788,
+                                      "Mtondia": 0.5376024295898263,
+                                      "Sokoke": 0.0017364449489761613
+                                    },
+                                    "location_entropy": 0.7344118676369716,
+                                    "num_date": 2016.0350433698102,
+                                    "num_date_confidence": [
+                                      2015.9621642181628,
+                                      2016.0512703975603
+                                    ]
+                                  },
+                                  "branch_length": 0.00016941,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.00011608711390445094,
+                                        "date": "2016-02-02",
+                                        "div": 0.007656308888651088,
+                                        "location": "Mtondia",
+                                        "location_confidence": {
+                                          "Mtondia": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2016.0930869267625,
+                                        "num_date_confidence": [
+                                          2016.0930869267625,
+                                          2016.0930869267625
+                                        ],
+                                        "raw_date": "2016-02-03"
+                                      },
+                                      "branch_length": 0.00011609,
+                                      "clade": 108,
+                                      "muts": [],
+                                      "strain": "A/Kilifi/MTO/104/2016_03-Feb-2016",
+                                      "yvalue": 3
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 6.181328062472222e-06,
+                                        "date": "2016-01-13",
+                                        "div": 0.007656308888651088,
+                                        "location": "Matsangoni",
+                                        "location_confidence": {
+                                          "Matsangoni": 0.9568356220103197,
+                                          "Mtondia": 0.04001850791278389
+                                        },
+                                        "location_entropy": 0.19473384654651932,
+                                        "num_date": 2016.0381340338415,
+                                        "num_date_confidence": [
+                                          2016.0062710186558,
+                                          2016.0574948665299
+                                        ]
+                                      },
+                                      "branch_length": 6.18e-06,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 3.8721665376773885e-05,
+                                            "date": "2016-01-21",
+                                            "div": 0.007656308888651098,
+                                            "location": "Matsangoni",
+                                            "location_confidence": {
+                                              "Matsangoni": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2016.0574948665299,
+                                            "num_date_confidence": [
+                                              2016.0574948665299,
+                                              2016.0574948665299
+                                            ],
+                                            "raw_date": "2016-01-21"
+                                          },
+                                          "branch_length": 3.872e-05,
+                                          "clade": 109,
+                                          "muts": [],
+                                          "strain": "A/Kilifi/MAT/079/2016_21-Jan-2016",
+                                          "yvalue": 2
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 3.8721665376773885e-05,
+                                            "date": "2016-01-21",
+                                            "div": 0.007656308888651098,
+                                            "location": "Matsangoni",
+                                            "location_confidence": {
+                                              "Matsangoni": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2016.0574948665299,
+                                            "num_date_confidence": [
+                                              2016.0574948665299,
+                                              2016.0574948665299
+                                            ],
+                                            "raw_date": "2016-01-21"
+                                          },
+                                          "branch_length": 3.872e-05,
+                                          "clade": 110,
+                                          "muts": [],
+                                          "strain": "A/Kilifi/MAT/078/2016_21-Jan-2016",
+                                          "yvalue": 1
+                                        }
+                                      ],
+                                      "clade": 111,
+                                      "muts": [],
+                                      "strain": "NODE_0000064",
+                                      "yvalue": 1.5
+                                    }
+                                  ],
+                                  "clade": 112,
+                                  "muts": [],
+                                  "strain": "NODE_0000063",
+                                  "yvalue": 2.25
+                                }
+                              ],
+                              "clade": 113,
+                              "muts": [],
+                              "strain": "NODE_0000062",
+                              "yvalue": 3.125
+                            }
+                          ],
+                          "clade": 114,
+                          "muts": [
+                            "A140G"
+                          ],
+                          "strain": "NODE_0000020",
+                          "yvalue": 6.5625
+                        }
+                      ],
+                      "clade": 115,
+                      "muts": [
+                        "G81A"
+                      ],
+                      "strain": "NODE_0000013",
+                      "yvalue": 11.78125
+                    }
+                  ],
+                  "clade": 116,
+                  "muts": [
+                    "G1389A"
+                  ],
+                  "strain": "NODE_0000005",
+                  "yvalue": 20.890625
+                }
+              ],
+              "clade": 117,
+              "muts": [
+                "A81G"
+              ],
+              "strain": "NODE_0000029",
+              "yvalue": 26.5703125
+            }
+          ],
+          "clade": 118,
+          "muts": [
+            "G205A",
+            "A411C",
+            "G473A",
+            "A638G",
+            "T696C",
+            "A1128G",
+            "C1347T"
+          ],
+          "strain": "NODE_0000032",
+          "yvalue": 30.28515625
+        }
+      ],
+      "clade": 119,
+      "muts": [],
+      "strain": "NODE_0000033",
+      "yvalue": 34.611328125
+    }
+  ],
+  "clade": 120,
+  "muts": [],
+  "strain": "NODE_0000003",
+  "yvalue": 47.8095703125
+}

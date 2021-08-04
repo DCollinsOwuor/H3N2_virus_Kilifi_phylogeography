@@ -69,8 +69,30 @@ This folder contains analysis scripts and analysis files used to generate chapte
 
 *	KHDSS_site_frequency.csv - File with data on sampled influenza viruses.
 
-*	Figure_3.1
+*	Figure_3.1.pdf
 
+2. 2_KHDSS_site_sequencing
+
+*	Site_sequencing.R - R script for plotting sequenced influenza A(H3N2) viruses over time.
+
+*	KHDSS_site_sequencing.csv - File with data on sequenced influenza viruses.
+
+*	Figure_3.2.pdf
+
+3. 3_KHDSS_sequencing_by_location
+
+*	Genetic_groups_by_location.R - R script for plotting genetic groups of A(H3N2) viruses
+by KHDSS location.
+
+*	Genetic_groups_by_location.csv - File with data on genetic groups of A(H3N2) viruses.
+
+*	Figure_3.3.pdf
+
+4. Tanglegrams
+
+* meta.json and tree.json files of 8 gene segments for each A(H3N2) virus genome from
+Kilifi for visualization of tanglegrams in Nextstrain (https://nextstrain.org) to identify
+reassortment events in A(H3N2) viruses.   
 
 ##	Figures
 
