@@ -46,7 +46,7 @@ selected <- metad[0]
 
 selected <- cbind(cbind(cbind(cbind(cbind(cbind(cbind(cbind(selected, pb2=metad$pb2),pb1=metad$pb1), pa=metad$pa), ha=metad$ha), np=metad$np), na=metad$na), m=metad$m), ns=metad$ns) 
 
-### Generate heat map for lineage classification:
+### Generate heatmap for lineage classification based on A(H3N2) virus genetic group:
 p2 <- (p)%>%gheatmap(selected, offset=0 ,width=0.4, font.size=3.5, colnames_angle=45, hjust=1) + scale_fill_manual(breaks=c("3C.2A", "3C.2A1b", "3C.2A2", "3C.2A3"), values=c("3C.2A"="Red", "3C.2A1b"="Green", "3C.2A2"="Cyan", "3C.2A3"="Blue")) 
 
 p2
