@@ -25,7 +25,7 @@ names(df)
 
 pdf("Figure_3.1.pdf", width = 4, height = 3)
 
-### How do the sampled influenza A viruses viruses vary over time?
+### How do the sampled influenza H3N2 viruses vary over time?
 plot_data <- df %>%
   melt(id.vars="site") %>%
   rename(Month_collected=variable, No_cases=value) %>%
