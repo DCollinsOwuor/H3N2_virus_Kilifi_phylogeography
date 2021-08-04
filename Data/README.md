@@ -21,13 +21,11 @@ of sequencing reads; number of influenza virus reads; Ct - PCR Ct value; date - 
 dates; and strain_accession - strain identity showing collection site and collection date
 for phylogeographical analyses.
 
-
 *	H3N2_global_2014-2016_genome_details.txt
 
 A list of global influenza H3N2 virus data from 2014-16 showing: strain - virus strain
 identity; accession - GISAID accession number; country - country of isolation; and
 continent - continent of isolation.
-
 
 2.	2_H3N2_Kilifi_phylogeography
 
@@ -37,7 +35,6 @@ Kilifi virus sequence data.
 * kilifi_coodinates.txt - Kilifi coordinates;
 
 * kilifi.geojson - Kilifi geojson file for phylogeographical analysis of Kilifi NGS data.
-
 
 3.	3_H3N2_Kilifi_BaTS
   
