@@ -6,7 +6,7 @@ Institution:	KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya
 
 Date Published: 30 August 2020
 
-# Analysis
+## Analysis
 
 This folder contains analysis scripts and analysis files used to generate chapter figures.
 
