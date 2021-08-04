@@ -8,13 +8,18 @@
 rm(list=ls())
 
 
-### Load required packages:
-knitr::opts_chunk$set(dev="CairoPNG")
-options(bitmapType = 'cairo')
-knitr::opts_chunk$set(echo = TRUE)
+### Install and load required packages:
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install("tidyverse")
+BiocManager::install("reshape2")
+BiocManager::install("extrafont")
+
 library(tidyverse)
 library(reshape2)
 library(extrafont)
+
 
 ### Load data:
 this.dir <- dirname(parent.frame(2)$ofile)
