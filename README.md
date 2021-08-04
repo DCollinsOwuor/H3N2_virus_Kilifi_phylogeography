@@ -32,7 +32,8 @@ phylogenetic and phylogeographical analyses.
 A list of 58 H3N2 virus (2015-2016) NGS data from Kenya showing: strain - virus strain
 identity; accession - GISAID accession number; site - location of isolation; reads - number
 of sequencing reads; number of influenza virus reads; Ct - PCR Ct value; date - collection
-dates; and strain_accession - strain ID showing collection site for analysis.
+dates; and strain_accession - strain identity showing collection site and collection date
+for phylogeographical analyses.
 
 
 *	H3N2_global_2014-2016_genome_details.txt
