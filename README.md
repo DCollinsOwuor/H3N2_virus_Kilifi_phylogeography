@@ -52,6 +52,9 @@ Kilifi virus sequence data.
 
 * kilifi.geojson - Kilifi geojson file for phylogeographical analysis of Kilifi NGS data.
 
+* H3N2_KHDSS_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_MCC.trees - 
+MCC tree from BEAST analyses for annotation of phylogenetic tree with virus lineages.
+
 
 3.	3_H3N2_Kilifi_BaTS
   
@@ -89,11 +92,18 @@ by KHDSS location.
 
 *	Figure_3.3.pdf
 
-4. Tanglegrams
+4. 4_Tanglegrams
 
 * meta.json and tree.json files of 8 gene segments for each A(H3N2) virus genome from
 Kilifi for visualization of tanglegrams in Nextstrain (https://nextstrain.org) to identify
-reassortment events in A(H3N2) viruses.   
+reassortment events in A(H3N2) viruses.
+
+5. 5_Lineage_annotation
+
+* KHDSS_lineages.R - R script for plotting viral lineages of A(H3N2) viruses by gene
+sequence to identify reassortant strains.
+
+* Lineage_metadata.txt - File with data on viral lineages of A(H3N2) viruses from Kilifi.  
 
 ##	Figures
 
