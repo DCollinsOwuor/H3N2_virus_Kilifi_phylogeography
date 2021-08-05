@@ -22,6 +22,9 @@ library(Biostrings)
 library(treeio)
 
 ### Import BEAST MCC.trees file:
+this.dir <- dirname(parent.frame(2)$ofile)
+setwd(this.dir)
+
 bt <- read.beast("H3N2_KHDSS_2015-2016_WGS_GTRG_UncorrRelax_LogNorm_Bayesian_SkyGrid_BSSVS_400M_MCC.trees")
 
 bt
